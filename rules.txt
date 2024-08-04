@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-04 18:09:17（北京时间）
+! Version: 2024-08-04 20:15:48（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17153
+! Total count: 17151
 
  ! 某些其他
  #晴雅规则
@@ -42,7 +42,6 @@
 # 淘宝相关
 # 皮皮虾无法访问问题
 # 知乎
-# 酷安去广告
 ## 163登陆
 ## 信息流及评论区广告
 ## 小米云服务备份
@@ -4232,7 +4231,6 @@
 127.0.0.1 sf19-fe-tos-sg.i18n-pglstatp.com
 127.0.0.1 sf26-tos.ttwebview.com
 127.0.0.1 sf3-be-pack.pglstatp-toutiao.com
-127.0.0.1 sf3-be-pack.pglstatp-toutiao.com 
 127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
 127.0.0.1 sf3-pitaya-tos.pstatp.com
 127.0.0.1 sf3-ttcdn-tos.pstatp.com
@@ -9045,7 +9043,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||d3b4y213ksr6z5.cloudfront.net^
 ||d3cegil552nnks.cloudfront.net^
 ||d3f3.xyz^
-||d3fulrozqmnmsg.cloudfront.net^$client='192.168.3.123'
+||d3fulrozqmnmsg.cloudfront.net^
 ||d3fulrozqmnmsg.cloudfront.net^$important
 ||d3g.qq.com^
 ||d3mbcglufa4kg4.cloudfront.net^
