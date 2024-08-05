@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-05 12:12:19（北京时间）
+! Version: 2024-08-05 14:14:12（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17123
+! Total count: 17128
 
  ! 某些其他
  #晴雅规则
@@ -589,6 +589,7 @@
 #bing
 #gamepass日志
 #ios app付费解锁
+#ios上的pixiv
 #ios毒奶
 #nextdns
 #oppo
@@ -681,6 +682,7 @@
 #极弧
 #某些网页的图片加载
 #浅笑
+#测速网站
 #淘宝一些功能加载
 #淘宝的一个主要域名
 #淘宝的一些功能加载
@@ -5354,6 +5356,7 @@
 @@||apis.google.com
 @@||apissl.ksapisrv.com^$important
 @@||apiwz.midukanshu.com^
+@@||app-api.pixiv.net^$important
 @@||app-measurement.com^$important
 @@||app.home.360.cn^$important
 @@||app.huabao.360.cn^$important
@@ -5412,6 +5415,7 @@
 @@||cdn-msp*.18comic.*^
 @@||cdn.ark.qq.com^$important
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
+@@||cdn.iocdn.cc^$important
 @@||cdn.jsdelivr.net^$important
 @@||cdn77-vid.xvideos-cdn.com^$important
 @@||cfg.imtt.qq.com^$important
@@ -5787,6 +5791,7 @@
 @@||nstool.netease.com^$important
 @@||o.actio.systems^$important
 @@||o2o.api.xiaomi.com^$important
+@@||oauth.secure.pixiv.net^$important
 @@||ohssr.cn^$important
 @@||onekey1.cmpassport.com^$important
 @@||openap-alps.51y5.net^$important
