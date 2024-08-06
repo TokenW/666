@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-06 20:17:59（北京时间）
+! Version: 2024-08-06 22:09:19（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17125
+! Total count: 17139
 
  ! 某些其他
  #晴雅规则
@@ -86,6 +86,7 @@
 ##.scaled-juicyads
 ##.ssr1
 ##.theme-dark > .ayx > a
+##.tp_advertising
 ##.width.imgs_1
 ##.zozoads
 ##7723游戏盒
@@ -98,9 +99,11 @@
 ##A[href*='-fghhjj.com']
 ##A[href*='//v.wanfumei.net']
 ##A[href*='/adjump/?']
+##A[href*='aducx.com']
 ##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
 ##A[href*='ds2f1sd31g.vip']
 ##A[href*='exuvu.com']
+##A[href*='ixeeo.com']
 ##A[href*='jdbfknsbkldns.com']
 ##A[href*='jialu6699h.vip']
 ##A[href*='xzzkx.com']
@@ -133,6 +136,8 @@
 ##A[href^='https://yongle008.com']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
+##A[rel='nofollow'][href='/play/player-2-1.php']
+##A[rel='nofollow'][href='/play/tv.php']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
 ##A[target='_blank'] > IMG[width='100%'][src*='.gif']
 ##A[target='_blank'][href*='/auth/register?code=']
@@ -379,6 +384,7 @@
 ##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
 ##[style='display: block; width: 100%; height: 125px; background-size: 100% 100%;']
 ##[style='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 49px; bottom: 132px;']
+##[style='position:absolute !important;padding:0px !important;margin:0px !important;width:100% !important;font-size:0px !important;line-height:0px !important;']
 ##[style='position:relative !important;padding:0px !important;margin:0px !important;line-height:1 !important;']
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##[style='top: 0vw; display: block;']
@@ -415,6 +421,7 @@
 ##body > [id][style*='width:100%'][style*='min-height:120px']
 ##body > a[id*='hudie_']
 ##body > div#bottommob.bottommob
+##body#chapterbody.novel_chapter [style='padding-top: 150px;']
 ##body#nr_body #appss
 ##body#nr_body [onclick='goAppHtml();']
 ##body#nr_body a[href*="/?utm_source="]
@@ -6858,6 +6865,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||2fzn4.xyz^
 ||2g9x9uf.cn^
 ||2jse6.icu^
+||2lb.cc^
 ||2pogg4c.cn^
 ||2proxy.de^
 ||2proxy.us^
@@ -12647,6 +12655,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||myproxy.link^
 ||myproxy.lol^
 ||myproxysite.org^
+||myqcloud.com/uploads/m3u8/*.ts$third-party
 ||myspaceunlock.com^
 ||mytunneling.com^
 ||myun.tenpay.com^
@@ -14196,6 +14205,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sange20221226.xyz^
 ||sanme2.taisantech.com^
 ||saoudiproxy.info^
+||sascwt.cn^
 ||sasdk.3g.qq.com^
 ||saturnvpn.com^
 ||savefrom.net^
@@ -14455,6 +14465,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sifyeldb.top^
 ||sigmob.cn^
 ||sigmob.com^
+||sikaq.top^
 ||simblotusitate.com^
 ||simi1234.com^
 ||simi2345.com^
@@ -15342,12 +15353,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ufgg55.xyz^
 ||ufovpn.io^
 ||ufreevpn.com^
+||ufvauj.cn^
 ||ug-data.mihoyo.com^
 ||ug.snssdk.com
 ||ug.snssdk.com^
 ||ugbjqwe.com^
 ||ugd.gtimg.com^
 ||ugdsoft.com^
+||ugugct.xyz^
 ||uhwnrfu.cn^
 ||uhyhdrh.cn^
 ||uibjhqwkl.com^
@@ -16490,6 +16503,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xcwzq.xyz^
 ||xdcs-collector.ximalaya.com^
 ||xddzshop.com^
+||xdns.asia^
 ||xecner.top^
 ||xeghes.fun^
 ||xegneils.com^
