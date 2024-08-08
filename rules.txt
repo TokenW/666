@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-08 10:31:32（北京时间）
+! Version: 2024-08-08 12:13:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17138
+! Total count: 17142
 
  ! 某些其他
  #晴雅规则
@@ -6151,6 +6151,7 @@ achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
 achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
 adblock-tester.com##.includeWrapper, .svelte-700pcr
 ali213.net##.placeholderforpromotion
+api.leiniao.com^
 apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
 apkpure.net,apkpure.com##DIV.js-ad-slot
@@ -6501,6 +6502,7 @@ unpkg.com/aladug/*.js
 v.qq.com##div[class*="mod_row_box mod_row_box_special"]
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
 v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
+vlyun.com^
 webtor.io##DIV.ad
 webtor.io##IFRAME[scrolling='no']
 webtor.io##[data-element='empty']
@@ -12924,6 +12926,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||o.zjjrlx4.com^
 ||o1.lt^
 ||o2.jyjyj.cn^
+||o2comm-prd.norton.com^
 ||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com.gds.alibabadns.com^
 ||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com^
 ||o2o-ad-dev.oss-cn-shanghai.aliyuncs.com^、
@@ -14588,6 +14591,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||spicevpn.com^
 ||spidervpn.org^
 ||splashimgbssdl.yun.kugou.com^
+||spoc.norton.com^
 ||sportsdream.top^
 ||spplamt.xyz^
 ||spys.one^
