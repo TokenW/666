@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-03 14:13:35（北京时间）
+! Version: 2024-08-10 00:11:45（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2276
+! Total count: 2282
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1044,6 +1044,7 @@
 @@||ali-gamezone.static.yximgs.com^
 @@||ali-ky.static.yximgs.com^
 @@||ali.static.yximgs.com^
+@@||ali2.a.yximgs.com^$important
 @@||alicdn.com^$important
 @@||alimama.com^
 @@||alissl.ucdl.pp.uc.cn^$important
@@ -1104,6 +1105,7 @@
 @@||apis.google.com
 @@||apissl.ksapisrv.com^$important
 @@||apiwz.midukanshu.com^
+@@||app-api.pixiv.net^$important
 @@||app-measurement.com^$important
 @@||app-monitor.ele.me^$important
 @@||app.chat.xiaomi.net^
@@ -1182,6 +1184,7 @@
 @@||cdn.ark.qq.com^$important
 @@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
+@@||cdn.iocdn.cc^$important
 @@||cdn.jsdelivr.net^$important
 @@||cdn.ynuf.aliapp.org^
 @@||cdn77-vid.xvideos-cdn.com^$important
@@ -1370,6 +1373,9 @@
 @@||f.51240.com^$important
 @@||f.bmcx.com^
 @@||f.bmcx.com^$important
+@@||f10.baidu.com^$important
+@@||f11.baidu.com^$important
+@@||f12.baidu.com^$important
 @@||f8.market.xiaomi.com^$important
 @@||facebook.com^$important
 @@||fanqienovel.com^
@@ -1424,7 +1430,6 @@
 @@||gift.douyucdn.cn^$important
 @@||gitee.com^
 @@||gitee.io^
-@@||github.com^$important
 @@||githubusercontent.com^$important
 @@||global-search.browser.miui.com^$important
 @@||gm.mmstat.com^
@@ -1737,6 +1742,7 @@
 @@||o.actio.systems^$important
 @@||o2o.api.xiaomi.com^
 @@||o2o.api.xiaomi.com^$important
+@@||oauth.secure.pixiv.net^$important
 @@||ohssr.cn^$important
 @@||onegoods.nosdn.127.net^
 @@||onekey1.cmpassport.com^$important
