@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-14 10:32:09（北京时间）
+! Version: 2024-08-14 12:12:04（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17289
+! Total count: 17291
 
  ! 某些其他
  #晴雅规则
@@ -5365,6 +5365,7 @@
 23.53.11.237 store.akamai.steamstatic.com
 23.53.11.246 cdn.akamai.steamstatic.com
 23.53.11.248 community.akamai.steamstatic.com
+27.0.0.1 aax-eu-retail-direct.amazon-adsystem.com
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
 51.ruyo.net###calendar-3
@@ -6405,6 +6406,7 @@ google.com##.ads
 google.com##.adsbygoogle
 google.com##.fbar
 google.com##.g.kno-result.rQUFld.mnr-c.g-blk
+greasyfork.org#@#body .ad
 guancha.cn##.g_header44
 guancha.cn##.g_swiper_container
 hanman/static/dist/ppm/js/main.js
@@ -6441,7 +6443,6 @@ ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https:/
 ifeng.com##div[class^="ad_"]
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 imgur.com##.Ad.sas.Smart
-ion-banner
 iplaysoft.com##.related_posts
 iplaysoft.com##.wwads-cn.wwads-horizontal
 iqiyi.com##.header__ele
@@ -8922,6 +8923,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||clientdns3.softcom.net^
 ||clientlog.music.163.com^
 ||clientlog3.music.163.com^
+||clkwnl.xyz^
 ||clldirectasianew.club^
 ||cloaker.ca^
 ||cloaker.us^
