@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-14 20:18:17（北京时间）
+! Version: 2024-08-14 22:09:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17291
+! Total count: 17302
 
  ! 某些其他
  #晴雅规则
@@ -1654,6 +1654,7 @@
 127.0.0.1 api-share.mob.com
 127.0.0.1 api-shoulei-ssl.xunlei.com
 127.0.0.1 api-trace.kajicam.com
+127.0.0.1 api-upgrade.coocaa.wasu.tv
 127.0.0.1 api-verify.dutils.com
 127.0.0.1 api-verify.hiaiabc.com
 127.0.0.1 api.ad.admobile.top
@@ -1666,6 +1667,7 @@
 127.0.0.1 api.aiclk.com
 127.0.0.1 api.analy.mob.com
 127.0.0.1 api.anythinktech.com
+127.0.0.1 api.app.skysrt.com
 127.0.0.1 api.appcenter.ms
 127.0.0.1 api.appjiagu.com
 127.0.0.1 api.applink.mob.com
@@ -1683,6 +1685,7 @@
 127.0.0.1 api.data.jiguang.cn
 127.0.0.1 api.data.jpush.cn
 127.0.0.1 api.developer.xiaomi.com
+127.0.0.1 api.device.skysrt.com
 127.0.0.1 api.df.mob.com
 127.0.0.1 api.dizhensubao.getui.com
 127.0.0.1 api.dizhensubao.igexin.com
@@ -1749,6 +1752,8 @@
 127.0.0.1 api.tw06.xlmc.sec.miui.com
 127.0.0.1 api.u.mob.com
 127.0.0.1 api.umeng.com
+127.0.0.1 api.upgrade.skysrt.com
+127.0.0.1 api.upgrade.skysrt.com  
 127.0.0.1 api.utag.mob.com
 127.0.0.1 api.verification.jpush.cn
 127.0.0.1 api.verify.mob.com
@@ -1787,6 +1792,7 @@
 127.0.0.1 apk-upgrade.afunapp.com
 127.0.0.1 apk-upgrade.qingteng-inc.com
 127.0.0.1 apk.shouji.koowo.com
+127.0.0.1 apk.sky.fs.skysrt.com
 127.0.0.1 apm.umeng.com
 127.0.0.1 apm.volccdn.com
 127.0.0.1 apm3.tingyun.com
@@ -2418,6 +2424,7 @@
 127.0.0.1 dashboard.branch.io
 127.0.0.1 data-collector.soulapp.cn
 127.0.0.1 data-connector-server.soulapp.cn
+127.0.0.1 data-hoisin.coocaa.wasu.tv
 127.0.0.1 data-id.ads.oppomobile.com
 127.0.0.1 data-optout-service.uca.cloud.unity3d.com
 127.0.0.1 data.ads.oppomobile.com
@@ -3331,6 +3338,7 @@
 127.0.0.1 log.qchannel01.cn
 127.0.0.1 log.qchannel03.cn
 127.0.0.1 log.sina.cn
+127.0.0.1 log.skysrt.com
 127.0.0.1 log.sms.mob.com
 127.0.0.1 log.snssdk.com.bytedns.net
 127.0.0.1 log.spotify.com
@@ -3894,6 +3902,7 @@
 127.0.0.1 pdown.stat.360safe.com
 127.0.0.1 perf-events.cloud.unity3d.com
 127.0.0.1 perf.mmstat.com
+127.0.0.1 pfg.coocaa.wasu.tv
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 pg-ad-b1.ws.126.net
 127.0.0.1 pg-ad-b2.ws.126.net
@@ -4015,6 +4024,7 @@
 127.0.0.1 push.mob.com
 127.0.0.1 push.mobile.kugou.com
 127.0.0.1 push.pgl.qq.com
+127.0.0.1 push.skysrt.com
 127.0.0.1 push.umeng.com
 127.0.0.1 push.xdrig.com
 127.0.0.1 push.yuedu.163.com
@@ -4903,6 +4913,8 @@
 127.0.0.1 update.sdk.jiguang.cn
 127.0.0.1 update.wtzw.com
 127.0.0.1 update0.aiclk.com
+127.0.0.1 update01.skyworth-cloud.com
+127.0.0.1 update01.skyworth-cloud.com.wswebpic.com
 127.0.0.1 updatecenter.qq.com
 127.0.0.1 updatepage.kuwo.cn
 127.0.0.1 upgrade.m.tv.sohu.com
@@ -9296,7 +9308,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dcvbnzss.xyz^
 ||dcvefz.xyz^
 ||dcxdtp.com^
-||dd-static.jd.com^
 ||dd112233dd.com^
 ||dd667788dd.com^
 ||dd778899dd.com^
