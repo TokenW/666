@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-14 08:44:55（北京时间）
+! Version: 2024-08-14 10:32:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17288
+! Total count: 17289
 
  ! 某些其他
  #晴雅规则
@@ -6441,6 +6441,7 @@ ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https:/
 ifeng.com##div[class^="ad_"]
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 imgur.com##.Ad.sas.Smart
+ion-banner
 iplaysoft.com##.related_posts
 iplaysoft.com##.wwads-cn.wwads-horizontal
 iqiyi.com##.header__ele
