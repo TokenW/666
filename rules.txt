@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-16 10:31:16（北京时间）
+! Version: 2024-08-16 14:13:23（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17302
+! Total count: 17301
 
  ! 某些其他
  #晴雅规则
@@ -2522,14 +2522,11 @@
 127.0.0.1 dl.g.youku.com
 127.0.0.1 dl.hdslb.com
 127.0.0.1 dl.txcdns.com
-127.0.0.1 dl2.bav.baidu.com
 127.0.0.1 dl_dir.qq.com
 127.0.0.1 dl_dir2.qq.com
-127.0.0.1 dldir1.qq.com
 127.0.0.1 dldir1v6.qq.com
 127.0.0.1 dldir2.qq.com
 127.0.0.1 dldir3.qq.com
-127.0.0.1 dldir4.qq.com
 127.0.0.1 dldir5.qq.com
 127.0.0.1 dlied6.qq.com
 127.0.0.1 dload.qd.qingting.fm
@@ -6519,6 +6516,7 @@ limbopro.xyz###disqus_thread
 limbopro.xyz##.grecaptcha-badge
 ltssjy.qq.com^
 luoqiuzw.com##DIV[id^="a-loading-"]
+m
 m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 m.douban.com##div.center [style*='padding: 4px;']
 m.guancha.cn##.g_header.go-to-app
@@ -14650,6 +14648,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||site2unblock.com^
 ||siteblockedbypass.com^
 ||siteget.net^
+||sitenable.ch^
 ||sitenable.com^
 ||sitenable.in^
 ||sitenable.org^
