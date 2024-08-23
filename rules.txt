@@ -2,9 +2,9 @@
 ! Title: 去广告规则，酷安反馈反馈
 ! Homepage: https://github.com/qq5460168/666
 ! Expires: 12 Hours
-! Version: 2024-08-24 00:12:53（北京时间）
+! Version: 2024-08-24 02:12:46（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 17667
+! Total count: 17666
 
  ! 某些其他
  #晴雅规则
@@ -5395,7 +5395,6 @@
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
 91porny.com/api/getPos?jspath=/
-9b.inmobi.com
 :8007/*/*?is_not=
 :8008/*/*?is_not=
 :8891/v*$third-party
