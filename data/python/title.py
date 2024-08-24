@@ -19,12 +19,12 @@ for file_path in file_list:
     line_count = content.count('\n') + 1
 
     # 在文件顶部插入内容
-    new_content = f"[个人合并 2.0]\n" \
-                  f"! Title: 去广告规则，酷安反馈反馈\n" \
-                  f"! Homepage: https://github.com/qq5460168/666\n" \
+    new_content = f"[个人合并 2.1]\n" \
+                  f"! Title: 去广告规则\n" \
+                  f"! Homepage: https://github.com/TokenW/666\n" \
                   f"! Expires: 12 Hours\n" \
                   f"! Version: {beijing_time}（北京时间）\n" \
-                  f"! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列\n" \
+                  f"! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列\n" \
                   f"! Total count: {line_count}\n" \
                   f"{content}"
 
