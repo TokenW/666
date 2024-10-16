@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2024-10-16 14:15:10（北京时间）
+! Version: 2024-10-16 16:14:28（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2522
+! Total count: 2517
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1052,7 +1052,6 @@
 @@||ads.privacy.qq.com^
 @@||ads.raidrive.com^
 @@||ads.taboola.com^
-@@||ads.tdbank.com^
 @@||adsmind.gdtimg.com^$important
 @@||adstats.tencentmusic.com^$important
 @@||adv.bloop.info^
@@ -1440,7 +1439,6 @@
 @@||effect.snssdk.com^
 @@||email.awscloud.com^
 @@||email.elitedangerous.com^
-@@||email.procook.co.uk^
 @@||ename.com.cn^
 @@||ename.net^
 @@||enrichgw.10010.com^$important
@@ -2175,7 +2173,6 @@
 @@||spclient.wg.spotify.com^$important
 @@||speech.platform.bing.com^$important
 @@||speed.live.360.cn^
-@@||sponsor.nitropay.com^
 @@||spotify.com^$important
 @@||spotifycdn.net^$important
 @@||sqdd.myapp.com^
@@ -2252,12 +2249,10 @@
 @@||theme.heytapimage.com^$important
 @@||thirdwx.qlogo.cn^$important
 @@||thm.market.xiaomi.com^$important
-@@||thumbnail.thench.net^
 @@||tianqi.2345.com^
 @@||tianshu.gtimg.cn^
 @@||tinyurl.com^
 @@||tj.gov.cn^
-@@||tlaol.com^
 @@||tms.capitalone.com^
 @@||tnc11-bjlgy.zijieapi.com^
 @@||tnc16-platform-useast1a.tiktokv.com^$important
