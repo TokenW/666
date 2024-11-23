@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2024-11-24 00:13:03（北京时间）
+! Version: 2024-11-24 02:14:04（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2532
+! Total count: 2540
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1092,6 +1092,7 @@
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^$important
 @@||api-cmnt.wtzw.com^$important
 @@||api-game.meizu.com^$important
+@@||api-pda.jdl.com^$important
 @@||api-shoulei-ssl.xunlei.com^
 @@||api-unionid.meituan.com^$important
 @@||api.account.xiaomi.com^$important
@@ -1107,6 +1108,7 @@
 @@||api.installer.xiaomi.com^
 @@||api.io.mi.com^$important
 @@||api.iplay.163.com^
+@@||api.jdl.com^$important
 @@||api.jr.mi.com^$important
 @@||api.karte.io^
 @@||api.ke.com^
@@ -1310,6 +1312,7 @@
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.platform.hicloud.com^$important
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
+@@||consumerapp-1251779293.image.myqcloud.com^$important
 @@||content-autofill.googleapis.com^$important
 @@||core.tantanapp.com^$important
 @@||counter-strike.net^
@@ -1412,6 +1415,7 @@
 @@||drive.quark.cn^$important
 @@||drive.uc.cn^$important
 @@||dsp.fcbox.com^$important
+@@||dualstack-a.apilocate.amap.com^$important
 @@||duapps.com^$important
 @@||duckduckgo.com^$important
 @@||duiba.com.cn^
@@ -1450,6 +1454,7 @@
 @@||epochtimes.com^
 @@||erebor.douban.com^
 @@||ereg.wip3.adobe.com^
+@@||erp.jd.com^$important
 @@||err.taobao.com^
 @@||etl-xlmc-ssl.sandai.net^
 @@||etl-xlmc-ssl.sandai.net^$important
@@ -1560,6 +1565,7 @@
 @@||h5.m.taobao.com^$important
 @@||h5.mse.360.cn^
 @@||h5.vivo.com.cn^
+@@||h5api.m.taobao.com^$important
 @@||hao.7654.com^
 @@||hao123.com^$important
 @@||haohuo.jinritemai.com^ 
@@ -1759,6 +1765,7 @@
 @@||logo.clearbit.com^
 @@||logs.game.qq.com^$important
 @@||lol.qq.com^$important
+@@||lop-proxy.jd.com^$important
 @@||lpl.qq.com^$important
 @@||lsposed.org^
 @@||luna-dict-community.nosdn.127.net^
@@ -1981,6 +1988,7 @@
 @@||pbs.twimg.com^$important
 @@||pcfg.wps.cn^
 @@||pcvideoaliyun.titan.mgtv.com^$important#
+@@||pda.jd.com^$important
 @@||pdc.micloud.xiaomi.net^$important
 @@||pepsico.com.cn^
 @@||pgdt.gtimg.cn^$important
