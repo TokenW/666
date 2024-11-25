@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2024-11-25 12:14:14（北京时间）
+! Version: 2024-11-25 14:16:36（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2547
+! Total count: 2552
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1030,6 +1030,7 @@
 @@||acs.youku.com^$important
 @@||act.vip.iqiyi.com^
 @@||act.vip.iqiyi.com^$important
+@@||act.zhuanzhuan.com^$important
 @@||action.metaffiliation.com^
 @@||activity.tuiapple.com^$important
 @@||ad-gone.com^
@@ -1487,9 +1488,11 @@
 @@||fastconn-api.iot.360.cn^
 @@||fc3tn.baidu.com^
 @@||fc5tn.baidu.com^
+@@||feconf.zhuanzhuan.com^$important
 @@||feed-image.baidu.com^
 @@||feed.adrelayer.com^
 @@||feedback.miui.com^$important
+@@||feentry.zhuanzhuan.com^$important
 @@||fexclick.baidu.com^
 @@||fga0.market.xiaomi.com^$important
 @@||fgc0.market.xiaomi.com^$important
@@ -1570,6 +1573,7 @@
 @@||h5.mse.360.cn^
 @@||h5.vivo.com.cn^
 @@||h5api.m.taobao.com^$important
+@@||h5offline.zhuanzhuan.com^$important
 @@||hao.7654.com^
 @@||hao123.com^$important
 @@||haohuo.jinritemai.com^ 
@@ -2155,6 +2159,7 @@
 @@||securemvt.apple.com.cn^$important
 @@||security.browser.miui.com^
 @@||self.events.data.microsoft.com^$important
+@@||sentry.zhuanzhuan.com^$important
 @@||settings-win.data.microsoft.com^
 @@||sf0.market.xiaomi.com^$important
 @@||sf3-pitaya-tos.pstatp.com^$important
