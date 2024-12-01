@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2024-12-01 22:09:16（北京时间）
+! Version: 2024-12-02 00:12:37（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2557
+! Total count: 2578
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1091,6 +1091,7 @@
 @@||ap6.ssl.msdk.qq.com^$important
 @@||ap6.ssl.msdk.qq.com^$important,app=com.tencent.tmgp.sgame
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^$important
+@@||apd-pcdnwxlogin.teg.tencent-cloud.net^
 @@||api-cmnt.wtzw.com^$important
 @@||api-game.meizu.com^$important
 @@||api-pda.jdl.com^$important
@@ -1115,6 +1116,7 @@
 @@||api.jr.mi.com^$important
 @@||api.karte.io^
 @@||api.ke.com^
+@@||api.kingdata.ksyun.com^
 @@||api.kuaishouzt.com^
 @@||api.kuaishouzt.com^$important
 @@||api.kwaizt.com^
@@ -1213,7 +1215,7 @@
 @@||broadcastlv.chat.bilibili.com^
 @@||broccoli.uc.cn^$important
 @@||browser.360.cn^$important
-@@||browser.events.data.microsoft.com^ 
+@@||browser.events.data.microsoft.com^
 @@||browser.events.data.msn.com^$important
 @@||bs-origin.pull.yximgs.com^
 @@||btrace.qq.com^$important
@@ -1334,6 +1336,7 @@
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cstaticdun.126.net^
 @@||cstm.baidu.com^ 
+@@||ctldl.windowsupdate.com^
 @@||ctrip.com^$important
 @@||cutcaptcha.com^
 @@||d*-magic.static.yximgs.com^
@@ -1411,6 +1414,7 @@
 @@||download.uc.cn^
 @@||downpack.baidu.com^$important
 @@||downum.game.uc.cn^$important
+@@||downv6.qq.com^$important
 @@||dp.im.weibo.cn^
 @@||dp.push.dc.360.cn^
 @@||dp3.play.aiseet.atianqi.com^
@@ -1566,6 +1570,7 @@
 @@||gw-paopao.iqiyi.com^$important
 @@||gw.alicdn.com^
 @@||gw.alicdn.com^$important
+@@||gw5.push.mcp.weibo.cn^
 @@||h-adashx.ut.taobao.com^
 @@||h-adashx.ut.taobao.com^$important
 @@||h.trace.qq.com^
@@ -1602,6 +1607,7 @@
 @@||href.li^
 @@||hsforms.net^
 @@||httpdns.alicdn.com^
+@@||httpdns.bcelive.com^
 @@||httpdns.c.cdnhwc2.com^
 @@||hudong.alicdn.com^$important
 @@||huichuan-mc.sm.cn^
@@ -1697,6 +1703,7 @@
 @@||jump.luna.58.com^$important
 @@||jumpluna.58.com^$important
 @@||jwpcdn.com^
+@@||kadmimage.biz.weibo.com^
 @@||kdocs.cn^$important
 @@||knet.cn^
 @@||knowsex.net^
@@ -1771,6 +1778,7 @@
 @@||login.2345.com^
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
 @@||login.gaijin.net^
+@@||login.live.com^
 @@||login.sendpulse.com^
 @@||logo.clearbit.com^
 @@||logs.game.qq.com^$important
@@ -2153,9 +2161,12 @@
 @@||sdk.live.360.cn^
 @@||sdk.open.talk.gepush.com^
 @@||sdk.open.talk.gepush.com^$important
+@@||sdkaction.biz.weibo.com^
 @@||sdkapi.kookong.com^
 @@||sdkapi.sms.mob.com^
+@@||sdkclick.biz.weibo.com^
 @@||sdkconfig.ad.xiaomi.com^$important
+@@||sdkmonitor.biz.weibo.com^
 @@||se.360.cn^
 @@||search.kuwo.cn^
 @@||sec-cdn.static.xiaomi.net^$important
@@ -2417,8 +2428,17 @@
 @@||vps.uc.cn^
 @@||vv.video.qq.com^$important
 @@||w.pandora.xiaomi.com^$important
+@@||w1-live.kskwai.com^
+@@||w1-pro.kskwai.com^
+@@||w1.kskwai.com^
 @@||w2-live.gskwai.com^
+@@||w2-live.kskwai.com^
+@@||w2-pro.kskwai.com^
 @@||w2.kskwai.com^ 
+@@||w3-pro.kskwai.com^
+@@||w3.kskwai.com^
+@@||w4-pro.kskwai.com^
+@@||w5-pro.kskwai.com^
 @@||w8.com.cn^
 @@||waapdg.jd.com^$important
 @@||waimai-guide.ele.me^$important
@@ -2429,6 +2449,7 @@
 @@||wap.cmpassport.com^$important
 @@||wappass.baidu.com^
 @@||wb.amap.com^$important
+@@||wbapp.mobile.sina.cn^
 @@||wbapp.mobile.sina.cn^$important
 @@||we.tl^
 @@||we.tl^$important
