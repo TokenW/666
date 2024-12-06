@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2024-12-07 00:14:02（北京时间）
+! Version: 2024-12-07 02:15:44（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2580
+! Total count: 2593
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1563,6 +1563,7 @@
 @@||gsp0.baidu.com^
 @@||gstatic.com
 @@||guanjia.qq.com^
+@@||guid.tpns.tencent.com^
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
 @@||gvt1.com^$important
@@ -1609,6 +1610,7 @@
 @@||httpdns.alicdn.com^
 @@||httpdns.bcelive.com^
 @@||httpdns.c.cdnhwc2.com^
+@@||huatuo.weiyun.com^
 @@||hudong.alicdn.com^$important
 @@||huichuan-mc.sm.cn^
 @@||huichuan.sm.cn^
@@ -1681,6 +1683,7 @@
 @@||is.snssdk.com^
 @@||is.snssdk.com^$important
 @@||is1-ssl.mzstatic.com^$important
+@@||isdspeed.qq.com^
 @@||isee.weishi.qq.com^$important
 @@||issuecdn.baidupcs.com^
 @@||issuecdn.baidupcs.com^$important
@@ -2003,6 +2006,7 @@
 @@||passport.bobo.com^
 @@||passport.iqiyi.com^$important
 @@||passport.youdao.com^$important
+@@||pay.wsds.cn^
 @@||payapp.weixin.qq.com^
 @@||payapp.weixin.qq.com^$important
 @@||pbaccess.video.qq.com^$important
@@ -2024,6 +2028,7 @@
 @@||pic.mairuan.com^$important
 @@||pic2.zhimg.com^
 @@||pics.porn300.com^
+@@||pingfore.qq.com^
 @@||pingfore.qq.com^$important
 @@||pinghot.qq.com^$important
 @@||pingjs.qq.com^
@@ -2065,6 +2070,7 @@
 @@||pubmsg.meituan.com^
 @@||pull2.91cloud.net^$important
 @@||puma.112.2o7.net^
+@@||punch.p2p.qq.com^
 @@||puser.funshion.com^
 @@||push.apple.com^
 @@||push.m.youku.com^
@@ -2099,6 +2105,7 @@
 @@||qzone-web-v2.cdn-go.cn^$important
 @@||qzonestyle.gtimg.cn^
 @@||qzonestyle.gtimg.cn^$important
+@@||qzs.qq.com^
 @@||r3---sn-a5mlrn7r.googlevideo.com^$important
 @@||r4---sn-a5meknek.googlevideo.com^$important
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
@@ -2116,6 +2123,7 @@
 @@||redirect.disqus.com^
 @@||refer.discover.com^
 @@||remembering.ca^
+@@||report.huatuo.qq.com^
 @@||report.passport.360.cn^
 @@||reports.adguard.com^
 @@||res.ads.nicovideo.jp^
@@ -2220,6 +2228,7 @@
 @@||spclient.wg.spotify.com^$important
 @@||speech.platform.bing.com^$important
 @@||speed.live.360.cn^
+@@||sphinx.tongdun.net^
 @@||spotify.com^$important
 @@||spotifycdn.net^$important
 @@||sqdd.myapp.com^
@@ -2246,6 +2255,7 @@
 @@||static.qiyi.com^$important
 @@||static.sensorsdata.cn^
 @@||static.softlayer.com^
+@@||static.tongdun.net^
 @@||static3.iask.cn^
 @@||statics.itc.cn^$important
 @@||staticsns.cdn.bcebos.com^
@@ -2286,6 +2296,7 @@
 @@||t7.baidu.com^$important
 @@||tags.crwdcntrl.net^
 @@||tagtic.cn^
+@@||tajs.qq.com^
 @@||tangram.e.qq.com^$important
 @@||taobao.com^ 
 @@||tbm-auth.alicdn.com^$important
@@ -2416,6 +2427,7 @@
 @@||vectorsdk.map.qq.com^$important
 @@||venus.yhd.com^$important
 @@||verify.cmpassport.com^$important
+@@||video.dispatch.tc.qq.com^
 @@||video2.pddpic.com^$important
 @@||video3.pddpic.com^$important
 @@||view.inews.qq.com^$important
@@ -2428,6 +2440,7 @@
 @@||volcengine-kdocs-cache.wpscdn.cn^$important
 @@||vpic.video.qq.com^
 @@||vps.uc.cn^
+@@||vv.video.qq.com^
 @@||vv.video.qq.com^$important
 @@||w.pandora.xiaomi.com^$important
 @@||w1-live.kskwai.com^
