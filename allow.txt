@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-02-28 20:20:47（北京时间）
+! Version: 2025-02-28 22:10:47（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3241
+! Total count: 3276
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1000,6 +1000,7 @@
 @@||17u.cn^
 @@||17u.cn^$important
 @@||1sapp.com^
+@@||1tian.kuaishou.com^
 @@||316.coolapk1s.com^
 @@||360.cn^
 @@||360.cn^$important
@@ -1009,6 +1010,7 @@
 @@||3975.com^
 @@||3d-platform-pro.obs.cn-south-1.myhuaweicloud.com^$important
 @@||3g.163.com^
+@@||3g.ali213.net^
 @@||3gimg.qq.com^$important
 @@||40017.cn^
 @@||40017.cn^$important
@@ -1016,6 +1018,7 @@
 @@||79423.analytics.edgekey.net^
 @@||7x24s.com^
 @@||96956.com.cn^$important
+@@||a.9game.cn^
 @@||a.adwolf.ru^
 @@||a.sellpoint.net^
 @@||a.video.qq.com^$important
@@ -1031,8 +1034,10 @@
 @@||ac.dun.163yun.com^
 @@||ac.ebis.ne.jp^
 @@||access1.tpns.tencent.com^
+@@||account.dianping.com^
 @@||account.onethingpcs.com^
 @@||account.wps.cn^$important
+@@||accountapi.dianping.com^
 @@||accscdn.cp12.ott.cibntv.net^
 @@||accscdn.m.taobao.com^$important
 @@||acs-m.daraz.com.bd^
@@ -1094,6 +1099,7 @@
 @@||ali-ky.static.yximgs.com^
 @@||ali.static.yximgs.com^
 @@||ali.static.yximgs.com^$important
+@@||ali2.a.kwimgs.com^
 @@||ali2.a.yximgs.com^$important
 @@||alicdn.com^$important
 @@||alimama.com^
@@ -1294,6 +1300,7 @@
 @@||buyad.bi-xenon.cn^
 @@||bytedanceapi.com^
 @@||byteimg.com.queniusy.com^
+@@||c.58cdn.com.cn^
 @@||c.duomai.com^$important
 @@||c.evidon.com^
 @@||c.gj.qq.com^
@@ -1307,6 +1314,7 @@
 @@||c1.skype.com^
 @@||cache.ip138.com^
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
+@@||callback.58.com^
 @@||campus.163.com^
 @@||captcha.su.baidu.com^
 @@||captive.apple.com^$important
@@ -1546,6 +1554,7 @@
 @@||dfcfw.com^
 @@||dftoutiao.com^
 @@||di.phncdn.com^
+@@||dianfeijisuanqi.bmcx.com^
 @@||dig.bdurl.net^$important
 @@||dig.lianjia.com^
 @@||dig.lianjia.com^$important
@@ -2028,6 +2037,7 @@
 @@||kyaru-concat.now.sh^$important
 @@||l.qq.com^
 @@||lanzous.com^$important
+@@||laohuangli.bmcx.com^
 @@||laomaotao.net^
 @@||lc-cn-n1-shared.com^
 @@||learn.khanacademy.org^
@@ -2129,11 +2139,13 @@
 @@||luna-dict-community.nosdn.127.net^
 @@||lx.meituan.net^
 @@||m.163.com^
+@@||m.17173.com^
 @@||m.360.cn^
 @@||m.360buyimg.com^$important
 @@||m.360video.so.com^
 @@||m.bilibili.com^
 @@||m.ctrip.com^
+@@||m.dianping.com^
 @@||m.ds.163.com^
 @@||m.hao123.com^$important
 @@||m.intl.taobao.com^$important
@@ -2206,6 +2218,7 @@
 @@||me-api.jd.com^
 @@||med-fe.cdn.bcebos.com^
 @@||media-consumer365.desigual.com^
+@@||media.9game.cn^
 @@||mediation.adnxs.com^$important
 @@||meiqia.com^
 @@||meizu.coapi.moji.com^
@@ -2311,9 +2324,11 @@
 @@||netease.com^$important
 @@||netmon.stat.360safe.com^
 @@||new.vip.weibo.cn^
+@@||newgame.17173.com^
 @@||news-app.abumedia.yql.yahoo.com^
 @@||news-l.play.aiseet.atianqi.com^
 @@||news.163.com^
+@@||news.17173.com^
 @@||news.sina.com.cn^
 @@||nileapi.market.xiaomi.com^$import
 @@||nimg.ws.126.net^
@@ -2359,6 +2374,7 @@
 @@||oracle-mail.com^$important
 @@||orange-dc.alibaba.com^$important
 @@||orbit.jd.com^
+@@||osp.meituan.net^
 @@||oss-asq-static.11222.cn^$important
 @@||ossapi.baidu.com^
 @@||oth.eve.mdt.qq.com^ 
@@ -2497,9 +2513,13 @@
 @@||pic.imgdb.cn
 @@||pic.mairuan.com^$important
 @@||pic.rmb.bdstatic.com^$important
+@@||pic2.58cdn.com.cn^
 @@||pic2.zhimg.com^
+@@||pic4.58cdn.com.cn^
+@@||pic5.58cdn.com.cn^
 @@||pic640.weishi.qq.com^$important
 @@||pic7.iqiyipic.com^
+@@||pic8.58cdn.com.cn^
 @@||picasso-static.xiaohongshu.com^
 @@||pics.porn300.com^
 @@||pifa.pinduoduo.com^
@@ -2662,6 +2682,7 @@
 @@||s.yimg.com^
 @@||s.youtube.com^
 @@||s0.2mdn.net^
+@@||s0.meituan.net^
 @@||s1.hdslb.com^
 @@||s1.kskwai.com^$important
 @@||s1.meituan.net^
@@ -2723,11 +2744,13 @@
 @@||sgqcvfjvr.onet.pl^
 @@||share.myfreecams.com^$important
 @@||sharechain.qq.com^$important
+@@||shenfenzheng.bmcx.com^
 @@||shminorshort.weixin.qq.com^
 @@||shmmsns.qpic.cn^$important
 @@||shop.alimama.com^
 @@||short.weixin.qq.com^$important
 @@||shouji.360.cn^
+@@||shouji.bmcx.com^
 @@||shouji.sogou.com^ 
 @@||shouji.sougou.com^
 @@||simg.sinajs.cn^$important
@@ -2797,6 +2820,7 @@
 @@||static-tapad.tapdb.net^
 @@||static.122.gov.cn^$important
 @@||static.360buyimg.com^
+@@||static.ali213.net^
 @@||static.biligame.com^
 @@||static.e.189.cn^$important
 @@||static.hdslb.com^
@@ -2899,6 +2923,7 @@
 @@||tongji.flash.cn^$important
 @@||tool.lu^
 @@||tools.3g.qq.com^
+@@||top.17173.com^
 @@||torimochi.line-apps.com^
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^
@@ -2934,6 +2959,7 @@
 @@||twitter.com^
 @@||tx-kmpaudio.pull.yximgs.com^
 @@||tx163.com^$important
+@@||tx2.a.kwimgs.com^
 @@||tybook.taoyuewenhua.net^
 @@||tz.sec.xiaomi.com^
 @@||u.163.com^
@@ -3063,6 +3089,7 @@
 @@||wan.baidu.com^
 @@||wan.douyu.com^
 @@||wangpai.2345.cn^
+@@||wannianrili.bmcx.com^
 @@||wap.cmpassport.com^$important
 @@||wappass.baidu.com^
 @@||wb.amap.com^$important
@@ -3112,21 +3139,27 @@
 @@||www.123pan.com^$important
 @@||www.126.com^
 @@||www.163.com^
+@@||www.17173.com^
 @@||www.2345.com^
 @@||www.360kuai.com^$important
 @@||www.360simg.com^
+@@||www.9game.cn^
+@@||www.ali213.net^
 @@||www.alidns.com^$important
 @@||www.bilibili.com^
 @@||www.bilibili.com^$important
 @@||www.biligame.com^
 @@||www.blogger.com^$important
+@@||www.bmcx.com^
 @@||www.bqgyy.com^
 @@||www.chemdraw.com.cn^$important
 @@||www.cmpassport.com^$important
 @@||www.crossoverchina.com^$important
 @@||www.data.mistat.*xiaomi.com^
 @@||www.data.sec*.miui.com^
+@@||www.dianping.com^
 @@||www.dogpile.com^
+@@||www.dpfile.com^
 @@||www.dxmpay.com^$important
 @@||www.e0734.com^
 @@||www.google-analytics.com^$domain=myqqjd.com
@@ -3138,7 +3171,9 @@
 @@||www.googletagmanager.com^$important
 @@||www.gstatic.com
 @@||www.gstatic.com^$important
+@@||www.haier.com^
 @@||www.hao123.com^$important
+@@||www.hisense.com^
 @@||www.ip138.com^
 @@||www.iqiyi.com^$important
 @@||www.jd.com^
