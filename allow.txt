@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-03-02 10:50:58（北京时间）
+! Version: 2025-03-02 12:12:51（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3291
+! Total count: 3294
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1939,6 +1939,7 @@
 @@||img.cmvideo.cn^$important
 @@||img.funshion.com^
 @@||img.jbzj.com^$important
+@@||img.jxdown.com^$important
 @@||img.meituan.net^
 @@||img.mp.itc.cn^$important
 @@||img.pddpic.com^
@@ -2029,6 +2030,7 @@
 @@||jumpluna.58.com^$important
 @@||jvod.300hu.com^
 @@||jwpcdn.com^
+@@||jxdown.com^$important
 @@||k.sinaimg.cn^
 @@||kadmimage.biz.weibo.com^
 @@||kdocs.cn^$important
@@ -2164,6 +2166,7 @@
 @@||m.jiaoyimao.com^$important
 @@||m.jingxi.com^
 @@||m.jingxi.com^$important
+@@||m.jxdown.com^$important
 @@||m.manhuabei.com^$important
 @@||m.meizu.com^
 @@||m.pinduoduo.com^
@@ -2559,7 +2562,7 @@
 @@||privat24.privatbank.ua^
 @@||pro.bugly.qq.com^$important
 @@||pro.m.jd.com^$important
-@@||prod-chat-kimi-tos.moonshot.cn
+@@||prod-chat-kimi-tos.moonshot.cn^
 @@||profile*.se.360.cn^
 @@||profile.csdnimg.cn^
 @@||promo.gramedia.com^
