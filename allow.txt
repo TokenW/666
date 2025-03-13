@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-03-13 20:21:58（北京时间）
+! Version: 2025-03-13 22:11:16（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3292
+! Total count: 3326
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -970,6 +970,7 @@
 @@||*.51.la^
 @@||*.alipay.com^
 @@||*.alipay.com^$important
+@@||*.anjuke.com$important
 @@||*.cdninstagram.com^$important
 @@||*.dlied1.cdntips.net^
 @@||*.gtimg.cn^$important
@@ -1056,6 +1057,7 @@
 @@||activity.hdslb.com^
 @@||activity.tuiapple.com^$important
 @@||activity.youku.com^$important
+@@||acts.qidian.com^
 @@||ad-block.dns.adguard.com^
 @@||ad-gone.com^
 @@||ad-log-upload.mihoyo.com^
@@ -1285,8 +1287,11 @@
 @@||blueskyxn.com^
 @@||bmap6.cn^$important
 @@||bonuscloud.io^$important
+@@||book.qidian.com^
+@@||bookcover.yuewen.com^
 @@||bootcdn.net^
 @@||bootcdn.net^$important
+@@||bossaudioandcomic-1252317822.image.myqcloud.com^
 @@||boxer.baidu.com^
 @@||boxer.baidu.com^$important
 @@||bqq.gtimg.com^$important
@@ -1331,6 +1336,7 @@
 @@||cbu01.alicdn.com^$important
 @@||cc.163.com^
 @@||cc.map.qq.com^$important
+@@||ccportrait.yuewen.com^
 @@||cdi.ofiii.com^
 @@||cdn-f1.assistant.miui.com^$important
 @@||cdn-go.cn^
@@ -1707,6 +1713,7 @@
 @@||f8.market.xiaomi.com^$important
 @@||face.t.sinajs.cn^
 @@||facebook.com^$important
+@@||facepic.qidian.com^
 @@||fanqienovel.com^
 @@||fanqienovel.com^$important
 @@||fanyi.baidu.com^$important
@@ -1767,8 +1774,10 @@
 @@||game.163.com^
 @@||game.bilibili.com^
 @@||game.html5.qq.com^
+@@||game.qidian.com^
 @@||game.res.meizu.com^$important
 @@||game.weixin.qq.com^$important
+@@||gameimg.qidian.com^
 @@||games.mobileapi.hupu.com^$important
 @@||gate.first-id.fr^
 @@||gateway.kugou.com^$important
@@ -1943,6 +1952,7 @@
 @@||img.meituan.net^
 @@||img.mp.itc.cn^$important
 @@||img.pddpic.com^
+@@||img.qidian.com^
 @@||img.shouji.sogou.com^ 
 @@||img.sogoucdn.com^
 @@||img.ssl.msdk.qq.com^
@@ -1951,6 +1961,7 @@
 @@||img02.sogoucdn.com^
 @@||img03.sogoucdn.com^
 @@||img04.sogoucdn.com^
+@@||img1.qidian.com^
 @@||img10.360buyimg.com^
 @@||img12.360buyimg.com^
 @@||img13.360buyimg.com^
@@ -1958,6 +1969,7 @@
 @@||img3.cache.netease.com^
 @@||img30.360buyimg.com^
 @@||imgcache.qq.com^$important
+@@||imgservices-1252317822.image.myqcloud.com^
 @@||imgsrc.baidu.com^
 @@||imgx.mediav.com^$important
 @@||imop.com^
@@ -2152,6 +2164,7 @@
 @@||m.360.cn^
 @@||m.360buyimg.com^$important
 @@||m.360video.so.com^
+@@||m.anjuke.com^
 @@||m.bilibili.com^
 @@||m.ctrip.com^
 @@||m.dianping.com^
@@ -2170,6 +2183,8 @@
 @@||m.manhuabei.com^$important
 @@||m.meizu.com^
 @@||m.pinduoduo.com^
+@@||m.qdmm.com^
+@@||m.qidian.com^
 @@||m.qpic.cn^
 @@||m.qpic.cn^$important
 @@||m.so.com^
@@ -2428,7 +2443,9 @@
 @@||p3-cpay.byteimg.com^
 @@||p3-dcd-sign.byteimg.com^
 @@||p3-dcd.byteimg.com^
+@@||p3-faceu-img-sign.byteimg.com^
 @@||p3-flow-imagex-sign.byteimg.com^
+@@||p3-heycan-hgt-sign.byteimg.com^
 @@||p3-insurance.byteimg.com^
 @@||p3-iz-e-sign.byteimg.com^
 @@||p3-notice.byteimg.com^
@@ -2456,7 +2473,9 @@
 @@||p6-dcd-sign.byteimg.com^
 @@||p6-dcd.byteimg.com^
 @@||p6-dy-ipv6.byteimg.com^
+@@||p6-faceu-img-sign.byteimg.com^
 @@||p6-flow-imagex-sign.byteimg.com^
+@@||p6-heycan-hgt-sign.byteimg.com^
 @@||p6-novel.byteimg.com
 @@||p6-novel.byteimg.com^
 @@||p6-novelfm-sign.novelfmpic.com^
@@ -2469,7 +2488,9 @@
 @@||p9-dcd-sign.byteimg.com^
 @@||p9-dcd.byteimg.com^
 @@||p9-dy.byteimg.com
+@@||p9-faceu-img-sign.byteimg.com^
 @@||p9-flow-imagex-sign.byteimg.com^
+@@||p9-heycan-hgt-sign.byteimg.com^
 @@||p9-novelfm-sign.novelfmpic.com^
 @@||p9-reading-sign.fqnovelpic.com^
 @@||p9-sign.douyinpic.com^
@@ -2490,9 +2511,11 @@
 @@||passport.bilibili.com^
 @@||passport.bobo.com^
 @@||passport.iqiyi.com^$important
+@@||passport.qidian.com^
 @@||passport.weibo.cn^
 @@||passport.weibo.com^
 @@||passport.youdao.com^$important
+@@||passport.yuewen.com^
 @@||patchwiki.biligame.com^
 @@||pay.bilibili.com^
 @@||pay.wsds.cn^
@@ -2526,6 +2549,7 @@
 @@||pic2.zhimg.com^
 @@||pic4.58cdn.com.cn^
 @@||pic5.58cdn.com.cn^
+@@||pic6.ajkimg.com^
 @@||pic640.weishi.qq.com^$important
 @@||pic7.iqiyipic.com^
 @@||pic8.58cdn.com.cn^
@@ -2572,6 +2596,7 @@
 @@||pstatp.com^
 @@||pstatp.com^$important
 @@||pt.afl.rakuten.co.jp^
+@@||ptlogin.yuewen.com^
 @@||ptmi.gitv.tv^$important
 @@||pub.idqqimg.com^
 @@||pub.idqqimg.com^$important
@@ -2603,9 +2628,11 @@
 @@||q3.jia.360.cn^$important
 @@||qappcenterv6.3g.qq.com^$important
 @@||qcaptcha.so.com^
+@@||qdfepccdn.qidian.com^
 @@||qhres2.com^
 @@||qhres2.com^$domain=baike.so.com
 @@||qi.163.com^
+@@||qidian.gtimg.com^
 @@||qiye.163.com^
 @@||qlogo.cn^
 @@||qlogo.cn^$important
@@ -2849,6 +2876,7 @@
 @@||static.ws.126.net^
 @@||static.zhihu.com^
 @@||static3.iask.cn^
+@@||statics.123pan.com^
 @@||statics.itc.cn^$important
 @@||staticsns.cdn.bcebos.com^
 @@||staticwiki.biligame.com^
@@ -2857,6 +2885,7 @@
 @@||stats.uptimerobot.com^
 @@||statsig.com^
 @@||statusapi.micloud.xiaomi.net^$important
+@@||stawritecdn.yuewen.com^
 @@||storage.360buyimg.com^
 @@||storage.jd.com^
 @@||storage.live.com^
@@ -3145,6 +3174,7 @@
 @@||wq.360buyimg.com^
 @@||wqsd.jd.com
 @@||wqsd.jd.com^
+@@||write.qq.com^
 @@||ws.ribaoapi.com^$important
 @@||wsdl.360safe.com^
 @@||wtradv.market.xiaomi.com^
@@ -3162,6 +3192,7 @@
 @@||www.9game.cn^
 @@||www.ali213.net^
 @@||www.alidns.com^$important
+@@||www.anjuke.com^
 @@||www.bilibili.com^
 @@||www.bilibili.com^$important
 @@||www.biligame.com^
@@ -3211,7 +3242,9 @@
 @@||www.pconline.com.cn^
 @@||www.pinduoduo.com^
 @@||www.pornhub.com^
+@@||www.qdmm.com^
 @@||www.qhupdate.com^
+@@||www.qidian.com^
 @@||www.recaptcha.net^$important
 @@||www.so.com^
 @@||www.statcounter.com^
@@ -3224,6 +3257,7 @@
 @@||www.xvideos.com^$important
 @@||www.youtube-nocookie.com
 @@||www.youtube.com^$important
+@@||www.yuewen.com^
 @@||www.zhihu.com^
 @@||www1.appcleanermac.com^$important
 @@||www1.pcauto.com.cn^
