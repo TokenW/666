@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-03-30 20:19:51（北京时间）
+! Version: 2025-03-30 22:09:45（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3326
+! Total count: 3332
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1343,6 +1343,7 @@
 @@||ccportrait.yuewen.com^
 @@||cdi.ofiii.com^
 @@||cdn-f1.assistant.miui.com^$important
+@@||cdn-getuigw.getui.com^
 @@||cdn-go.cn^
 @@||cdn-msp*.18comic*.*^
 @@||cdn-msp*.18comic.*^
@@ -1561,6 +1562,7 @@
 @@||debugtbs.qq.com^$important
 @@||defaultts.tc.qq.com^$important
 @@||detail.meizu.com^
+@@||dev.getui.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
 @@||developers.google.com^
@@ -1601,6 +1603,7 @@
 @@||dns.weixin.qq.com.cn^
 @@||dns.weixin.qq.com^$important
 @@||dnscheck.tools^
+@@||docs.getui.com^
 @@||docs.idqqimg.com^$important
 @@||dorado.xiaojukeji.com^$important
 @@||dot.360.cn^$important
@@ -1827,6 +1830,7 @@
 @@||gsp0.baidu.com^
 @@||gsp1.baidu.com^
 @@||gstatic.com
+@@||gt-static.getui.com^
 @@||guanjia.qq.com^
 @@||guid.tpns.tencent.com^
 @@||guokr.com/apis/flowingboard/item/m_article
@@ -1940,6 +1944,7 @@
 @@||image.quark.cn^
 @@||image.uc.cn^$important
 @@||images1-mall.onethingpcs.com^
+@@||imapi.douyin.com^
 @@||imasdk.googleapis.com^
 @@||imdns.hpplay.cn^
 @@||img*.funshion.com^
@@ -3209,6 +3214,7 @@
 @@||www.dpfile.com^
 @@||www.dxmpay.com^$important
 @@||www.e0734.com^
+@@||www.getui.com^
 @@||www.google-analytics.com^$important
 @@||www.google.com^$important
 @@||www.googleadservices.com^
