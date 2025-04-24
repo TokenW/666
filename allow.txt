@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-04-24 11:01:54（北京时间）
+! Version: 2025-04-24 12:14:22（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3337
+! Total count: 3295
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1007,7 +1007,6 @@
 @@||1tian.kuaishou.com^
 @@||316.coolapk1s.com^
 @@||360.cn^
-@@||360.cn^$important
 @@||360buyimg.com^$important
 @@||360kuai.com^$important
 @@||3746760377.qnqcdn.net^$important
@@ -1068,7 +1067,6 @@
 @@||ad.azure.com^
 @@||ad.cityu.edu.hk^
 @@||ad.doubleclick.net^
-@@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^$important
 @@||ad.siemens.com.cn^
@@ -1212,7 +1210,6 @@
 @@||app-api.smzdm.com^$important
 @@||app-dl.onethingpcs.com^
 @@||app-measurement.com^$important
-@@||app-monitor.ele.me^$important
 @@||app.adjust.com^
 @@||app.appsflyer.com^
 @@||app.bilibili.com^$important
@@ -1241,7 +1238,6 @@
 @@||appsec-mobile.meituan.com^
 @@||appsupport.qq.com^$important
 @@||aq.qq.com^
-@@||ar.hao123.com^$important
 @@||archive.biliimg.com^
 @@||article.zlink.toutiao.com^
 @@||artifactory.appodeal.com^
@@ -1452,9 +1448,6 @@
 @@||clientlog3.music.163.com^
 @@||clients.l.google.com
 @@||clients1.google.com
-@@||clients2.google.com^$important
-@@||clients4.google.com^$important
-@@||clients6.google.com^$important
 @@||cloud.hpplay.cn^
 @@||cloud.notification-naviextras.com^
 @@||cloudcontrol.live.360.cn^
@@ -1465,8 +1458,6 @@
 @@||cm-widget.nakanohito.jp^
 @@||cm.bilibili.com^
 @@||cm.bilibili.com^$important
-@@||cm.dmp.sina.cn^$important
-@@||cm.jd.com^$important
 @@||cmp.inmobi.com^
 @@||cms-bucket.ws.126.net^
 @@||cmshow.qq.com^$important
@@ -1484,7 +1475,6 @@
 @@||cnnic.net.cn^
 @@||collect-v6.51.la^
 @@||collect.hupu.com^$important
-@@||collector.githubapp.com^$important
 @@||commimg.pddpic.com^
 @@||common.jbzj.com^$important
 @@||community.akamai.steamstatic.com^
@@ -1538,7 +1528,6 @@
 @@||d.skk.moe^
 @@||d.toutiao.com^$important
 @@||d1z2jf7jlzjs58.cloudfront.net^
-@@||d2.yiche.com^$important
 @@||d2na2p72vtqyok.cloudfront.net^
 @@||da.mmarket.com^
 @@||da.mmarket.com^$important
@@ -1618,7 +1607,6 @@
 @@||download.adguard.com^
 @@||download.alicdn.com^$important
 @@||download.falco.org^
-@@||download.parallels.com^$important
 @@||download.pinduoduo.com^
 @@||download.se.360.cn^
 @@||download.uc.cn^
@@ -1657,13 +1645,11 @@
 @@||dx.10086.cn^$important
 @@||dxcloud.episerver.net^
 @@||dxx.wwwtop.top^$important
-@@||e.baidu.com^$important
 @@||e.customeriomail.com^
 @@||e.weather.com.cn^
 @@||eastus.api.speech.microsoft.com^$important
 @@||ecard.163.com^
 @@||ecard.shenzhentong.com^
-@@||eclick.baidu.com^$important
 @@||ecmb.bdimg.com/*.jpg
 @@||ecmb.bdimg.com/*.png
 @@||ecmb.bdimg.com^ 
@@ -1797,7 +1783,6 @@
 @@||gdfp.gifshow.com^$important
 @@||gdmf.apple.com^
 @@||gdown.baidu.com^$important
-@@||gdt.qq.com^$important
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
 @@||get.neofinancial.com^
@@ -1820,7 +1805,6 @@
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
 @@||go.adjust.com^
-@@||go.oracle.com^$important
 @@||go.scorptec.com.au^
 @@||googleadservices.com^
 @@||goto.target.com^
@@ -1863,13 +1847,11 @@
 @@||h5offline.zhuanzhuan.com^$important
 @@||h5static.cc.163.com^
 @@||hao.7654.com^
-@@||hao123.com^$important
 @@||haohuo.jinritemai.com^ 
 @@||haohuo.snssdk.com^
 @@||haokan.baidu.com^$important
 @@||haoma.163.com^
 @@||hb.afl.rakuten.co.jp^
-@@||hdslb.com^$important
 @@||health.halodoc.com^
 @@||hectorstatic.baidu.com^$important
 @@||hermes.hupu.com^$important
@@ -1878,7 +1860,6 @@
 @@||himg.bdimg.com^$important
 @@||hls3-cf.xvideos-cdn.com^$important
 @@||hls9-cf.xvideos-cdn.com^$important
-@@||hm.baidu.com^$important
 @@||hmrz.wo.cn^$important
 @@||home.focusatwill.com^
 @@||home.m.duiba.com.cn^
@@ -1920,7 +1901,6 @@
 @@||i72.lanzoug.com^
 @@||i82.lanzoug.com^
 @@||ia.hit.interia.pl^
-@@||iadsdk.apple.com^$important
 @@||iask.cn^
 @@||iask.com.cn^
 @@||ib.snssdk.com^
@@ -2007,7 +1987,6 @@
 @@||ip.rtbasia.com^
 @@||ip.taobao.com^
 @@||ip.taobao.com^$important
-@@||ip.ws.126.net^$important
 @@||ip6.ssl.msdk.qq.com^$important
 @@||ipassport.ele.me^
 @@||ipassport.ele.me^$important
@@ -2066,7 +2045,6 @@
 @@||kwimgs.com^$important
 @@||kyaru-concat.now.sh^$important
 @@||l.qq.com^
-@@||lanzous.com^$important
 @@||laohuangli.bmcx.com^
 @@||laomaotao.net^
 @@||lc-cn-n1-shared.com^
@@ -2178,7 +2156,6 @@
 @@||m.ctrip.com^
 @@||m.dianping.com^
 @@||m.ds.163.com^
-@@||m.hao123.com^$important
 @@||m.intl.taobao.com^$important
 @@||m.ip138.com^
 @@||m.iqiyi.com^$important
@@ -2249,7 +2226,6 @@
 @@||mdevstat.qqlive.qq.com^
 @@||mdm.openapi.360.cn^
 @@||mdn.open.wo.cn^$important
-@@||mdt.qq.com^$important
 @@||me-api.jd.com^
 @@||med-fe.cdn.bcebos.com^
 @@||media-consumer365.desigual.com^
@@ -2275,7 +2251,6 @@
 @@||migrate.driveapi.micloud.xiaomi.net^$important
 @@||mime.baidu.com^
 @@||mimg.127.net^
-@@||mini.hao123.com^$important
 @@||mini2015.qq.com^
 @@||minigame.zijieapi.com^$important
 @@||minorshort.weixin.qq.com^
@@ -2329,7 +2304,6 @@
 @@||msg.video.qiyi.com^
 @@||mss0.bdstatic.com^
 @@||mssdk3-normal-lf.zijieapi.com^
-@@||mtalk.google.com^$important
 @@||mumu.163.com^
 @@||music.163.com^
 @@||mvconf.f.360.cn^
@@ -2402,17 +2376,14 @@
 @@||opencloud.wostore.cn^$important
 @@||openplat.hpplay.cn^
 @@||oppo.yidianzixun.com^$important
-@@||oracle-mail.com^$important
 @@||orange-dc.alibaba.com^$important
 @@||orbit.jd.com^
 @@||osp.meituan.net^
 @@||oss-asq-static.11222.cn^$important
 @@||ossapi.baidu.com^
 @@||oth.eve.mdt.qq.com^ 
-@@||oth.eve.mdt.qq.com^$important
 @@||otheve.beacon.qq.com^
 @@||otheve.beacon.qq.com^$important
-@@||ouo.io^$important
 @@||p**-ppx.byteimg.com^
 @@||p*-ecom-fe.byteimg.com^
 @@||p*-ecop-imagex.byteimg.com^
@@ -2538,7 +2509,6 @@
 @@||pepsico.com.cn^
 @@||personaclick.com^
 @@||pgdt.gtimg.cn^
-@@||pgdt.gtimg.cn^$important
 @@||pgpartner.com^
 @@||phonecallapi.micloud.xiaomi.net^$important
 @@||pic*.40017.cn^
@@ -2672,7 +2642,6 @@
 @@||rdelivery.qq.com^
 @@||reader.browser.miui.com^
 @@||readstatic.zhulang.com^$important
-@@||reallyfreegeoip.org^$important
 @@||recmd.html5.qq.com^$important
 @@||recommender.scarabresearch.com^
 @@||reddit
@@ -2717,7 +2686,6 @@
 @@||s.click.taobao.com^
 @@||s.click.taobao.com^$important
 @@||s.click.tmall.com^$important
-@@||s.deepl.com^$important
 @@||s.duapps.com^
 @@||s.img.mix.sina.com.cn^$important
 @@||s.mvconf.f.360.cn^
@@ -2752,10 +2720,8 @@
 @@||sdk-api.beizi.biz^$important
 @@||sdk.51.la^
 @@||sdk.alibaba.com.ailbaba.me^$important
-@@||sdk.e.qq.com^$important
 @@||sdk.live.360.cn^
 @@||sdk.open.talk.gepush.com^
-@@||sdk.open.talk.gepush.com^$important
 @@||sdkaction.biz.weibo.com^
 @@||sdkapi.kookong.com^
 @@||sdkapi.sms.mob.com^
@@ -2768,7 +2734,6 @@
 @@||sec-cdn.static.xiaomi.net^$important
 @@||sec.resource.xiaomi.net^$important
 @@||secureimage.securedataimages.com^
-@@||securemvt.apple.com.cn^$important
 @@||security.browser.miui.com^
 @@||self.events.data.microsoft.com^$important
 @@||sentry.zhuanzhuan.com^$important
@@ -2921,7 +2886,6 @@
 @@||sv.map.baidu.com^$important
 @@||swap.stu.126.net^
 @@||swimg1.hstdyf.com^$important
-@@||synology.com^$important
 @@||sysdk.cl2009.com^$important
 @@||szlong.weixin.qq.com^
 @@||szmg.qq.com^
@@ -2930,7 +2894,6 @@
 @@||t*img.yangkeduo.com^
 @@||t.cn^$important
 @@||t.co^$important
-@@||t.eloqua.com^$important
 @@||t.me^$important
 @@||t.uc.cn^$important
 @@||t10.baidu.com^
@@ -3019,7 +2982,6 @@
 @@||u1.img.mobile.sina.cn^$important
 @@||uc-titans-cn-01.heytapimage.com^$important
 @@||uc-titans-cn.heytapimage.com^$important
-@@||uc.cn^$important
 @@||uc.ucweb.com^
 @@||ucweb.com^
 @@||uczzd.cn^$important
@@ -3162,7 +3124,6 @@
 @@||weishi.360.cn^
 @@||weixin.qq.com^$important
 @@||wgo.mmstat.com^
-@@||wgo.mmstat.com^$important
 @@||widget.gleamjs.io^
 @@||widget.intercom.io^
 @@||widget.mibbit.com^$important
@@ -3203,7 +3164,6 @@
 @@||www.alidns.com^$important
 @@||www.anjuke.com^
 @@||www.bilibili.com^
-@@||www.bilibili.com^$important
 @@||www.biligame.com^
 @@||www.blogger.com^$important
 @@||www.bmcx.com^
@@ -3219,11 +3179,9 @@
 @@||www.dxmpay.com^$important
 @@||www.e0734.com^
 @@||www.getui.com^
-@@||www.google-analytics.com^$important
 @@||www.google.com^$important
 @@||www.googleadservices.com^
 @@||www.googleadservices.com^$important
-@@||www.googletagmanager.com^$important
 @@||www.gstatic.com
 @@||www.gstatic.com^$important
 @@||www.haier.com^
