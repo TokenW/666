@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-05-25 14:15:57（北京时间）
+! Version: 2025-05-25 16:14:26（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3347
+! Total count: 3349
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1040,6 +1040,7 @@
 @@||abtest3-misc-lf.zijieapi.com^
 @@||abtestvm.bytedance.com^
 @@||ac.dun.163yun.com^
+@@||ac.ebis.ne.jp^
 @@||access1.tpns.tencent.com^
 @@||account.dianping.com^
 @@||account.onethingpcs.com^
@@ -1073,7 +1074,6 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^$important
-@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -2257,6 +2257,7 @@
 @@||mdt.qq.com^$important
 @@||me-api.jd.com^
 @@||med-fe.cdn.bcebos.com^
+@@||media-consumer365.desigual.com^
 @@||media.9game.cn^
 @@||mediation.adnxs.com^$important
 @@||meiqia.com^
@@ -2817,6 +2818,7 @@
 @@||sm.cn^$important
 @@||smart.360.cn^
 @@||smsks1.cmpassport.com^$important
+@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^$important
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
