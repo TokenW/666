@@ -2,15 +2,14 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-06-09 22:12:51（北京时间）
+! Version: 2025-06-10 00:15:42（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3356
+! Total count: 3362
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@bit.ly
-@@broadcastlv.chat.bilibili.com^
 @@cdn.*.qq.com
 @@down.360safe.com^
 @@goo.gl
@@ -18,11 +17,9 @@
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@guoqiangti.cf
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
-@@llpbaccess.video.qq.com^$important
 @@m.video.xiaomi.com
 @@mp4.ts
 @@nileapi.market.xiaomi.com
-@@qlogo.cn^
 @@s.click.taobao.com
 @@s.click.tmall.com
 @@sh.st
@@ -140,7 +137,6 @@
 @@|api.dewmobile.net^
 @@|api.im.weibo.cn^
 @@|api.immomo.com^
-@@|api.iplay.163.com
 @@|api.iplay.163.com^
 @@|api.iqiyi.com^
 @@|api.jits.heytapmobi.com^
@@ -1235,6 +1231,7 @@
 @@||appconf.heytapdownload.com^
 @@||appdl-1-drcn.dbankcdn.com^$important
 @@||appdownload.alicdn.com^
+@@||appdownload.alicdn.com^$important
 @@||appgoad.189.cn^$important
 @@||apphelp.onethingpcs.com^
 @@||appimg-drcn.dbankcdn.com^$important
@@ -1962,12 +1959,14 @@
 @@||img.client.10010.com^
 @@||img.cmvideo.cn^$important
 @@||img.funshion.com^
+@@||img.galaxyappstore.com^
 @@||img.jbzj.com^$important
 @@||img.jxdown.com^$important
 @@||img.meituan.net^
 @@||img.mp.itc.cn^$important
 @@||img.pddpic.com^
 @@||img.qidian.com^
+@@||img.samsungapps.com^
 @@||img.shouji.sogou.com^ 
 @@||img.sogoucdn.com^
 @@||img.ssl.msdk.qq.com^
@@ -1976,6 +1975,7 @@
 @@||img02.sogoucdn.com^
 @@||img03.sogoucdn.com^
 @@||img04.sogoucdn.com^
+@@||img1.360buyimg.com^
 @@||img1.qidian.com^
 @@||img10.360buyimg.com^
 @@||img12.360buyimg.com^
@@ -2186,6 +2186,7 @@
 @@||m.dianping.com^
 @@||m.ds.163.com^
 @@||m.hao123.com^$important
+@@||m.image.so.com^
 @@||m.intl.taobao.com^$important
 @@||m.ip138.com^
 @@||m.iqiyi.com^$important
@@ -2208,6 +2209,7 @@
 @@||m.toutiao.com^
 @@||m.uczzd.cn^
 @@||m.video.9ddm.com^$important
+@@||m.video.xiaomi.com^
 @@||m.video.xiaomi.com^$important
 @@||m.ykimg.com^$important
 @@||m.youtube.com^$important
@@ -2561,6 +2563,7 @@
 @@||pic.iask.cn^
 @@||pic.iask.com.cn^$important
 @@||pic.imgdb.cn
+@@||pic.imgdb.cn^
 @@||pic.mairuan.com^$important
 @@||pic.rmb.bdstatic.com^$important
 @@||pic2.58cdn.com.cn^
@@ -2682,6 +2685,7 @@
 @@||rd.bizrate.com^
 @@||rdelivery.qq.com^
 @@||reader.browser.miui.com^
+@@||reading.snssdk.com^
 @@||readstatic.zhulang.com^$important
 @@||reallyfreegeoip.org^$important
 @@||recmd.html5.qq.com^$important
@@ -2980,6 +2984,7 @@
 @@||tms.capitalone.com^
 @@||tnc11-bjlgy.zijieapi.com^
 @@||tnc16-platform-useast1a.tiktokv.com^$important
+@@||tnc3-aliec2.snssdk.com^
 @@||tnc3-aliec2.snssdk.com^$important
 @@||tnc3-bjlgy.zijieapi.com^
 @@||tongji.cn^
@@ -3074,6 +3079,7 @@
 @@||user2-channel.onethingpcs.com^
 @@||uxip.meizu.com^
 @@||v*-dc-ad.ixigua.com^$important
+@@||v*-fq-tts.fqnovelvod.com^
 @@||v*.douyinvod.com^
 @@||v*.kwaicdn.com^
 @@||v.bigcloud.cyou^
@@ -3182,7 +3188,7 @@
 @@||widget.intercom.io^
 @@||widget.mibbit.com^$important
 @@||wifi.vivo.com.cn^$important
-@@||wiki.ad-gone.com
+@@||wiki.ad-gone.com^
 @@||wiki.biligame.com^
 @@||wk.idey.cn^
 @@||wl.jd.com^
