@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-06-11 14:18:37（北京时间）
+! Version: 2025-06-11 16:17:24（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3550
+! Total count: 3546
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -2670,7 +2670,6 @@
 @@||personaclick.com^
 @@||pgdt.gtimg.cn^
 @@||pgdt.gtimg.cn^$important
-@@||pgpartner.com^
 @@||phonecallapi.micloud.xiaomi.net^
 @@||phonecallapi.micloud.xiaomi.net^$important
 @@||pic*.40017.cn^
@@ -2694,7 +2693,6 @@
 @@||pic7.iqiyipic.com^
 @@||pic8.58cdn.com.cn^
 @@||picasso-static.xiaohongshu.com^
-@@||pics.porn300.com^
 @@||pifa.pinduoduo.com^
 @@||pingfore.qq.com^
 @@||pingfore.qq.com^$important
@@ -3406,7 +3404,6 @@
 @@||www.data.mistat.*xiaomi.com^
 @@||www.data.sec*.miui.com^
 @@||www.dianping.com^
-@@||www.dogpile.com^
 @@||www.dpfile.com^
 @@||www.dxmpay.com^
 @@||www.e0734.com^
@@ -3426,7 +3423,6 @@
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.jd.com^
-@@||www.jdoqocy.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^
