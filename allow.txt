@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-06-12 09:00:44（北京时间）
+! Version: 2025-06-12 11:11:10（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3546
+! Total count: 3563
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -964,6 +964,8 @@
 @@|zen-core-cn.allawntech.com^
 @@|zhuti.xiaomi.com^
 @@|zm.outer.hoopchina.com^
+@@||*-kmwatsonc.events.data.microsoft.com^
+@@||*-umwatsonc.events.data.microsoft.com^
 @@||*.51.la^
 @@||*.a.yximgs.com^
 @@||*.alipay.com^
@@ -1405,6 +1407,8 @@
 @@||cdn1d-static-shared.phncdn.com^
 @@||cdn77-vid.xvideos-cdn.com^
 @@||center-h5api.m.taobao.com^
+@@||ceuswatcab01.blob.core.windows.net^
+@@||ceuswatcab02.blob.core.windows.net^
 @@||cf.aliyun.com^
 @@||cfg.imtt.qq.com^
 @@||cfg.imtt.qq.com^$important
@@ -1725,6 +1729,8 @@
 @@||e.customeriomail.com^
 @@||e.weather.com.cn^
 @@||eastus.api.speech.microsoft.com^
+@@||eaus2watcab01.blob.core.windows.net^
+@@||eaus2watcab02.blob.core.windows.net^
 @@||ecard.163.com^
 @@||ecard.shenzhentong.com^
 @@||eclick.baidu.com^$important
@@ -2154,6 +2160,7 @@
 @@||kf-ui.cdn-go.cn^
 @@||kjimg10.360buyimg.com^
 @@||klclick*.com^
+@@||kmwatsonc.events.data.microsoft.com^
 @@||knet.cn^
 @@||knowsex.net^
 @@||ks.pull.yximgs.com^
@@ -2506,6 +2513,8 @@
 @@||oauth-login-drcn.platform.dbankcloud.com^
 @@||oauth.secure.pixiv.net^
 @@||obituaries.therecord.com^
+@@||oca.microsoft.com^
+@@||oca.telemetry.microsoft.com^
 @@||official.paymaya.com^
 @@||ohssr.cn^
 @@||ohssr.cn^$important
@@ -2537,6 +2546,7 @@
 @@||oth.eve.mdt.qq.com^$important
 @@||otheve.beacon.qq.com^
 @@||ouo.io^$important
+@@||outlookmobile-office365-tas.msedge.net^
 @@||p**-ppx.byteimg.com^
 @@||p*-ecom-fe.byteimg.com^
 @@||p*-ecop-imagex.byteimg.com^
@@ -3207,6 +3217,7 @@
 @@||ulive-sc.uc.cn^
 @@||umengjmacs.m.taobao.com^
 @@||umiwi.com^
+@@||umwatsonc.events.data.microsoft.com^
 @@||unet.ucweb.com^
 @@||unet.ucweb.com^$important
 @@||union-click.jd.com^
@@ -3249,6 +3260,9 @@
 @@||v.stream.qq.com^
 @@||v.uc.cn^
 @@||v1.jinrishici.com^
+@@||v10.events.data.microsoft.com^
+@@||v10.vortex-win.data.microsoft.com^
+@@||v10c.events.data.microsoft.com^
 @@||v11-fq-tts.fqnovelvod.com^
 @@||v16m-default.akamaized.net^
 @@||v2.get.sogou.com^
@@ -3329,6 +3343,7 @@
 @@||wannianrili.bmcx.com^
 @@||wap.cmpassport.com^
 @@||wappass.baidu.com^
+@@||watson.telemetry.microsoft.com^
 @@||wb.amap.com^
 @@||wbapp.mobile.sina.cn^
 @@||wbapp.mobile.sina.cn^$important
@@ -3345,6 +3360,8 @@
 @@||weidian.com^$important
 @@||weishi.360.cn^
 @@||weixin.qq.com^$important
+@@||weus2watcab01.blob.core.windows.net^
+@@||weus2watcab02.blob.core.windows.net^
 @@||wgo.mmstat.com^
 @@||wgo.mmstat.com^$important
 @@||widget.gleamjs.io^
