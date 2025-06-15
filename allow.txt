@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-06-15 20:21:52（北京时间）
+! Version: 2025-06-15 22:10:23（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3567
+! Total count: 3574
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -528,7 +528,6 @@
 @@|log-lf.snssdk.com^
 @@|log.snssdk.com^
 @@|log0-applog-lf.fqnovel.com^
-@@|log5-applog-lf.fqnovel.com^
 @@|login.360.cn^
 @@|login.windows.net^
 @@|logistics.apps.oppomobile.com^
@@ -970,7 +969,7 @@
 @@||*.a.yximgs.com^
 @@||*.alipay.com^
 @@||*.alipay.com^$important
-@@||*.anjuke.com
+@@||*.anjuke.com^
 @@||*.bblmw.cn^
 @@||*.cdninstagram.com^
 @@||*.cdninstagram.com^$important
@@ -1223,6 +1222,7 @@
 @@||api2-album.quark.cn^
 @@||api3.mairuan.com^
 @@||apis.google.com
+@@||apis.google.com^
 @@||apischedule.ksyungslb.com^
 @@||apissl.ksapisrv.com^
 @@||apiweb.onethingpcs.com^
@@ -1498,7 +1498,9 @@
 @@||clientlog*music.163.com^
 @@||clientlog3.music.163.com^
 @@||clients.l.google.com
+@@||clients.l.google.com^
 @@||clients1.google.com
+@@||clients1.google.com^
 @@||clients2.google.com^$important
 @@||clients4.google.com^$important
 @@||clients6.google.com^$important
@@ -1822,7 +1824,7 @@
 @@||fgc0.market.xiaomi.com^
 @@||fgc0.market.xiaomi.com^$important
 @@||file.40017.cn^
-@@||file.market.xiaomi.com^$import
+@@||file.market.xiaomi.com^
 @@||file.market.xiaomi.com^$importantcdn.ark.qq.com
 @@||file.neixin.cn^
 @@||file.xiaomi.com^
@@ -1915,6 +1917,7 @@
 @@||gsp0.baidu.com^
 @@||gsp1.baidu.com^
 @@||gstatic.com
+@@||gstatic.com^
 @@||gt-static.getui.com^
 @@||guanjia.qq.com^
 @@||guid.tpns.tencent.com^
@@ -1995,6 +1998,7 @@
 @@||i.tantanapp.com^
 @@||i.tianqi.com^
 @@||i.ytimg.com
+@@||i.ytimg.com^
 @@||i0.hdslb.com^
 @@||i1.hdslb.com^
 @@||i2.hdslb.com^
@@ -2249,6 +2253,7 @@
 @@||log.snssdk.com^
 @@||log.tbs.qq.com^ 
 @@||log1.cmpassport.com^
+@@||log5-applog-lf.fqnovel.com^
 @@||log5-applog.fqnovel.com^
 @@||logentries.com^
 @@||login-ishare.iask.com.cn^
@@ -2336,6 +2341,7 @@
 @@||mangabz.com^
 @@||mangacopy.com^
 @@||manifest.googlevideo.com
+@@||manifest.googlevideo.com^
 @@||manwa.me^
 @@||map.bmcx.com^
 @@||map.qq.com^
@@ -2490,7 +2496,7 @@
 @@||news.163.com^
 @@||news.17173.com^
 @@||news.sina.com.cn^
-@@||nileapi.market.xiaomi.com^$import
+@@||nileapi.market.xiaomi.com^
 @@||nimg.ws.126.net^
 @@||nineto5mac-d.openx.net^
 @@||nishub1.10010.com^
@@ -2620,7 +2626,6 @@
 @@||p6-faceu-img-sign.byteimg.com^
 @@||p6-flow-imagex-sign.byteimg.com^
 @@||p6-heycan-hgt-sign.byteimg.com^
-@@||p6-novel.byteimg.com
 @@||p6-novel.byteimg.com^
 @@||p6-novelfm-sign.novelfmpic.com^
 @@||p6-reading-sign.fqnovelpic.com^
@@ -2730,6 +2735,7 @@
 @@||polaris.zijieapi.com^
 @@||policy.jd.com^
 @@||pool.v6.bt.n0808.com
+@@||pool.v6.bt.n0808.com^
 @@||pop.shouji.360.cn^
 @@||pop.shouji.360.cn^ 
 @@||portal.ik.weiyunjian.com^
@@ -3225,7 +3231,6 @@
 @@||union-click.jd.com^
 @@||union.jd.com^
 @@||unisdk.update.netease.com^
-@@||uop.quark.cn
 @@||uop.quark.cn^
 @@||up.cm.ksmobile.com^
 @@||upage.imtt.qq.com^
@@ -3482,6 +3487,7 @@
 @@||www.ximalaya.com^
 @@||www.xvideos.com^
 @@||www.youtube-nocookie.com
+@@||www.youtube-nocookie.com^
 @@||www.youtube.com^
 @@||www.youtube.com^$important
 @@||www.yuewen.com^
@@ -3540,6 +3546,7 @@
 @@||youtu.be^
 @@||youtu.be^$important
 @@||youtube-nocookie.com
+@@||youtube-nocookie.com^
 @@||youtubei.googleapis.com^
 @@||youtubei.googleapis.com^$important
 @@||yoyodadada.lanzouw.com^
