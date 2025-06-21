@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-06-21 20:21:24（北京时间）
+! Version: 2025-06-21 22:11:42（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3572
+! Total count: 3583
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1696,6 +1696,7 @@
 @@||dpmtpush.dianping.com^
 @@||dpmtpush.dianping.com^$important
 @@||dpurl.cn^
+@@||dr-ime.baidu.com^
 @@||dragate-cn.dc.heytapmobi.com^
 @@||dragate.dc.oppomobile.com^
 @@||dreport.meituan.net^
@@ -1743,9 +1744,11 @@
 @@||ecombdapi.com^
 @@||ecombdimg.com^
 @@||ecosia.org^
+@@||ecs.office.com^
 @@||edge-enterprise.activity.windows.com^
 @@||edge.activity.windows.com^
 @@||edge.activity.windows.com^$important
+@@||edge.microsoft.com^
 @@||edu-image.nosdn.127.net^
 @@||effect.snssdk.com^
 @@||ei.phncdn.com^
@@ -1769,6 +1772,7 @@
 @@||err.taobao.com^
 @@||etl-xlmc-ssl.sandai.net^
 @@||etl-xlmc-ssl.xunlei.com^
+@@||eu-mobile.events.data.microsoft.com^
 @@||events.data.microsoft.com^
 @@||evtubescms.phncdn.com^
 @@||exp-new.bdstatic.com^
@@ -1810,6 +1814,7 @@
 @@||fdfs.xmcdn.com^
 @@||fe-static.xhscdn.com^
 @@||fe-video-qc.xhscdn.com^
+@@||fe3cr.delivery.mp.microsoft.com^
 @@||feconf.zhuanzhuan.com^
 @@||feed-image.baidu.com^
 @@||feed.adrelayer.com^
@@ -1902,6 +1907,7 @@
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
 @@||go.adjust.com^
+@@||go.microsoft.com^
 @@||go.oracle.com^$important
 @@||go.scorptec.com.au^
 @@||googleadservices.com^
@@ -2428,6 +2434,7 @@
 @@||mobile.appchina.com^$important
 @@||mobile.controller.duokanbox.com^
 @@||mobile.controller.duokanbox.com^$important
+@@||mobile.events.data.microsoft.com^
 @@||mobile.pipe.aria.microsoft.com^
 @@||mobile.twitter.com^
 @@||mobile.ximalaya.com^
@@ -2472,6 +2479,7 @@
 @@||my.cainiao.com^
 @@||my.ie.2345.com^
 @@||my.tealiumiq.com^
+@@||mydefender.microsoft.com^
 @@||myquark.cn^
 @@||myquark.cn^$important
 @@||myun.tenpay.com^
@@ -2754,6 +2762,7 @@
 @@||pstatp.com^
 @@||pstatp.com^$important
 @@||pt.afl.rakuten.co.jp^
+@@||pti.store.microsoft.com^
 @@||ptlogin.yuewen.com^
 @@||ptmi.gitv.tv^
 @@||ptmi.gitv.tv^$important
@@ -3075,6 +3084,7 @@
 @@||store.heytapimage.com^
 @@||store.meizu.com^
 @@||storedl1.nearme.com.cn^
+@@||storeedgefd.dsx.mp.microsoft.com^
 @@||str.hit.gemius.pl^
 @@||stripe.com^$domain=pay.openai.com
 @@||studcat.infra.systems^
@@ -3349,6 +3359,7 @@
 @@||wannianrili.bmcx.com^
 @@||wap.cmpassport.com^
 @@||wappass.baidu.com^
+@@||watson.events.data.microsoft.com^
 @@||watson.telemetry.microsoft.com^
 @@||wb.amap.com^
 @@||wbapp.mobile.sina.cn^
