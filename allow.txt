@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-06-23 18:14:29（北京时间）
+! Version: 2025-06-23 20:26:09（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3584
+! Total count: 3591
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -952,6 +952,7 @@
 @@|www.tencent.com^
 @@|www.xfinfr.com^
 @@|www.yidianzixun.com^
+@@|wxpaylogo.qpic.cn^
 @@|wxsnsencsvp.wxs.qq.com^
 @@|xiaoshuo.wtzw.com^
 @@|xinghuo.xfyun.cn^
@@ -1216,11 +1217,13 @@
 @@||api.video.xiaomi.com^
 @@||api.video.xiaomi.com^$important
 @@||api.vip.miui.com^
+@@||api.weathercn.com^
 @@||api.zhihu.com^
 @@||api.zhihu.com^$important
 @@||api.zhuti.xiaomi.com^
 @@||api2-album.quark.cn^
 @@||api3.mairuan.com^
+@@||apimobile.meituan.com^
 @@||apis.google.com
 @@||apis.google.com^
 @@||apischedule.ksyungslb.com^
@@ -1280,6 +1283,7 @@
 @@||audid-api-sg.taobao.com^
 @@||audid-api.taobao.com^
 @@||audio-cdn.shuqireader.com^
+@@||audiopay.pcdn.xmcdn.com^
 @@||audiopaydl.pcdn.xmcdn.com^
 @@||auditude.com^
 @@||auth.be.sec.miui.com^
@@ -1925,6 +1929,7 @@
 @@||gstatic.com
 @@||gstatic.com^
 @@||gt-static.getui.com^
+@@||gtimg.wechatpay.cn^
 @@||guanjia.qq.com^
 @@||guid.tpns.tencent.com^
 @@||guokr.com/apis/flowingboard/item/m_article
@@ -3394,6 +3399,7 @@
 @@||wl.jd.com^$important
 @@||wm.makeding.com^
 @@||wm.makeding.com^$important
+@@||wmapi-mt.meituan.com^
 @@||wmflabs.org^
 @@||wodenongtian.com^
 @@||woniu.com^
@@ -3515,6 +3521,7 @@
 @@||wxa.wxs.qq.com^ 
 @@||wxapp.lvyadx.cn^
 @@||wxmini-api.uyouqu.com^
+@@||wxpay.qpic.cn^
 @@||wxsnsdy.wxs.qq.com^
 @@||wxsnsdythumb.wxs.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
