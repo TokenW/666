@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-10-01 14:18:30（北京时间）
+! Version: 2025-10-01 16:16:33（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3615
+! Total count: 3618
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1078,7 +1078,6 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
-@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -1694,7 +1693,6 @@
 @@||down.360safe.com^
 @@||down.anticheatexpert.com^
 @@||down.sandai.net^
-@@||download.adguard.com^
 @@||download.alicdn.com^
 @@||download.falco.org^
 @@||download.parallels.com^$important
@@ -1768,6 +1766,8 @@
 @@||edu-image.nosdn.127.net^
 @@||effect.snssdk.com^
 @@||ei.phncdn.com^
+@@||email.awscloud.com^
+@@||email.elitedangerous.com^
 @@||emoji.bj.bcebos.com^
 @@||emoji.qpic.cn^
 @@||emoji.uc.cn^
@@ -2907,6 +2907,7 @@
 @@||s*.ssl.qhres2.com^
 @@||s.163.com^
 @@||s.360.cn^
+@@||s.bluecore.com^
 @@||s.click.alimama.com^
 @@||s.click.taobao.com
 @@||s.click.taobao.com^
@@ -2917,6 +2918,7 @@
 @@||s.duapps.com^
 @@||s.img.mix.sina.com.cn^
 @@||s.mvconf.f.360.cn^
+@@||s.optnx.com^
 @@||s.qhupdate.com^
 @@||s.ssl.qhres2.com^
 @@||s.yimg.com^
@@ -2926,6 +2928,7 @@
 @@||s1.hdslb.com^
 @@||s1.kskwai.com^
 @@||s1.meituan.net^
+@@||s1.wp.com^
 @@||s2.hdslb.com^
 @@||s2.ssl.qhres2.com^
 @@||s3.meituan.net^
