@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-10-12 14:16:10（北京时间）
+! Version: 2025-10-12 16:14:01（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3623
+! Total count: 3617
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1380,15 +1380,12 @@
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||callback.58.com^
 @@||campus.163.com^
-@@||captcha.su.baidu.com^
 @@||captive.apple.com^
 @@||card-paopao.iqiyi.com^
 @@||cards.iqiyi.com^
 @@||care.meizu.com^
 @@||castatic.fengkongcloud.com^
-@@||catchup.thisisdax.com^
 @@||cbg.163.com^
-@@||cbsi.map.fastly.net^
 @@||cbu01.alicdn.com^
 @@||cc.163.com^
 @@||cc.map.qq.com^
@@ -1404,12 +1401,9 @@
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.ark.qq.com^
 @@||cdn.ark.qq.com^$important
-@@||cdn.atmedia.hu^
 @@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
-@@||cdn.datatables.net^
-@@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.iocdn.cc^
 @@||cdn.jsdelivr.net^
 @@||cdn.jsdelivr.net^$important
@@ -3022,6 +3016,7 @@
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
+@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
@@ -3360,7 +3355,6 @@
 @@||vip.iqiyi.com^
 @@||vip1.kuwo.cn^
 @@||vipauth.hpplay.cn^
-@@||vitacost.122.2o7.net^
 @@||vmware.com^
 @@||vmware.com^$important
 @@||vod.cc.163.com^
