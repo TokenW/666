@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-10-15 08:57:31（北京时间）
+! Version: 2025-10-15 10:59:11（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3624
+! Total count: 3647
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1037,6 +1037,7 @@
 @@||a0.app.xiaomi.com
 @@||a0.app.xiaomi.com^
 @@||a0.app.xiaomi.com^ 
+@@||a0.app.xiaomi.com^$important
 @@||a1.qpic.cn^
 @@||a2put.chinaz.com^
 @@||abbott.iqiyi.com^
@@ -1144,6 +1145,7 @@
 @@||ap6.ssl.msdk.qq.com^
 @@||apd-pcdniegwzlogin.teg.tencent-cloud.net^
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^
+@@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^
 @@||apd-ugcvlive.apdcdn.tc.qq.com^
 @@||apd-vlive.apdcdn.tc.qq.com^
@@ -1191,7 +1193,9 @@
 @@||api.karte.io^
 @@||api.ke.com^
 @@||api.kingdata.ksyun.com^
+@@||api.kingdata.ksyun.com^$important
 @@||api.kuaishouzt.com^
+@@||api.kuaishouzt.com^$important
 @@||api.kwaizt.com^
 @@||api.live.bilibili.com^
 @@||api.m.jd.com^
@@ -1685,6 +1689,7 @@
 @@||dns.icoa.cn^
 @@||dns.iqiyi.com^
 @@||dns.weixin.qq.com.cn^
+@@||dns.weixin.qq.com.cn^$important
 @@||dns.weixin.qq.com^$important
 @@||dnscheck.tools^
 @@||docs.getui.com^
@@ -1888,6 +1893,7 @@
 @@||galaxyappstore.com^
 @@||game.163.com^
 @@||game.bilibili.com^
+@@||game.eve.mdt.qq.com^$important
 @@||game.html5.qq.com^
 @@||game.qidian.com^
 @@||game.res.meizu.com^
@@ -1947,6 +1953,7 @@
 @@||gtimg.wechatpay.cn^
 @@||guanjia.qq.com^
 @@||guid.tpns.tencent.com^
+@@||guid.tpns.tencent.com^$important
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
 @@||gvt1.com^
@@ -1980,6 +1987,7 @@
 @@||haokan.baidu.com^
 @@||haoma.163.com^
 @@||hb.afl.rakuten.co.jp^
+@@||hdns.ksyun.com^$important
 @@||hdslb.com^$important
 @@||health.halodoc.com^
 @@||hectorstatic.baidu.com^
@@ -2020,6 +2028,7 @@
 @@||i.mairuan.com^
 @@||i.meituan.com^
 @@||i.snssdk.com^
+@@||i.snssdk.com^$important
 @@||i.sso.sina.com.cn^
 @@||i.tancdn.com^
 @@||i.tantanapp.com^
@@ -2084,6 +2093,7 @@
 @@||img.qidian.com^
 @@||img.samsungapps.com^
 @@||img.shouji.sogou.com^ 
+@@||img.shouji.sogou.com^$important
 @@||img.sogoucdn.com^
 @@||img.ssl.msdk.qq.com^
 @@||img.zuoyebang.cc^
@@ -2110,6 +2120,7 @@
 @@||imtt.dd.qq.com^$important
 @@||in.appcenter.ms^
 @@||increase-openapi.soulapp.cn^
+@@||indivi-cdn.shouji.sogou.com^$important
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||infra-api.newrelic.com^
@@ -2279,7 +2290,9 @@
 @@||log-upload.mihoyo.com^
 @@||log.mmstat.com^
 @@||log.snssdk.com^
+@@||log.snssdk.com^$important
 @@||log.tbs.qq.com^ 
+@@||log.tpns.tencent.com^$important
 @@||log1.cmpassport.com^
 @@||log5-applog-lf.fqnovel.com^
 @@||log5-applog.fqnovel.com^
@@ -2472,8 +2485,11 @@
 @@||moggy-image-1251316161.file.myqcloud.com^
 @@||mon.isnssdk.com^
 @@||mon.snssdk.com^
+@@||mon.snssdk.com^$important
 @@||mon.zijieapi.com^
+@@||mon.zijieapi.com^$important
 @@||monsetting.toutiao.com^
+@@||monsetting.toutiao.com^$important
 @@||mooc-image.nosdn.127.net^
 @@||mos.m.taobao.com^
 @@||mos.m.taobao.com^$important
@@ -2495,6 +2511,7 @@
 @@||msg.douyu.com^
 @@||msg.video.qiyi.com^
 @@||mss0.bdstatic.com^
+@@||mssdk.volces.com^$important
 @@||mssdk3-normal-lf.zijieapi.com^
 @@||mtalk.google.com^$important
 @@||mumu.163.com^
@@ -2574,6 +2591,7 @@
 @@||open.snssdk.com^
 @@||openap-alps.51y5.net^
 @@||opencloud.wostore.cn^
+@@||openmonitor.alipay-eco.com^$important
 @@||openplat.hpplay.cn^
 @@||oppo.yidianzixun.com^
 @@||oppo.yidianzixun.com^$important
@@ -2587,6 +2605,7 @@
 @@||oth.eve.mdt.qq.com^ 
 @@||oth.eve.mdt.qq.com^$important
 @@||otheve.beacon.qq.com^
+@@||otheve.beacon.qq.com^$important
 @@||ouo.io^$important
 @@||outlookmobile-office365-tas.msedge.net^
 @@||p**-ppx.byteimg.com^
@@ -3061,6 +3080,7 @@
 @@||sqdd.myapp.com^
 @@||sqimg.qq.com^
 @@||sqimg.qq.com^$important
+@@||srv.android.shouji.sogou.com^$important
 @@||srv.sec.miui.com^
 @@||ss.phncdn.com^
 @@||ssl-cdn.static.browser.mi-img.com^
@@ -3199,6 +3219,8 @@
 @@||tnc16-platform-useast1a.tiktokv.com^
 @@||tnc3-aliec2.snssdk.com^
 @@||tnc3-bjlgy.zijieapi.com^
+@@||tobapplog.ctobsnssdk.com^$important
+@@||toblog.ctobsnssdk.com^$important
 @@||tongji.cn^
 @@||tongji.edu.cn^
 @@||tongji.flash.cn^
@@ -3556,6 +3578,7 @@
 @@||wxmini-api.uyouqu.com^
 @@||wxpay.qpic.cn^
 @@||wxsnsdy.wxs.qq.com^
+@@||wxsnsdy.wxs.qq.com^$important
 @@||wxsnsdythumb.wxs.qq.com^
 @@||wxsnsencsvp.wxs.qq.com^
 @@||wxy-ml.onethingpcs.com^
