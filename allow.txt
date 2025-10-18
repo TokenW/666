@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-10-18 14:16:25（北京时间）
+! Version: 2025-10-18 16:14:32（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3644
+! Total count: 3643
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1026,6 +1026,7 @@
 @@||40017.cn^
 @@||48609.activity-42.m.duiba.com.cn^
 @@||5471782.fls.doubleclick.net^
+@@||79423.analytics.edgekey.net^
 @@||7x24s.com^
 @@||96956.com.cn^
 @@||96956.com.cn^$important
@@ -1122,6 +1123,7 @@
 @@||alissl.ucdl.pp.uc.cn^$important
 @@||aliyun.com^$important
 @@||aliyuncs.com/*.png
+@@||alllaw.112.2o7.net^
 @@||alps.51y5.net^
 @@||als.baidu.com^
 @@||amdc.m.taobao.com^
@@ -1907,7 +1909,6 @@
 @@||gdtimg.com^
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
-@@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
 @@||get.sogou.com^$important
@@ -1928,7 +1929,6 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
 @@||go.scorptec.com.au^
@@ -2518,7 +2518,6 @@
 @@||my.2345.com^
 @@||my.cainiao.com^
 @@||my.ie.2345.com^
-@@||my.tealiumiq.com^
 @@||mydefender.microsoft.com^
 @@||myquark.cn^
 @@||myquark.cn^$important
