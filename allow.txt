@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-10-19 18:11:11（北京时间）
+! Version: 2025-10-19 20:21:28（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3648
+! Total count: 3652
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1150,6 +1150,7 @@
 @@||apd-ugcvlive.apdcdn.tc.qq.com^
 @@||apd-vlive.apdcdn.tc.qq.com^
 @@||api-album.quark.cn^
+@@||api-chat.soulapp.cn^$important
 @@||api-cmnt.wtzw.com^
 @@||api-cn.cdo.heytapmobi.com^
 @@||api-cn.store.heytapmobi.com^
@@ -1157,6 +1158,7 @@
 @@||api-game.meizu.com^
 @@||api-ks.wtzw.com^
 @@||api-mall-box.onethingpcs.com^
+@@||api-pay.soulapp.cn^
 @@||api-pda.jdl.com^
 @@||api-push.meizu.com^
 @@||api-shoulei-ssl.xunlei.com^
@@ -2122,6 +2124,7 @@
 @@||indivi-cdn.shouji.sogou.com^$important
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
+@@||info.zb.qq.com^$important
 @@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
@@ -3403,6 +3406,7 @@
 @@||w2-live.kskwai.com^
 @@||w2-pro.kskwai.com^
 @@||w2.kskwai.com^ 
+@@||w2.kskwai.com^$important
 @@||w3-pro.kskwai.com^
 @@||w3.kskwai.com^
 @@||w4-pro.kskwai.com^
