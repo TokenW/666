@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-04 14:19:43（北京时间）
+! Version: 2025-11-04 16:17:55（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3650
+! Total count: 3652
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1079,7 +1079,6 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
-@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -1913,6 +1912,7 @@
 @@||gdtimg.com^
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
+@@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
 @@||get.sogou.com^$important
@@ -2419,6 +2419,7 @@
 @@||mdt.qq.com^$important
 @@||me-api.jd.com^
 @@||med-fe.cdn.bcebos.com^
+@@||media-consumer365.desigual.com^
 @@||media.9game.cn^
 @@||mediation.adnxs.com^
 @@||mediation.adnxs.com^$important
@@ -2540,6 +2541,7 @@
 @@||nav.browser.miui.com^
 @@||ncomment.kuwo.cn^
 @@||necaptcha.nosdn.127.net^
+@@||netatmo.commander1.com^
 @@||netease.com^
 @@||netmon.stat.360safe.com^
 @@||new.vip.weibo.cn^
@@ -2549,6 +2551,7 @@
 @@||news.163.com^
 @@||news.17173.com^
 @@||news.sina.com.cn^
+@@||news.warhammer.com^
 @@||nileapi.market.xiaomi.com^
 @@||nimg.ws.126.net^
 @@||nineto5mac-d.openx.net^
@@ -3189,7 +3192,6 @@
 @@||t9.baidu.com^
 @@||tags.crwdcntrl.net^
 @@||tagtic.cn^
-@@||taiga.maven.io^
 @@||tajs.qq.com^
 @@||tangram.e.qq.com^
 @@||tangram.e.qq.com^$important
