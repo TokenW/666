@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-09 14:17:33（北京时间）
+! Version: 2025-11-09 16:14:17（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3653
+! Total count: 3659
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1079,6 +1079,7 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
+@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -1461,6 +1462,7 @@
 @@||click.allkeyshop.com^
 @@||click.alternate.de^
 @@||click.appcast.io^
+@@||click.avs.io^
 @@||click.chp.kohls.com^
 @@||click.cptrack.de^
 @@||click.discord.com^
@@ -1500,7 +1502,10 @@
 @@||click.simba.taobao.com^
 @@||click.simba.taobao.com^$important
 @@||click.snapshat.com^
+@@||click.trafficguard.ai^
+@@||click.virt.exacttarget.com^
 @@||click.zoom.us^
+@@||clickattr.wayup.com^
 @@||clickcease.com^
 @@||clickdimensions.com^
 @@||clickiocdn.com^
@@ -3241,6 +3246,7 @@
 @@||tpns.tencent.com^
 @@||tpstelemetry.tencent.com^
 @@||tpstelemetry.tencent.com^ 
+@@||tr.rdrtr.com^
 @@||track.rutarget.ru^
 @@||track.sohu.com^
 @@||track.webgains.com^
