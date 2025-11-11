@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-11 14:19:47（北京时间）
+! Version: 2025-11-11 16:17:36（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 3663
 @@*.flyme.cn
@@ -1079,6 +1079,7 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
+@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -1988,10 +1989,8 @@
 @@||haohuo.snssdk.com^
 @@||haokan.baidu.com^
 @@||haoma.163.com^
-@@||hb.afl.rakuten.co.jp^
 @@||hdns.ksyun.com^$important
 @@||hdslb.com^$important
-@@||health.halodoc.com^
 @@||hectorstatic.baidu.com^
 @@||hermes.hupu.com^
 @@||heyi-acs.cp31.ott.cibntv.net^
@@ -2141,6 +2140,7 @@
 @@||instant.io^
 @@||intercom-clicks.com^
 @@||interest.mix.sina.com.cn^
+@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -2814,7 +2814,6 @@
 @@||prod.impartner.live^
 @@||profile*.se.360.cn^
 @@||profile.csdnimg.cn^
-@@||promo.gramedia.com^
 @@||proto2ad.durasite.net^
 @@||ps.qhupdate.com^
 @@||pss.bdstatic.com^
@@ -3050,6 +3049,7 @@
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
+@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
