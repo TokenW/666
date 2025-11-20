@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-20 20:25:29（北京时间）
+! Version: 2025-11-20 22:12:29（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 3667
 @@*.flyme.cn
@@ -1416,7 +1416,7 @@
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||cdn.datatables.net^
-@@||cdn.deepseek.com^$important
+@@||cdn.deepseek.com^
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.iocdn.cc^
 @@||cdn.jsdelivr.net^
@@ -1955,7 +1955,7 @@
 @@||guanjia.qq.com^
 @@||guid.tpns.tencent.com^
 @@||guid.tpns.tencent.com^$important
-@@||guide-acs.m.taobao.com^$important
+@@||guide-acs.m.taobao.com^
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
 @@||gvt1.com^
@@ -3118,7 +3118,7 @@
 @@||static.360buyimg.com^
 @@||static.ali213.net^
 @@||static.biligame.com^
-@@||static.deepseek.com^$important
+@@||static.deepseek.com^
 @@||static.e.189.cn^
 @@||static.hdslb.com^
 @@||static.iask.cn^
@@ -3262,7 +3262,7 @@
 @@||translator.qq.com^
 @@||translator.qq.com^$important
 @@||trk.ecomm.lenovo.com^
-@@||trpc.qianbao.qq.com^$important
+@@||trpc.qianbao.qq.com^
 @@||ts.market.mi-img.com^
 @@||ts.market.mi-img.com^$important
 @@||tsis.jpush.cn^
@@ -3332,7 +3332,7 @@
 @@||user1.game.qq.com^
 @@||user2-channel.onethingpcs.com^
 @@||uxip.meizu.com^
-@@||uzzf.com^$important
+@@||uzzf.com^
 @@||v*-dc-ad.ixigua.com^
 @@||v*-dc-ad.ixigua.com^$important
 @@||v*-fq-tts.fqnovelvod.com^
@@ -3471,6 +3471,7 @@
 @@||wmflabs.org^
 @@||wodenongtian.com^
 @@||woniu.com^
+@@||woocall.sina.com.cn^
 @@||woodpecker.uc.cn^
 @@||work.weixin.qq.com^
 @@||work.weixin.qq.com^$important
@@ -3543,7 +3544,6 @@
 @@||www.mac.bmcx.com^
 @@||www.maimemo.com^
 @@||www.mairuan.com^
-@@||www.mairuan.com^$important
 @@||www.manhuabei.com^
 @@||www.meituan.com^
 @@||www.meizu.com^
@@ -3570,7 +3570,7 @@
 @@||www.toutiao.com^
 @@||www.tudou.com^
 @@||www.twitter.com^
-@@||www.uzzf.com^$important
+@@||www.uzzf.com^
 @@||www.xiaohongshu.com^
 @@||www.ximalaya.com^
 @@||www.xvideos.com^
@@ -3604,7 +3604,7 @@
 @@||x0.ifengimg.com^
 @@||x2.ifengimg.com^
 @@||x6img.com^
-@@||xbk.189.cn^$important
+@@||xbk.189.cn^
 @@||xhslink.com^
 @@||xiaoshuo.wtzw.com^
 @@||xifuquan.com^
