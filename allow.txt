@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-11-23 14:17:54（北京时间）
+! Version: 2025-11-23 16:15:47（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3670
+! Total count: 3665
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1447,7 +1447,6 @@
 @@||chrome-infra-packages.appspot.com^
 @@||chrome-infra-packages.appspot.com^$important
 @@||ci.xiaohongshu.com^
-@@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
 @@||cj.dotomi.com^
 @@||cl.link-ag.net^
@@ -1503,8 +1502,6 @@
 @@||click.simba.taobao.com^
 @@||click.simba.taobao.com^$important
 @@||click.snapshat.com^
-@@||click.trafficguard.ai^
-@@||click.virt.exacttarget.com^
 @@||click.zoom.us^
 @@||clickattr.wayup.com^
 @@||clickcease.com^
@@ -1529,7 +1526,6 @@
 @@||clients4.google.com^$important
 @@||clients6.google.com^$important
 @@||cloud.hpplay.cn^
-@@||cloud.notification-naviextras.com^
 @@||cloudcontrol.live.360.cn^
 @@||cloudflare-dns.com
 @@||cloudflare.com/cdn-cgi/trace$domain=net.ljxnet.cn
@@ -1842,7 +1838,6 @@
 @@||fe3cr.delivery.mp.microsoft.com^
 @@||feconf.zhuanzhuan.com^
 @@||feed-image.baidu.com^
-@@||feed.adrelayer.com^
 @@||feedback.miui.com^
 @@||feedback.miui.com^$important
 @@||feentry.zhuanzhuan.com^
