@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-12-11 14:22:03（北京时间）
+! Version: 2025-12-11 16:19:58（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3679
+! Total count: 3672
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1605,7 +1605,6 @@
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cros-updates-serving.appspot.com^
 @@||cros-updates-serving.appspot.com^$important
-@@||cs.silverpop.com^
 @@||csi.gstatic.com^
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cstaticdun-v6.126.net^
@@ -1629,7 +1628,6 @@
 @@||d2.yiche.com^$important
 @@||d2na2p72vtqyok.cloudfront.net^
 @@||da.mmarket.com^
-@@||daikoku.ebis.ne.jp^
 @@||dashi.163.com^
 @@||data.bilibili.com^
 @@||data.bilibili.com^$important
@@ -1949,9 +1947,7 @@
 @@||goto.walmart.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
-@@||grp07.ias.rakuten.co.jp^
 @@||grpc.biliapi.net^
-@@||gs.statcounter.com^
 @@||gslb.hpplay.cn^
 @@||gsp0.baidu.com^
 @@||gsp1.baidu.com^
@@ -2585,8 +2581,6 @@
 @@||oa.tr.line.me^
 @@||oauth-login-drcn.platform.dbankcloud.com^
 @@||oauth.secure.pixiv.net^
-@@||obituaries.therecord.com^
-@@||obituaries.thestar.com^
 @@||oca.microsoft.com^
 @@||oca.telemetry.microsoft.com^
 @@||official.paymaya.com^
@@ -3547,7 +3541,6 @@
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.jd.com^
-@@||www.jdoqocy.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^
