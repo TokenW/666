@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-12-12 14:21:32（北京时间）
+! Version: 2025-12-12 16:19:15（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 3672
 @@*.flyme.cn
@@ -1289,7 +1289,6 @@
 @@||ar.hao123.com^$important
 @@||archive.biliimg.com^
 @@||article.zlink.toutiao.com^
-@@||artifactory.appodeal.com^
 @@||as.weixin.qq.com^
 @@||ascdn.baidu.com^
 @@||assets.giocdn.com^
@@ -1367,7 +1366,6 @@
 @@||btrace.qq.com^
 @@||btrace.qq.com^$important
 @@||bucket-ynote-online-cdn.note.youdao.com^
-@@||buyad.bi-xenon.cn^
 @@||bytedanceapi.com^
 @@||byteimg.com.queniusy.com^
 @@||c.58cdn.com.cn^
@@ -1605,6 +1603,7 @@
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cros-updates-serving.appspot.com^
 @@||cros-updates-serving.appspot.com^$important
+@@||cs.silverpop.com^
 @@||csi.gstatic.com^
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cstaticdun-v6.126.net^
@@ -1628,6 +1627,7 @@
 @@||d2.yiche.com^$important
 @@||d2na2p72vtqyok.cloudfront.net^
 @@||da.mmarket.com^
+@@||daikoku.ebis.ne.jp^
 @@||dashi.163.com^
 @@||data.bilibili.com^
 @@||data.bilibili.com^$important
@@ -1868,7 +1868,6 @@
 @@||flyme.cn^ 
 @@||fonts.gstatic.com^
 @@||fonts.gstatic.com^$important
-@@||forum.notebookreview.com^
 @@||foundation.youdao.com^
 @@||fourier-videoclip-eu.allawnos.com^
 @@||fourier.taobao.com^
@@ -1943,11 +1942,11 @@
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||googleadservices.com^
-@@||goto.target.com^
-@@||goto.walmart.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
+@@||grp07.ias.rakuten.co.jp^
 @@||grpc.biliapi.net^
+@@||gs.statcounter.com^
 @@||gslb.hpplay.cn^
 @@||gsp0.baidu.com^
 @@||gsp1.baidu.com^
@@ -1998,7 +1997,6 @@
 @@||hectorstatic.baidu.com^
 @@||hermes.hupu.com^
 @@||heyi-acs.cp31.ott.cibntv.net^
-@@||hidive.com^
 @@||himg.bdimg.com^
 @@||hls3-cf.xvideos-cdn.com^
 @@||hls9-cf.xvideos-cdn.com^
@@ -2144,7 +2142,6 @@
 @@||instant.io^
 @@||intercom-clicks.com^
 @@||interest.mix.sina.com.cn^
-@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -2581,6 +2578,8 @@
 @@||oa.tr.line.me^
 @@||oauth-login-drcn.platform.dbankcloud.com^
 @@||oauth.secure.pixiv.net^
+@@||obituaries.therecord.com^
+@@||obituaries.thestar.com^
 @@||oca.microsoft.com^
 @@||oca.telemetry.microsoft.com^
 @@||official.paymaya.com^
@@ -3541,6 +3540,7 @@
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.jd.com^
+@@||www.jdoqocy.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^
