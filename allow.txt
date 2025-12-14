@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-12-14 14:19:24（北京时间）
+! Version: 2025-12-14 16:16:39（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3676
+! Total count: 3674
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1945,8 +1945,6 @@
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||googleadservices.com^
-@@||goto.target.com^
-@@||goto.walmart.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
 @@||grp07.ias.rakuten.co.jp^
@@ -1995,13 +1993,13 @@
 @@||haohuo.snssdk.com^
 @@||haokan.baidu.com^
 @@||haoma.163.com^
+@@||hb.afl.rakuten.co.jp^
 @@||hdns.ksyun.com^$important
 @@||hdslb.com^$important
 @@||health.halodoc.com^
 @@||hectorstatic.baidu.com^
 @@||hermes.hupu.com^
 @@||heyi-acs.cp31.ott.cibntv.net^
-@@||hidive.com^
 @@||himg.bdimg.com^
 @@||hls3-cf.xvideos-cdn.com^
 @@||hls9-cf.xvideos-cdn.com^
@@ -2017,6 +2015,7 @@
 @@||hot.browser.miui.com^
 @@||hotel.17u.cn^
 @@||hr.163.com^
+@@||href.li^
 @@||hsforms.net^
 @@||httpdns.alicdn.com^
 @@||httpdns.bcelive.com^
@@ -2048,6 +2047,7 @@
 @@||i2.y.qq.com^
 @@||i72.lanzoug.com^
 @@||i82.lanzoug.com^
+@@||ia.hit.interia.pl^
 @@||iadsdk.apple.com^$important
 @@||iask.cn^
 @@||iask.com.cn^
@@ -2058,7 +2058,6 @@
 @@||ichnaea-web.netflix.com^
 @@||icws.jb51.net^
 @@||id.163.com^
-@@||id.i2i.jp^
 @@||id.mail.wo.cn^
 @@||id6.me^
 @@||idmb.register.xmpush.global.xiaomi.com^
@@ -3404,7 +3403,6 @@
 @@||vip.iqiyi.com^
 @@||vip1.kuwo.cn^
 @@||vipauth.hpplay.cn^
-@@||vitacost.122.2o7.net^
 @@||vmware.com^
 @@||vmware.com^$important
 @@||vod.cc.163.com^
