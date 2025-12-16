@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-12-16 14:21:35（北京时间）
+! Version: 2025-12-16 16:19:52（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3670
+! Total count: 3674
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1870,6 +1870,7 @@
 @@||flyme.cn^ 
 @@||fonts.gstatic.com^
 @@||fonts.gstatic.com^$important
+@@||forum.notebookreview.com^
 @@||foundation.youdao.com^
 @@||fourier-videoclip-eu.allawnos.com^
 @@||fourier-videoclip-in.allawnos.com^$important
@@ -1945,6 +1946,8 @@
 @@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||googleadservices.com^
+@@||goto.target.com^
+@@||goto.walmart.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
 @@||grpc.biliapi.net^
@@ -1991,17 +1994,19 @@
 @@||haohuo.snssdk.com^
 @@||haokan.baidu.com^
 @@||haoma.163.com^
+@@||hb.afl.rakuten.co.jp^
 @@||hdns.ksyun.com^$important
 @@||hdslb.com^$important
+@@||health.halodoc.com^
 @@||hectorstatic.baidu.com^
 @@||hermes.hupu.com^
 @@||heyi-acs.cp31.ott.cibntv.net^
+@@||hidive.com^
 @@||himg.bdimg.com^
 @@||hls3-cf.xvideos-cdn.com^
 @@||hls9-cf.xvideos-cdn.com^
 @@||hm.baidu.com^$important
 @@||hmrz.wo.cn^
-@@||home.focusatwill.com^
 @@||home.m.duiba.com.cn^
 @@||hoopchina.com^
 @@||hosting24.com^
@@ -2043,6 +2048,7 @@
 @@||i2.y.qq.com^
 @@||i72.lanzoug.com^
 @@||i82.lanzoug.com^
+@@||ia.hit.interia.pl^
 @@||iadsdk.apple.com^$important
 @@||iask.cn^
 @@||iask.com.cn^
@@ -2140,7 +2146,6 @@
 @@||instant.io^
 @@||intercom-clicks.com^
 @@||interest.mix.sina.com.cn^
-@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -3051,7 +3056,6 @@
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
-@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
@@ -3519,6 +3523,7 @@
 @@||www.data.sec*.miui.com^
 @@||www.datadoghq-browser-agent.com^
 @@||www.dianping.com^
+@@||www.dogpile.com^
 @@||www.dpfile.com^
 @@||www.dxmpay.com^
 @@||www.e0734.com^
@@ -3568,7 +3573,6 @@
 @@||www.recaptcha.net^
 @@||www.recaptcha.net^$important
 @@||www.so.com^
-@@||www.statcounter.com^
 @@||www.sygjx.com^
 @@||www.taobao.com^
 @@||www.toutiao.com^
