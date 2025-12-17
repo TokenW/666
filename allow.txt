@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2025-12-17 14:21:13（北京时间）
+! Version: 2025-12-17 16:19:46（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3674
+! Total count: 3669
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1080,7 +1080,6 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
-@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -1919,7 +1918,6 @@
 @@||gdtimg.com^
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
-@@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
 @@||get.sogou.com^$important
@@ -1940,7 +1938,6 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
 @@||go.redirectingat.com^
@@ -1950,7 +1947,9 @@
 @@||goto.walmart.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
+@@||grp07.ias.rakuten.co.jp^
 @@||grpc.biliapi.net^
+@@||gs.statcounter.com^
 @@||gslb.hpplay.cn^
 @@||gsp0.baidu.com^
 @@||gsp1.baidu.com^
@@ -2007,6 +2006,7 @@
 @@||hls9-cf.xvideos-cdn.com^
 @@||hm.baidu.com^$important
 @@||hmrz.wo.cn^
+@@||home.focusatwill.com^
 @@||home.m.duiba.com.cn^
 @@||hoopchina.com^
 @@||hosting24.com^
@@ -2132,7 +2132,6 @@
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||info.zb.qq.com^
-@@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
@@ -3056,6 +3055,7 @@
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
+@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
@@ -3107,7 +3107,6 @@
 @@||st.todesk.com^
 @@||staging.flash.sec.miui.com^
 @@||stars.shuqireader.com^
-@@||stash.roistat.com^
 @@||stat.api.4399.com^
 @@||stat.funshion.com^
 @@||stat.jseea.cn^
@@ -3267,7 +3266,6 @@
 @@||train.17u.cn^
 @@||translator.qq.com^
 @@||translator.qq.com^$important
-@@||trk.ecomm.lenovo.com^
 @@||trpc.qianbao.qq.com^
 @@||ts.market.mi-img.com^
 @@||ts.market.mi-img.com^$important
@@ -3374,8 +3372,6 @@
 @@||vali-g1.cp31.ott.cibntv.net^
 @@||validate.perfdrive.com^
 @@||vas.snssdk.com^
-@@||vcentry2.valuecommerce.ne.jp^
-@@||vcentry3.valuecommerce.ne.jp^
 @@||vconf.f.360.cn^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.snssdk.com^
@@ -3523,7 +3519,6 @@
 @@||www.data.sec*.miui.com^
 @@||www.datadoghq-browser-agent.com^
 @@||www.dianping.com^
-@@||www.dogpile.com^
 @@||www.dpfile.com^
 @@||www.dxmpay.com^
 @@||www.e0734.com^
@@ -3543,7 +3538,6 @@
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.jd.com^
-@@||www.jdoqocy.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^
@@ -3573,6 +3567,7 @@
 @@||www.recaptcha.net^
 @@||www.recaptcha.net^$important
 @@||www.so.com^
+@@||www.statcounter.com^
 @@||www.sygjx.com^
 @@||www.taobao.com^
 @@||www.toutiao.com^
