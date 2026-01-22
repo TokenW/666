@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-01-22 14:23:38（北京时间）
+! Version: 2026-01-22 16:20:55（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2718
+! Total count: 2719
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -144,7 +144,6 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
-@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -993,6 +992,7 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
 @@||go.redirectingat.com^
@@ -1188,6 +1188,7 @@
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||info.zb.qq.com^
+@@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
@@ -1434,6 +1435,7 @@
 @@||m8.music.126.net^
 @@||m801.music.126.net^
 @@||ma*-normal-lf.zijieapi.com^
+@@||ma135-r.analytics.edgekey.net^
 @@||mac.bmcx.com^
 @@||mai.pinduoduo.com^
 @@||mail.163.com^
@@ -2105,7 +2107,6 @@
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
-@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
