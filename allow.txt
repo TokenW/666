@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-02-03 14:39:27（北京时间）
+! Version: 2026-02-03 16:27:35（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2724
+! Total count: 2713
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -451,7 +451,6 @@
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||callback.58.com^
 @@||campus.163.com^
-@@||captcha.su.baidu.com^
 @@||captive.apple.com^
 @@||card-paopao.iqiyi.com^
 @@||cards.iqiyi.com^
@@ -976,7 +975,6 @@
 @@||gdtimg.com^
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
-@@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
 @@||get.sogou.com^$important
@@ -995,7 +993,6 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
 @@||go.redirectingat.com^
@@ -1005,7 +1002,6 @@
 @@||goto.walmart.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
-@@||grp07.ias.rakuten.co.jp^
 @@||grpc.biliapi.net^
 @@||gs.statcounter.com^
 @@||gslb.hpplay.cn^
@@ -1191,7 +1187,6 @@
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||info.zb.qq.com^
-@@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
@@ -2111,7 +2106,6 @@
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
-@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
@@ -2423,10 +2417,7 @@
 @@||v9-novelapp.fqnovelvod.com^
 @@||v9-x.toutiaovod.com^
 @@||vali-g1.cp31.ott.cibntv.net^
-@@||validate.perfdrive.com^
 @@||vas.snssdk.com^
-@@||vcentry2.valuecommerce.ne.jp^
-@@||vcentry3.valuecommerce.ne.jp^
 @@||vconf.f.360.cn^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.snssdk.com^
@@ -2454,7 +2445,6 @@
 @@||vip.iqiyi.com^
 @@||vip1.kuwo.cn^
 @@||vipauth.hpplay.cn^
-@@||vitacost.122.2o7.net^
 @@||vm.gtimg.cn^$important
 @@||vmware.com^
 @@||vmware.com^$important
@@ -2624,7 +2614,6 @@
 @@||www.recaptcha.net^
 @@||www.recaptcha.net^$important
 @@||www.so.com^
-@@||www.statcounter.com^
 @@||www.sygjx.com^
 @@||www.taobao.com^
 @@||www.toutiao.com^
