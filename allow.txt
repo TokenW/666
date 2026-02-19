@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-02-19 14:50:39（北京时间）
+! Version: 2026-02-19 16:34:02（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2759
+! Total count: 2755
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -455,6 +455,7 @@
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||callback.58.com^
 @@||campus.163.com^
+@@||captcha.su.baidu.com^
 @@||captive.apple.com^
 @@||card-paopao.iqiyi.com^
 @@||cards.iqiyi.com^
@@ -516,10 +517,7 @@
 @@||chrome-infra-packages.appspot.com^
 @@||chrome-infra-packages.appspot.com^$important
 @@||ci.xiaohongshu.com^
-@@||cindyholbrook.lpages.co^
-@@||citiintl.122.2o7.net^
 @@||cj.dotomi.com^
-@@||cl.link-ag.net^
 @@||cl2.webterren.com^
 @@||cl2.webterren.com^$important
 @@||clarins.com.cn^
@@ -532,7 +530,6 @@
 @@||click.allkeyshop.com^
 @@||click.alternate.de^
 @@||click.appcast.io^
-@@||click.avs.io^
 @@||click.chp.kohls.com^
 @@||click.cptrack.de^
 @@||click.discord.com^
@@ -572,8 +569,6 @@
 @@||click.simba.taobao.com^
 @@||click.simba.taobao.com^$important
 @@||click.snapshat.com^
-@@||click.trafficguard.ai^
-@@||click.virt.exacttarget.com^
 @@||click.zoom.us^
 @@||clickattr.wayup.com^
 @@||clickcease.com^
@@ -675,6 +670,7 @@
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cros-updates-serving.appspot.com^
 @@||cros-updates-serving.appspot.com^$important
+@@||cs.silverpop.com^
 @@||csi.gstatic.com^
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cstaticdun-v6.126.net^
@@ -727,6 +723,7 @@
 @@||dev.getui.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
+@@||developers.google.com^
 @@||device-box.onethingpcs.com^
 @@||dfcfw.com^
 @@||dftoutiao.com^
@@ -2628,7 +2625,6 @@
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.jd.com^
-@@||www.jdoqocy.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^
