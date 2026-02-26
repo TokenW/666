@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-02-26 14:49:50（北京时间）
+! Version: 2026-02-26 16:36:08（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 2760
 @@*.flyme.cn
@@ -455,6 +455,7 @@
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||callback.58.com^
 @@||campus.163.com^
+@@||captcha.su.baidu.com^
 @@||captive.apple.com^
 @@||card-paopao.iqiyi.com^
 @@||cards.iqiyi.com^
@@ -728,6 +729,7 @@
 @@||dev.getui.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
+@@||developers.google.com^
 @@||device-box.onethingpcs.com^
 @@||dfcfw.com^
 @@||dftoutiao.com^
@@ -1006,8 +1008,10 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
+@@||go.redirectingat.com^
 @@||go.scorptec.com.au^
 @@||googleadservices.com^
 @@||goto.target.com^
@@ -1201,11 +1205,9 @@
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||info.zb.qq.com^
-@@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
-@@||injections.adguard.org^
 @@||input.shouji.sogou.com^
 @@||input.shouji.sogou.com^ 
 @@||input.shouji.sogou.com^$important
@@ -1271,7 +1273,6 @@
 @@||jr.jd.com^$important
 @@||js-gamezone.static.yximgs.com^
 @@||js.3conline.com^
-@@||js.monitor.azure.com^
 @@||js.t.sinajs.cn^
 @@||jspassport.ssl.qhimg.com^
 @@||jstatic.3.cn^
@@ -2630,7 +2631,6 @@
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.jd.com^
-@@||www.jdoqocy.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^
