@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-01 14:35:40（北京时间）
+! Version: 2026-03-01 16:21:21（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2764
+! Total count: 2751
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -146,6 +146,7 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
+@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -729,7 +730,6 @@
 @@||dev.getui.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
-@@||developers.google.com^
 @@||device-box.onethingpcs.com^
 @@||dfcfw.com^
 @@||dftoutiao.com^
@@ -989,7 +989,6 @@
 @@||gdtimg.com^
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
-@@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
 @@||get.sogou.com^$important
@@ -1008,14 +1007,9 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
-@@||go.redirectingat.com^
-@@||go.scorptec.com.au^
 @@||googleadservices.com^
-@@||goto.target.com^
-@@||goto.walmart.com^
 @@||gql-fed.reddit.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
@@ -1205,11 +1199,9 @@
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||info.zb.qq.com^
-@@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
-@@||injections.adguard.org^
 @@||input.shouji.sogou.com^
 @@||input.shouji.sogou.com^ 
 @@||input.shouji.sogou.com^$important
@@ -2189,7 +2181,6 @@
 @@||srv.android.shouji.sogou.com^$important
 @@||srv.sec.miui.com^
 @@||ss.phncdn.com^
-@@||ssai.aniview.com^
 @@||ssl-cdn.static.browser.mi-img.com^
 @@||ssl-cdn.static.browser.mi-img.com^$important
 @@||ssl.gstatic.com^
@@ -2355,6 +2346,7 @@
 @@||train.17u.cn^
 @@||translator.qq.com^
 @@||translator.qq.com^$important
+@@||trk.ecomm.lenovo.com^
 @@||trpc.qianbao.qq.com^
 @@||ts.market.mi-img.com^
 @@||ts.market.mi-img.com^$important
@@ -2460,11 +2452,8 @@
 @@||v9-novelapp.fqnovelvod.com^
 @@||v9-x.toutiaovod.com^
 @@||vali-g1.cp31.ott.cibntv.net^
-@@||validate.perfdrive.com^
 @@||valuecommerce.com^$important
 @@||vas.snssdk.com^
-@@||vcentry2.valuecommerce.ne.jp^
-@@||vcentry3.valuecommerce.ne.jp^
 @@||vconf.f.360.cn^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.snssdk.com^
@@ -2613,9 +2602,7 @@
 @@||www.crossoverchina.com^$important
 @@||www.data.mistat.*xiaomi.com^
 @@||www.data.sec*.miui.com^
-@@||www.datadoghq-browser-agent.com^
 @@||www.dianping.com^
-@@||www.dogpile.com^
 @@||www.dpfile.com^
 @@||www.dxmpay.com^
 @@||www.getui.com^
