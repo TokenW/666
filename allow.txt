@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-04 14:36:26（北京时间）
+! Version: 2026-03-04 16:29:13（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2760
+! Total count: 2756
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -121,15 +121,12 @@
 @@||accountapi.dianping.com^
 @@||accscdn.cp12.ott.cibntv.net^
 @@||accscdn.m.taobao.com^
-@@||acs-m.daraz.com.bd^
-@@||acs-m.daraz.pk^
 @@||acs.m.taobao.com^
 @@||acs.m.taobao.com^$important
 @@||acs.youku.com^
 @@||acs4baichuan.m.taobao.com^
 @@||act.vip.iqiyi.com^
 @@||act.zhuanzhuan.com^
-@@||action.metaffiliation.com^
 @@||active.jd.com^
 @@||activity.browser.intl.miui.com^
 @@||activity.hdslb.com^
@@ -146,6 +143,7 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
+@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -989,6 +987,7 @@
 @@||gdtimg.com^
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
+@@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
 @@||get.sogou.com^$important
@@ -1208,7 +1207,6 @@
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
-@@||injections.adguard.org^
 @@||input.shouji.sogou.com^
 @@||input.shouji.sogou.com^ 
 @@||input.shouji.sogou.com^$important
@@ -1994,18 +1992,12 @@
 @@||reallyfreegeoip.org^$important
 @@||recmd.html5.qq.com^
 @@||recmd.html5.qq.com^$important
-@@||recommender.scarabresearch.com^
 @@||reddit
-@@||redir.ownpage.fr^
-@@||redirect.appmetrica.yandex.com^
 @@||redirect.disqus.com^
-@@||ref.rbauction.com^
-@@||refer.discover.com^
 @@||reg.163.com^
 @@||register*mi.com^
 @@||register.xmpush.global.xiaomi.com^
 @@||register.xmpush.xiaomi.com^
-@@||remembering.ca^
 @@||render-prod-backup-tile.amap.com^
 @@||render.amap.com^
 @@||report.huatuo.qq.com^
@@ -2145,6 +2137,7 @@
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
+@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
@@ -2463,6 +2456,8 @@
 @@||validate.perfdrive.com^
 @@||valuecommerce.com^$important
 @@||vas.snssdk.com^
+@@||vcentry2.valuecommerce.ne.jp^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||vconf.f.360.cn^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.snssdk.com^
@@ -2612,6 +2607,7 @@
 @@||www.data.mistat.*xiaomi.com^
 @@||www.data.sec*.miui.com^
 @@||www.dianping.com^
+@@||www.dogpile.com^
 @@||www.dpfile.com^
 @@||www.dxmpay.com^
 @@||www.getui.com^
@@ -2630,7 +2626,6 @@
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.jd.com^
-@@||www.jdoqocy.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^
@@ -2660,6 +2655,7 @@
 @@||www.recaptcha.net^
 @@||www.recaptcha.net^$important
 @@||www.so.com^
+@@||www.statcounter.com^
 @@||www.sygjx.com^
 @@||www.taobao.com^
 @@||www.toutiao.com^
