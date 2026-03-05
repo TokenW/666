@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-05 14:39:26（北京时间）
+! Version: 2026-03-05 16:30:56（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2756
+! Total count: 2763
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -113,7 +113,6 @@
 @@||abtest3-misc-lf.zijieapi.com^
 @@||abtestvm.bytedance.com^
 @@||ac.dun.163yun.com^
-@@||ac.ebis.ne.jp^
 @@||access1.tpns.tencent.com^
 @@||account.dianping.com^
 @@||account.onethingpcs.com^
@@ -121,12 +120,15 @@
 @@||accountapi.dianping.com^
 @@||accscdn.cp12.ott.cibntv.net^
 @@||accscdn.m.taobao.com^
+@@||acs-m.daraz.com.bd^
+@@||acs-m.daraz.pk^
 @@||acs.m.taobao.com^
 @@||acs.m.taobao.com^$important
 @@||acs.youku.com^
 @@||acs4baichuan.m.taobao.com^
 @@||act.vip.iqiyi.com^
 @@||act.zhuanzhuan.com^
+@@||action.metaffiliation.com^
 @@||active.jd.com^
 @@||activity.browser.intl.miui.com^
 @@||activity.hdslb.com^
@@ -143,7 +145,6 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
-@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -727,7 +728,6 @@
 @@||dev.getui.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
-@@||developers.google.com^
 @@||device-box.onethingpcs.com^
 @@||dfcfw.com^
 @@||dftoutiao.com^
@@ -987,7 +987,6 @@
 @@||gdtimg.com^
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
-@@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
 @@||get.sogou.com^$important
@@ -1207,6 +1206,7 @@
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
+@@||injections.adguard.org^
 @@||input.shouji.sogou.com^
 @@||input.shouji.sogou.com^ 
 @@||input.shouji.sogou.com^$important
@@ -1221,7 +1221,6 @@
 @@||interface.music.163.com^
 @@||interface3.music.163.com.163jiasu.com^
 @@||interface3.music.163.com^
-@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -1992,12 +1991,18 @@
 @@||reallyfreegeoip.org^$important
 @@||recmd.html5.qq.com^
 @@||recmd.html5.qq.com^$important
+@@||recommender.scarabresearch.com^
 @@||reddit
+@@||redir.ownpage.fr^
+@@||redirect.appmetrica.yandex.com^
 @@||redirect.disqus.com^
+@@||ref.rbauction.com^
+@@||refer.discover.com^
 @@||reg.163.com^
 @@||register*mi.com^
 @@||register.xmpush.global.xiaomi.com^
 @@||register.xmpush.xiaomi.com^
+@@||remembering.ca^
 @@||render-prod-backup-tile.amap.com^
 @@||render.amap.com^
 @@||report.huatuo.qq.com^
@@ -2606,6 +2611,7 @@
 @@||www.crossoverchina.com^$important
 @@||www.data.mistat.*xiaomi.com^
 @@||www.data.sec*.miui.com^
+@@||www.datadoghq-browser-agent.com^
 @@||www.dianping.com^
 @@||www.dogpile.com^
 @@||www.dpfile.com^
@@ -2626,6 +2632,7 @@
 @@||www.ip138.com^
 @@||www.iqiyi.com^
 @@||www.jd.com^
+@@||www.jdoqocy.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.kanjiantu.com^
