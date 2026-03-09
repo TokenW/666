@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-09 14:51:48（北京时间）
+! Version: 2026-03-09 16:34:37（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2764
+! Total count: 2765
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1206,9 +1206,11 @@
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||info.zb.qq.com^
+@@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
+@@||injections.adguard.org^
 @@||input.shouji.sogou.com^
 @@||input.shouji.sogou.com^ 
 @@||input.shouji.sogou.com^$important
@@ -1255,7 +1257,6 @@
 @@||item.taobao.com^
 @@||iteye.com^
 @@||iteye.com^$important
-@@||itoya.ec-optimizer.com^
 @@||iwx.mail.qq.com^
 @@||jd.com^
 @@||jia.360.cn^
@@ -2234,7 +2235,6 @@
 @@||statics.itc.cn^$important
 @@||staticsns.cdn.bcebos.com^
 @@||staticwiki.biligame.com^
-@@||stats.britishbaseball.org.uk^
 @@||stats.gc.apple.com^
 @@||stats.gov.cn^
 @@||stats.uptimerobot.com^
@@ -2263,9 +2263,11 @@
 @@||sugs.m.sm.cn^
 @@||suo.im^$important
 @@||support-beacon.nakanohito.jp^
+@@||support-widget.nakanohito.jp^
 @@||support.sangfor.com.cn^
 @@||support.weixin.qq.com^
 @@||survey.feelgood.cn^
+@@||surveymyopinion.researchnow.com^
 @@||sv.map.baidu.com^
 @@||swap.stu.126.net^
 @@||swimg1.hstdyf.com^
@@ -2353,7 +2355,6 @@
 @@||train.17u.cn^
 @@||translator.qq.com^
 @@||translator.qq.com^$important
-@@||trk.ecomm.lenovo.com^
 @@||trpc.qianbao.qq.com^
 @@||ts.market.mi-img.com^
 @@||ts.market.mi-img.com^$important
