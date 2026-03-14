@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-14 14:35:35（北京时间）
+! Version: 2026-03-14 16:24:57（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2765
+! Total count: 2762
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -98,7 +98,6 @@
 @@||96956.com.cn^
 @@||96956.com.cn^$important
 @@||a.9game.cn^
-@@||a.adwolf.ru^
 @@||a.sellpoint.net^
 @@||a.video.qq.com^
 @@||a0.app.xiaomi.com
@@ -154,7 +153,6 @@
 @@||adidasapp.api.adidas.com.cn^
 @@||adidasapp.api.adidas.com.cn^$important
 @@||admin.dable.io^
-@@||admin.mailchimp.com^
 @@||adnmb3.com^
 @@||ads.privacy.qq.com^
 @@||ads.taboola.com^
@@ -456,6 +454,7 @@
 @@||cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com^
 @@||callback.58.com^
 @@||campus.163.com^
+@@||captcha.su.baidu.com^
 @@||captive.apple.com^
 @@||card-paopao.iqiyi.com^
 @@||cards.iqiyi.com^
@@ -914,7 +913,6 @@
 @@||fe3cr.delivery.mp.microsoft.com^
 @@||feconf.zhuanzhuan.com^
 @@||feed-image.baidu.com^
-@@||feed.adrelayer.com^
 @@||feedback.miui.com^
 @@||feedback.miui.com^$important
 @@||feeds.sina.cn^
@@ -1255,6 +1253,7 @@
 @@||item.taobao.com^
 @@||iteye.com^
 @@||iteye.com^$important
+@@||itoya.ec-optimizer.com^
 @@||iwx.mail.qq.com^
 @@||jd.com^
 @@||jia.360.cn^
@@ -2294,9 +2293,7 @@
 @@||t7z.cupid.iqiyi.com^
 @@||t8.baidu.com^
 @@||t9.baidu.com^
-@@||tags.crwdcntrl.net^
 @@||tagtic.cn^
-@@||taiga.maven.io^
 @@||tajs.qq.com^
 @@||tangram.e.qq.com^
 @@||tangram.e.qq.com^$important
