@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-15 22:22:42（北京时间）
+! Version: 2026-03-16 00:21:49（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2768
+! Total count: 2820
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -118,6 +118,8 @@
 @@||account.dianping.com^
 @@||account.onethingpcs.com^
 @@||account.wps.cn^
+@@||account.xiaomi.com^
+@@||account.youku.com^
 @@||accountapi.dianping.com^
 @@||accscdn.cp12.ott.cibntv.net^
 @@||accscdn.m.taobao.com^
@@ -246,6 +248,7 @@
 @@||api.coolapk.com^
 @@||api.coolapk1s.com^
 @@||api.crashguard.me^
+@@||api.dangbei.com^
 @@||api.developer.xiaomi.com^
 @@||api.device.xiaomi.net^
 @@||api.device.xiaomi.net^$important
@@ -266,6 +269,7 @@
 @@||api.kingdata.ksyun.com^$important
 @@||api.kuaishouzt.com^
 @@||api.kuaishouzt.com^$important
+@@||api.kumiao.com^
 @@||api.kwaizt.com^
 @@||api.live.bilibili.com^
 @@||api.m.jd.com^
@@ -292,6 +296,7 @@
 @@||api.ts.feedback.qy.net^$important
 @@||api.tuisong.baidu.com^
 @@||api.tv.sohu.com^
+@@||api.tv.xiaomi.com^
 @@||api.tw06.xlmc.sec.miui.com^
 @@||api.twitter.com^
 @@||api.union.vip.com^
@@ -301,6 +306,7 @@
 @@||api.video.xiaomi.com^$important
 @@||api.vip.miui.com^
 @@||api.weathercn.com^
+@@||api.youku.com^
 @@||api.zhihu.com^
 @@||api.zhihu.com^$important
 @@||api.zhuti.xiaomi.com^
@@ -327,6 +333,7 @@
 @@||app.bilibili.com^
 @@||app.biligame.com^
 @@||app.chat.xiaomi.net^
+@@||app.dangbei.com^
 @@||app.home.360.cn^
 @@||app.huabao.360.cn^
 @@||app.market.xiaomi.com^
@@ -351,6 +358,7 @@
 @@||appmsg.gzmtr.cn^
 @@||appmsg.gzmtr.cn^$important
 @@||appsec-mobile.meituan.com^
+@@||appstore.pandora.xiaomi.com^
 @@||appsupport.qq.com^
 @@||appsupport.qq.com^$important
 @@||aps.amap.com^
@@ -461,6 +469,7 @@
 @@||card-paopao.iqiyi.com^
 @@||cards.iqiyi.com^
 @@||care.meizu.com^
+@@||cast.mi.com^
 @@||castatic.fengkongcloud.com^
 @@||catchup.thisisdax.com^
 @@||cbg.163.com^
@@ -490,6 +499,7 @@
 @@||cdn.iocdn.cc^
 @@||cdn.jsdelivr.net^
 @@||cdn.jsdelivr.net^$important
+@@||cdn.pandora.xiaomi.com^
 @@||cdn.pinduoduo.com^
 @@||cdn.rozetka.com.ua^
 @@||cdn.staticfile.org^
@@ -518,6 +528,7 @@
 @@||chrome-infra-packages.appspot.com^
 @@||chrome-infra-packages.appspot.com^$important
 @@||ci.xiaohongshu.com^
+@@||cibntv.net^
 @@||cindyholbrook.lpages.co^
 @@||citiintl.122.2o7.net^
 @@||cj.dotomi.com^
@@ -642,6 +653,9 @@
 @@||conf.hpplay.cn^
 @@||config-onecloud.onethingpcs.com^
 @@||config.cmpassport.com^
+@@||config.dangbei.com^
+@@||config.tv.xiaomi.com^
+@@||config.youku.com^
 @@||connect-drcn.hispace.hicloud.com^
 @@||connect.intl.rom.miui.com^
 @@||connect.rom.miui.com/generate_204^
@@ -702,9 +716,11 @@
 @@||d2na2p72vtqyok.cloudfront.net^
 @@||da.mmarket.com^
 @@||daikoku.ebis.ne.jp^
+@@||dangbei.com^
 @@||dashi.163.com^
 @@||data.bilibili.com^
 @@||data.bilibili.com^$important
+@@||data.dangbei.com^
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
 @@||data.flurry.com^
@@ -723,6 +739,7 @@
 @@||dd.myapp.com^
 @@||dd.myapp.com^$important
 @@||ddys.pro^
+@@||de.pandora.xiaomi.com^
 @@||debugtbs.qq.com^
 @@||debugtbs.qq.com^$important
 @@||defaultts.tc.qq.com^
@@ -757,6 +774,7 @@
 @@||dldir1.qq.com^$important
 @@||dldir3.qq.com^
 @@||dldir3.qq.com^$important
+@@||dlna.mi.com^
 @@||dlswbr.baidu.com^ 
 @@||dm.toutiao.com^
 @@||dm.video.qq.com^
@@ -779,9 +797,11 @@
 @@||down-update.qq.com^
 @@||down.360safe.com^
 @@||down.anticheatexpert.com^
+@@||down.dangbei.com^
 @@||down.sandai.net^
 @@||download.adguard.com^
 @@||download.alicdn.com^
+@@||download.dangbei.com^
 @@||download.parallels.com^$important
 @@||download.pinduoduo.com^
 @@||download.se.360.cn^
@@ -1089,6 +1109,7 @@
 @@||hot.browser.intl.miui.com^
 @@||hot.browser.miui.com^
 @@||hotel.17u.cn^
+@@||hpplay.cn^
 @@||hr.163.com^
 @@||href.li^
 @@||hsforms.net^
@@ -1135,6 +1156,7 @@
 @@||id.163.com^
 @@||id.i2i.jp^
 @@||id.mail.wo.cn^
+@@||id.mi.com^
 @@||id6.me^
 @@||idmb.register.xmpush.global.xiaomi.com^
 @@||ietheivaicai.com^
@@ -1308,6 +1330,7 @@
 @@||laomaotao.net^
 @@||lc-cn-n1-shared.com^
 @@||learn.khanacademy.org^
+@@||lebo.cn^
 @@||lebotob.hpplay.cn^
 @@||leihuo.163.com^
 @@||lens.zhihu.com^
@@ -1480,6 +1503,7 @@
 @@||map.qq.com^$important
 @@||mapi.m.jd.com^
 @@||mark.l.qq.com^
+@@||market.dangbei.com^
 @@||market.m.taobao.com^
 @@||market.mi-img.com^
 @@||market.mi-img.com^$important
@@ -1542,7 +1566,9 @@
 @@||minigame5-normal-hl.zijieapi.com^
 @@||minorshort.weixin.qq.com^
 @@||mipcache.bdstatic.com^
+@@||miracast.mi.com^
 @@||mirrors.163.com^
+@@||mitv.api.miui.com^
 @@||mivideo.cdn.pandora.xiaomi.com^
 @@||mivideo.cdn.pandora.xiaomi.com^$important
 @@||mix.sina.com.cn^
@@ -1699,10 +1725,12 @@
 @@||oss-asq-static.11222.cn^
 @@||oss-asq-static.11222.cn^$important
 @@||ossapi.baidu.com^
+@@||ota.tv.xiaomi.com^
 @@||oth.eve.mdt.qq.com^ 
 @@||oth.eve.mdt.qq.com^$important
 @@||otheve.beacon.qq.com^
 @@||otheve.beacon.qq.com^$important
+@@||ott.cibntv.net^
 @@||ouo.io^$important
 @@||outlookmobile-office365-tas.msedge.net^
 @@||p**-ppx.byteimg.com^
@@ -1809,6 +1837,7 @@
 @@||pagead.l.doubleclick.net^
 @@||pan.quark.cn^
 @@||pan.quark.cn^$important
+@@||pandora.xiaomi.com^
 @@||parked-content.godaddy.com^
 @@||parked-content.godaddy.com^$important
 @@||partner.everydays.de^
@@ -1820,8 +1849,10 @@
 @@||passport.qidian.com^
 @@||passport.weibo.cn^
 @@||passport.weibo.com^
+@@||passport.xiaomi.com^
 @@||passport.youdao.com^
 @@||passport.youdao.com^$important
+@@||passport.youku.com^
 @@||passport.yuewen.com^
 @@||patchwiki.biligame.com^
 @@||pay.bilibili.com^
@@ -1883,6 +1914,10 @@
 @@||pitaya.bytedance.com^
 @@||pkg.biligame.com^
 @@||pkg.sinaimg.cn^
+@@||pl-ali.youku.com^
+@@||pl-aliyun.youku.com^
+@@||pl-hw.youku.com^
+@@||pl-tx.youku.com^
 @@||play-fe.googleapis.com^
 @@||play.163.com^
 @@||play.googleapis.com^
@@ -2203,11 +2238,13 @@
 @@||stars.shuqireader.com^
 @@||stash.roistat.com^
 @@||stat.api.4399.com^
+@@||stat.dangbei.com^
 @@||stat.funshion.com^
 @@||stat.jseea.cn^
 @@||stat.lianmeng.360.cn^
 @@||stat.y.qq.com^
 @@||stat.y.qq.com^$important
+@@||stat.youku.com^
 @@||stat6.y.qq.com^
 @@||static-mobilegame-1.biligame.net^
 @@||static-res.qq.com^
@@ -2412,10 +2449,14 @@
 @@||upage.imtt.qq.com^
 @@||update.360safe.com^
 @@||update.miui.com^$important
+@@||update.tv.xiaomi.com^
 @@||updateinfo.market.xiaomi.com^
 @@||updatem.360safe.com^
+@@||upgrade.dangbei.com^
 @@||upgrade.ptmi.gitv.tv^
 @@||upgrade.ptmi.gitv.tv^$important
+@@||upgrade.tv.xiaomi.com^
+@@||upgrade.youku.com^
 @@||upload-bbs.miyoushe.com^
 @@||upload.cc
 @@||upos-sz-*.bilivideo.com^
@@ -2462,6 +2503,16 @@
 @@||v6.pic.upqzfile.com^
 @@||v9-novelapp.fqnovelvod.com^
 @@||v9-x.toutiaovod.com^
+@@||vali-dns.cp31.ott.cibntv.net^
+@@||vali-dns.cp32.ott.cibntv.net^
+@@||vali-dns.cp33.ott.cibntv.net^
+@@||vali-dns.cp34.ott.cibntv.net^
+@@||vali-dns.cp35.ott.cibntv.net^
+@@||vali-dns.cp36.ott.cibntv.net^
+@@||vali-dns.cp37.ott.cibntv.net^
+@@||vali-dns.cp38.ott.cibntv.net^
+@@||vali-dns.cp39.ott.cibntv.net^
+@@||vali-dns.cp40.ott.cibntv.net^
 @@||vali-g1.cp31.ott.cibntv.net^
 @@||validate.perfdrive.com^
 @@||valuecommerce.com^$important
@@ -2493,6 +2544,7 @@
 @@||view.inews.qq.com^$important
 @@||vip-pro.m.yhd.com^
 @@||vip.iqiyi.com^
+@@||vip.youku.com^
 @@||vip1.kuwo.cn^
 @@||vipauth.hpplay.cn^
 @@||vitacost.122.2o7.net^
