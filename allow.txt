@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-21 14:32:55（北京时间）
+! Version: 2026-03-21 16:22:02（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 2810
 @@*.flyme.cn
@@ -113,7 +113,6 @@
 @@||abtest3-misc-lf.zijieapi.com^
 @@||abtestvm.bytedance.com^
 @@||ac.dun.163yun.com^
-@@||ac.ebis.ne.jp^
 @@||access1.tpns.tencent.com^
 @@||account.dianping.com^
 @@||account.onethingpcs.com^
@@ -123,15 +122,12 @@
 @@||accountapi.dianping.com^
 @@||accscdn.cp12.ott.cibntv.net^
 @@||accscdn.m.taobao.com^
-@@||acs-m.daraz.com.bd^
-@@||acs-m.daraz.pk^
 @@||acs.m.taobao.com^
 @@||acs.m.taobao.com^$important
 @@||acs.youku.com^
 @@||acs4baichuan.m.taobao.com^
 @@||act.vip.iqiyi.com^
 @@||act.zhuanzhuan.com^
-@@||action.metaffiliation.com^
 @@||active.jd.com^
 @@||activity.browser.intl.miui.com^
 @@||activity.hdslb.com^
@@ -470,7 +466,9 @@
 @@||care.meizu.com^
 @@||cast.mi.com^
 @@||castatic.fengkongcloud.com^
+@@||catchup.thisisdax.com^
 @@||cbg.163.com^
+@@||cbsi.map.fastly.net^
 @@||cbu01.alicdn.com^
 @@||cc.163.com^
 @@||cc.map.qq.com^
@@ -486,15 +484,19 @@
 @@||cdn.akamai.steamstatic.com^
 @@||cdn.ark.qq.com^
 @@||cdn.ark.qq.com^$important
+@@||cdn.atmedia.hu^
 @@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
+@@||cdn.datatables.net^
 @@||cdn.deepseek.com^
+@@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.iocdn.cc^
 @@||cdn.jsdelivr.net^
 @@||cdn.jsdelivr.net^$important
 @@||cdn.pandora.xiaomi.com^
 @@||cdn.pinduoduo.com^
+@@||cdn.rozetka.com.ua^
 @@||cdn.staticfile.org^
 @@||cdn.webclicks24.com^
 @@||cdn.wtzw.com^
@@ -740,7 +742,6 @@
 @@||dev.getui.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
-@@||developers.google.com^
 @@||device-box.onethingpcs.com^
 @@||dfcfw.com^
 @@||dftoutiao.com^
@@ -1022,7 +1023,6 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
 @@||go.redirectingat.com^
@@ -1271,6 +1271,7 @@
 @@||item.taobao.com^
 @@||iteye.com^
 @@||iteye.com^$important
+@@||itoya.ec-optimizer.com^
 @@||iwx.mail.qq.com^
 @@||jd.com^
 @@||jia.360.cn^
@@ -2385,6 +2386,7 @@
 @@||train.17u.cn^
 @@||translator.qq.com^
 @@||translator.qq.com^$important
+@@||trk.ecomm.lenovo.com^
 @@||trpc.qianbao.qq.com^
 @@||ts.market.mi-img.com^
 @@||ts.market.mi-img.com^$important
@@ -2507,8 +2509,6 @@
 @@||validate.perfdrive.com^
 @@||valuecommerce.com^$important
 @@||vas.snssdk.com^
-@@||vcentry2.valuecommerce.ne.jp^
-@@||vcentry3.valuecommerce.ne.jp^
 @@||vconf.f.360.cn^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.snssdk.com^
