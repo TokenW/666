@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-03-21 22:19:20（北京时间）
+! Version: 2026-03-22 00:19:27（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2810
+! Total count: 2813
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -1617,6 +1617,7 @@
 @@||ms.vipstatic.com^$important
 @@||msdk.qq.com^
 @@||mse.360.cn^
+@@||msec.opposhop.cn^$important
 @@||msedown.360safe.com^
 @@||msfwifi.3g.qq.com^
 @@||msg.douyu.com^
@@ -1685,6 +1686,7 @@
 @@||oauth.secure.pixiv.net^
 @@||obituaries.therecord.com^
 @@||obituaries.thestar.com^
+@@||obus-cn.dc.heytapmobi.com^$important
 @@||oca.microsoft.com^
 @@||oca.telemetry.microsoft.com^
 @@||official.paymaya.com^
@@ -2596,6 +2598,7 @@
 @@||weidian.com^$important
 @@||weishi.360.cn^
 @@||weixin.qq.com^$important
+@@||wenxue.iqiyi.com^$important
 @@||weus2watcab01.blob.core.windows.net^
 @@||weus2watcab02.blob.core.windows.net^
 @@||wgo.mmstat.com^
