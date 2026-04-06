@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-06 15:19:30（北京时间）
+! Version: 2026-04-06 17:05:26（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3173
+! Total count: 3178
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -175,6 +175,7 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
+@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -1378,6 +1379,7 @@
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||info.zb.qq.com^
+@@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
@@ -1396,6 +1398,7 @@
 @@||interface.music.163.com^
 @@||interface3.music.163.com.163jiasu.com^
 @@||interface3.music.163.com^
+@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -2278,7 +2281,6 @@
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
 @@||r5---sn-4g5ednsl.googlevideo.com^
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
-@@||radiofrance.targetspot.com^
 @@||rd.bizrate.com^
 @@||rdelivery.qq.com^
 @@||read.huawei.com^
@@ -2643,7 +2645,9 @@
 @@||t7z.cupid.iqiyi.com^
 @@||t8.baidu.com^
 @@||t9.baidu.com^
+@@||tags.crwdcntrl.net^
 @@||tagtic.cn^
+@@||taiga.maven.io^
 @@||tajs.qq.com^
 @@||tangram.e.qq.com^
 @@||tangram.e.qq.com^$important
@@ -2845,6 +2849,7 @@
 @@||vali-dns.cp39.ott.cibntv.net^
 @@||vali-dns.cp40.ott.cibntv.net^
 @@||vali-g1.cp31.ott.cibntv.net^
+@@||validate.perfdrive.com^
 @@||valuecommerce.com^
 @@||vas.snssdk.com^
 @@||vcentry2.valuecommerce.ne.jp^
