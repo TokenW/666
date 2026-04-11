@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-11 14:52:02（北京时间）
+! Version: 2026-04-11 16:33:18（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3245
+! Total count: 3249
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -522,6 +522,7 @@
 @@||c.duomai.com^$important
 @@||c.evidon.com^
 @@||c.fa.jd.com^$important
+@@||c.fa.jd.com^$important.com^
 @@||c.gj.qq.com^
 @@||c.office.com^
 @@||c.pc.qq.com^
@@ -855,6 +856,7 @@
 @@||dev.getui.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
+@@||developers.google.com^
 @@||device-box.onethingpcs.com^
 @@||dfcfw.com^
 @@||dftoutiao.com^
@@ -1153,6 +1155,7 @@
 @@||gdtimg.com^
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
+@@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
 @@||get.sogou.com^$important
@@ -1179,12 +1182,16 @@
 @@||google-analytics.com^
 @@||googleadservices.com^
 @@||googletagmanager.com^
+@@||goto.target.com^
+@@||goto.walmart.com^
 @@||gql-fed.reddit.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
+@@||grp07.ias.rakuten.co.jp^
 @@||grpc.biliapi.net^
 @@||gs-loc.apple.com^
 @@||gs.apple.com^
+@@||gs.statcounter.com^
 @@||gslb.hpplay.cn^
 @@||gsp0.baidu.com^
 @@||gsp1.apple.com^
@@ -2656,15 +2663,12 @@
 @@||suggestion.baidu.com^
 @@||sugs.m.sm.cn^
 @@||suo.im^$important
-@@||support-beacon.nakanohito.jp^
-@@||support-widget.nakanohito.jp^
 @@||support.apple.com^
 @@||support.oneplus.com^
 @@||support.sangfor.com.cn^
 @@||support.vivo.com^
 @@||support.weixin.qq.com^
 @@||survey.feelgood.cn^
-@@||surveymyopinion.researchnow.com^
 @@||sv.map.baidu.com^
 @@||swap.stu.126.net^
 @@||swcdn.apple.com^
