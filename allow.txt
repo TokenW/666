@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-13 12:52:35（北京时间）
+! Version: 2026-04-13 15:49:44（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3243
+! Total count: 3303
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -133,9 +133,11 @@
 @@||abtestvm.bytedance.com^
 @@||ac.dun.163yun.com^
 @@||ac.ebis.ne.jp^
+@@||ac.hihonor.com^$important
 @@||access1.tpns.tencent.com^
 @@||account.dianping.com^
 @@||account.doubao.com^
+@@||account.hihonor.com^$important
 @@||account.huawei.com^
 @@||account.oneplus.com^
 @@||account.oneplus.net^
@@ -291,6 +293,7 @@
 @@||api.ds.163.com^
 @@||api.flash.cn^
 @@||api.heytap.com^
+@@||api.hihonor.com^$important
 @@||api.huangye.miui.com^
 @@||api.icloud.com^
 @@||api.installer.xiaomi.com^
@@ -379,6 +382,7 @@
 @@||app.biligame.com^
 @@||app.chat.xiaomi.net^
 @@||app.dangbei.com^
+@@||app.hihonor.com^$important
 @@||app.home.360.cn^
 @@||app.huabao.360.cn^
 @@||app.market.xiaomi.com^
@@ -397,6 +401,7 @@
 @@||appdl-1-drcn.dbankcdn.com^
 @@||appdownload.alicdn.com^
 @@||appgallery.hicloud.com^
+@@||appgallery.hihonor.com^$important
 @@||appgallery.huawei.com^
 @@||appgoad.189.cn^
 @@||apphelp.onethingpcs.com^
@@ -437,6 +442,7 @@
 @@||audiopaydl.pcdn.xmcdn.com^
 @@||auditude.com^
 @@||auth.be.sec.miui.com^
+@@||auth.hihonor.com^$important
 @@||auth.icloud.com^
 @@||auth.realme.com^
 @@||auth.wosms.cn^
@@ -451,6 +457,7 @@
 @@||awp-assets.meituan.net^
 @@||b.163.com^
 @@||b.bdstatic.com^
+@@||backup.hihonor.com^$important
 @@||backup.huawei.com^
 @@||backup.oneplus.com^
 @@||backup.oneplus.net^
@@ -520,6 +527,7 @@
 @@||c.duomai.com^$important
 @@||c.evidon.com^
 @@||c.fa.jd.com^$important
+@@||c.fa.jd.com^$important! ========== 一加 / OPPO (ColorOS) 系统白名单（子域名级） ==========
 @@||c.gj.qq.com^
 @@||c.office.com^
 @@||c.pc.qq.com^
@@ -543,6 +551,7 @@
 @@||cards.iqiyi.com^
 @@||care.meizu.com^
 @@||cashier.ele.me^
+@@||cast.hihonor.com^$important
 @@||cast.mi.com^
 @@||castatic.fengkongcloud.com^
 @@||catchup.thisisdax.com^
@@ -607,6 +616,7 @@
 @@||chat.doubao.com^
 @@||chat.mairuan.com^
 @@||chaturbate.com^
+@@||check.hihonor.com^$important
 @@||checkcoverage.apple.com^
 @@||chrome-infra-packages.appspot.com^
 @@||chrome-infra-packages.appspot.com^$important
@@ -695,6 +705,7 @@
 @@||clients6.google.com^$important
 @@||cloud-ime.doubao.com^
 @@||cloud.heytap.com^
+@@||cloud.hihonor.com^$important
 @@||cloud.hpplay.cn^
 @@||cloud.huawei.com^
 @@||cloud.notification-naviextras.com^
@@ -750,16 +761,19 @@
 @@||config.tv.xiaomi.com^
 @@||config.youku.com^
 @@||connect-drcn.hispace.hicloud.com^
+@@||connect.hihonor.com^$important
 @@||connect.intl.rom.miui.com^
 @@||connect.rom.miui.com/generate_204^
 @@||connect.rom.miui.com/generate_204^$important
 @@||connect.rom.miui.com^
 @@||connect.rom.miui.com^$important
+@@||connectivity.hihonor.com^$important
 @@||connectivitycheck.gstatic.com^
 @@||connectivitycheck.gstatic.com^$important
 @@||connectivitycheck.platform.hicloud.com^
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
 @@||consumerapp-1251779293.image.myqcloud.com^
+@@||contacts.hihonor.com^$important
 @@||contacts.icloud.com^
 @@||content-autofill.googleapis.com^
 @@||content.ingbank.pl^
@@ -824,6 +838,7 @@
 @@||data.digital.costco.ca^
 @@||data.digital.costco.com^
 @@||data.flurry.com^
+@@||data.hihonor.com^$important
 @@||data.mistat.*xiaomi.com^
 @@||data.mistat.intl.xiaomi.com^
 @@||data.mistat.intl.xiaomi.com^$important
@@ -854,6 +869,8 @@
 @@||developer.apple.com$generichide
 @@||developers.google.com^
 @@||device-box.onethingpcs.com^
+@@||device.hihonor.com^$important
+@@||device.huawei.com^$important
 @@||dfcfw.com^
 @@||dftoutiao.com^
 @@||dg.k.jd.com^
@@ -868,6 +885,7 @@
 @@||dinamicx.alibabausercontent.com^
 @@||dir.minigame.qq.com^
 @@||direct.wap.zol.com.cn^
+@@||discovery.hihonor.com^$important
 @@||disneyplus.bn5x.net^
 @@||disneyplus.bn5x.net^$important
 @@||disp-qryapi.3g.qq.com^
@@ -877,6 +895,7 @@
 @@||dl.360safe.com^
 @@||dl.hdslb.com^
 @@||dl.hicloud.com^
+@@||dl.hihonor.com^$important
 @@||dl.qhcdn.com^
 @@||dl.reg.163.com^
 @@||dl.youku.com^
@@ -916,6 +935,7 @@
 @@||download.dangbei.com^
 @@||download.doubao.com^
 @@||download.heytap.com^
+@@||download.hihonor.com^$important
 @@||download.oneplus.com^
 @@||download.oneplus.net^
 @@||download.oppo.com^
@@ -941,6 +961,7 @@
 @@||dreport.meituan.net^
 @@||drive-h.quark.cn^
 @@||drive-pc.quark.cn^
+@@||drive.hihonor.com^$important
 @@||drive.huawei.com^
 @@||drive.quark.cn^
 @@||drive.quark.cn^$important
@@ -1151,6 +1172,7 @@
 @@||gdtimg.com^
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
+@@||geoip.hihonor.com^$important
 @@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
@@ -1243,6 +1265,8 @@
 @@||hermes.hupu.com^
 @@||heyi-acs.cp31.ott.cibntv.net^
 @@||hidive.com^
+@@||hilink.hihonor.com^$important
+@@||hilink.huawei.com^$important
 @@||himg.bdimg.com^
 @@||hls3-cf.xvideos-cdn.com^
 @@||hls9-cf.xvideos-cdn.com^
@@ -1304,6 +1328,7 @@
 @@||icws.jb51.net^
 @@||id.163.com^
 @@||id.heytap.com^
+@@||id.hihonor.com^$important
 @@||id.i2i.jp^
 @@||id.mail.wo.cn^
 @@||id.mi.com^
@@ -1356,6 +1381,7 @@
 @@||img.doubao.com^
 @@||img.funshion.com^
 @@||img.galaxyappstore.com^
+@@||img.hihonor.com^$important
 @@||img.jbzj.com^
 @@||img.jxdown.com^
 @@||img.meituan.net^
@@ -1421,7 +1447,9 @@
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
 @@||ios.crashsight.qq.com^
+@@||iot.hihonor.com^$important
 @@||iot.huawei.com^
+@@||iot.huawei.com^$important
 @@||iotapi.adups.com^
 @@||ip.900cha.com^
 @@||ip.cn^
@@ -1487,6 +1515,7 @@
 @@||k.sinaimg.cn^
 @@||kadmimage.biz.weibo.com^
 @@||kdocs.cn^
+@@||kernel.hihonor.com^$important
 @@||kf-ui.cdn-go.cn^
 @@||kjimg10.360buyimg.com^
 @@||klclick*.com^
@@ -1578,12 +1607,14 @@
 @@||localads.chengzijianzhan.cn^
 @@||localhost^
 @@||location.heytap.com^
+@@||location.hihonor.com^$important
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||log-upload.mihoyo.com^
 @@||log.doubao.com^
 @@||log.ele.me^
 @@||log.heytap.com^
+@@||log.hihonor.com^$important
 @@||log.map.baidu.com^
 @@||log.mmstat.com^
 @@||log.oppo.com^
@@ -1603,6 +1634,7 @@
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
 @@||login.doubao.com^
 @@||login.gaijin.net^
+@@||login.hihonor.com^$important
 @@||login.live.com^
 @@||login.m.taobao.com^
 @@||login.sendpulse.com^
@@ -1677,6 +1709,8 @@
 @@||ma*-normal-lf.zijieapi.com^
 @@||ma135-r.analytics.edgekey.net^
 @@||mac.bmcx.com^
+@@||magic.hihonor.com^$important
+@@||magicui.hihonor.com^$important
 @@||mai.pinduoduo.com^
 @@||mail.163.com^
 @@||mail.icloud.com^
@@ -1741,6 +1775,7 @@
 @@||media-consumer365.desigual.com^
 @@||media.9game.cn^
 @@||media.doubao.com^
+@@||media.hihonor.com^$important
 @@||media.soulapp.cn^
 @@||mediation.adnxs.com^
 @@||mediation.adnxs.com^$important
@@ -1752,6 +1787,7 @@
 @@||member.shouji.360.cn^
 @@||member.shouji.360.cn^ 
 @@||merchant.ele.me^
+@@||mesh.hihonor.com^$important
 @@||message.bilibili.com^
 @@||mesu.apple.com^
 @@||metok.sys.miui.com^
@@ -1779,6 +1815,7 @@
 @@||minorshort.weixin.qq.com^
 @@||mipcache.bdstatic.com^
 @@||miracast.mi.com^
+@@||mirror.hihonor.com^$important
 @@||mirrors.163.com^
 @@||mitv.api.miui.com^
 @@||mivideo.cdn.pandora.xiaomi.com^
@@ -1842,6 +1879,7 @@
 @@||msedown.360safe.com^
 @@||msfwifi.3g.qq.com^
 @@||msg.douyu.com^
+@@||msg.hihonor.com^$important
 @@||msg.realme.com^
 @@||msg.soulapp.cn^
 @@||msg.video.qiyi.com^
@@ -1854,6 +1892,7 @@
 @@||mssdk3-normal-lf.zijieapi.com^
 @@||mtalk.google.com^$important
 @@||mumu.163.com^
+@@||music.hihonor.com^$important
 @@||music.huawei.com^
 @@||mv6.music.tc.qq.com^
 @@||mvconf.f.360.cn^
@@ -1890,12 +1929,15 @@
 @@||news.17173.com^
 @@||news.sina.com.cn^
 @@||news.warhammer.com^
+@@||nfc.hihonor.com^$important
 @@||nileapi.market.xiaomi.com^
 @@||nimg.ws.126.net^
 @@||nineto5mac-d.openx.net^
 @@||nishub1.10010.com^
 @@||nj.t.bcsp2p.baidu.com^ 
 @@||nmobi.kuwo.cn^
+@@||nms.hihonor.com^$important
+@@||notes.hihonor.com^$important
 @@||notes.icloud.com^
 @@||notification.vivo.com^
 @@||notify.oneplus.com^
@@ -1908,6 +1950,7 @@
 @@||nsclick.baidu.com^
 @@||nsclick.baidu.com^ 
 @@||nstool.netease.com^
+@@||ntp.hihonor.com^$important
 @@||o.actio.systems^
 @@||o.actio.systems^$important
 @@||o.alicdn.com^
@@ -1968,6 +2011,7 @@
 @@||oss.soulapp.cn^
 @@||ossapi.baidu.com^
 @@||ota.coloros.com^
+@@||ota.hihonor.com^$important
 @@||ota.oneplus.com^
 @@||ota.oneplus.net^
 @@||ota.oppo.com^
@@ -2158,6 +2202,7 @@
 @@||phobos.apple.com^
 @@||phonecallapi.micloud.xiaomi.net^
 @@||phonecallapi.micloud.xiaomi.net^$important
+@@||photos.hihonor.com^$important
 @@||photos.icloud.com^
 @@||pic*.40017.cn^
 @@||pic*.iqiyipic.com^
@@ -2251,6 +2296,7 @@
 @@||push.doubao.com^
 @@||push.ele.me^
 @@||push.heytap.com^
+@@||push.hihonor.com^$important
 @@||push.m.youku.com^
 @@||push.oneplus.com^
 @@||push.oneplus.net^
@@ -2349,6 +2395,7 @@
 @@||render.amap.com^
 @@||report.doubao.com^
 @@||report.ele.me^
+@@||report.hihonor.com^$important
 @@||report.huatuo.qq.com^
 @@||report.passport.360.cn^
 @@||report.soulapp.cn^
@@ -2359,6 +2406,7 @@
 @@||res.ads.nicovideo.jp^
 @@||res.app.coc.10086.cn^
 @@||res.hicloud.com^
+@@||res.hihonor.com^$important
 @@||res.imtt.qq.com^
 @@||res.imtt.qq.com^$important
 @@||res.mi.baidu.com^
@@ -2380,6 +2428,7 @@
 @@||risk.taobao.com^
 @@||rom.realme.com^
 @@||router.ctc.lan^
+@@||router.hihonor.com^$important
 @@||rp.hpplay.cn^
 @@||rs.xmeye.net^
 @@||rtc.soulapp.cn^
@@ -2487,6 +2536,7 @@
 @@||sfsapi.micloud.xiaomi.net^
 @@||sfsapi.micloud.xiaomi.net^$important
 @@||sgqcvfjvr.onet.pl^
+@@||share.hihonor.com^$important
 @@||share.myfreecams.com^
 @@||sharechain.qq.com^
 @@||shenfenzheng.bmcx.com^
@@ -2512,6 +2562,7 @@
 @@||sm.cn^
 @@||sm.cn^$important
 @@||smart.360.cn^
+@@||smart.hihonor.com^$important
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
 @@||snowflake.qq.com^
@@ -2566,6 +2617,7 @@
 @@||ssl.qhres2.com^
 @@||sso.doubao.com^
 @@||sso.ele.me^
+@@||sso.hihonor.com^$important
 @@||st.jingxi.com^
 @@||st.todesk.com^
 @@||staging.flash.sec.miui.com^
@@ -2668,11 +2720,13 @@
 @@||swcdn.apple.com^
 @@||swimg1.hstdyf.com^
 @@||sync.heytap.com^
+@@||sync.hihonor.com^$important
 @@||sync.oneplus.com^
 @@||sync.oneplus.net^
 @@||sync.oppo.com^
 @@||synology.com^$important
 @@||sysdk.cl2009.com^
+@@||system.hihonor.com^$important
 @@||szlong.weixin.qq.com^
 @@||szmg.qq.com^
 @@||szminorshort.weixin.qq.com^
@@ -2780,6 +2834,7 @@
 @@||tunion-api.m.taobao.com^
 @@||turing.captcha.gtimg.com^
 @@||tv.2345.com^
+@@||tv.hihonor.com^$important
 @@||tvapp.hpplay.cn^
 @@||tvepg.pandora.xiaomi.com^
 @@||tvepg.pandora.xiaomi.com^$important
@@ -2828,6 +2883,7 @@
 @@||update.coloros.com^
 @@||update.doubao.com^
 @@||update.hicloud.com^
+@@||update.hihonor.com^$important
 @@||update.miui.com^$important
 @@||update.oneplus.com^
 @@||update.oneplus.net^
@@ -2850,6 +2906,7 @@
 @@||uri6.com^
 @@||url.163.com^
 @@||urswebzj.nosdn.127.net^
+@@||user.cloud.hihonor.com^$important
 @@||user.e.189.cn^
 @@||user.huawei.com^
 @@||user.realme.com^
@@ -2924,12 +2981,14 @@
 @@||vectorsdk.map.qq.com^$important
 @@||venus.yhd.com^
 @@||verify.cmpassport.com^
+@@||verify.hihonor.com^$important
 @@||verify.realme.com^
 @@||verify.snssdk.com^
 @@||verify.vivo.com^
 @@||verify.zijieapi.com^
 @@||video.da.mgtv.com^
 @@||video.dispatch.tc.qq.com^
+@@||video.hihonor.com^$important
 @@||video.huawei.com^
 @@||video.soulapp.cn^
 @@||video.zhihu.com^
@@ -3023,6 +3082,7 @@
 @@||widget.intercom.io^
 @@||widget.mibbit.com^
 @@||widget.mibbit.com^$important
+@@||wifi.hihonor.com^$important
 @@||wifi.vivo.com.cn^
 @@||wiki.ad-gone.com^
 @@||wiki.biligame.com^
