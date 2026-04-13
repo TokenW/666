@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-13 15:49:44（北京时间）
+! Version: 2026-04-13 17:28:25（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3303
+! Total count: 3310
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -177,6 +177,7 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
+@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -522,12 +523,12 @@
 @@||bud.iqiyi.com^
 @@||buy.itunes.apple.com^
 @@||buy.ximalaya.com^$important
+@@||buyad.bi-xenon.cn^
 @@||c.58cdn.com.cn^
 @@||c.duomai.com^
 @@||c.duomai.com^$important
 @@||c.evidon.com^
 @@||c.fa.jd.com^$important
-@@||c.fa.jd.com^$important! ========== 一加 / OPPO (ColorOS) 系统白名单（子域名级） ==========
 @@||c.gj.qq.com^
 @@||c.office.com^
 @@||c.pc.qq.com^
@@ -806,6 +807,7 @@
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cros-updates-serving.appspot.com^
 @@||cros-updates-serving.appspot.com^$important
+@@||cs.silverpop.com^
 @@||csi.gstatic.com^
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cstaticdun-v6.126.net^
@@ -1192,6 +1194,7 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
+@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
 @@||go.redirectingat.com^
@@ -1204,9 +1207,11 @@
 @@||gql-fed.reddit.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
+@@||grp07.ias.rakuten.co.jp^
 @@||grpc.biliapi.net^
 @@||gs-loc.apple.com^
 @@||gs.apple.com^
+@@||gs.statcounter.com^
 @@||gslb.hpplay.cn^
 @@||gsp0.baidu.com^
 @@||gsp1.apple.com^
@@ -1443,6 +1448,7 @@
 @@||interface.music.163.com^
 @@||interface3.music.163.com.163jiasu.com^
 @@||interface3.music.163.com^
+@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -2565,6 +2571,7 @@
 @@||smart.hihonor.com^$important
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
+@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
