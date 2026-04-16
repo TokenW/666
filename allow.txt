@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-16 23:18:52（北京时间）
+! Version: 2026-04-17 01:04:31（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3306
+! Total count: 3307
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -529,6 +529,7 @@
 @@||c.duomai.com^$important
 @@||c.evidon.com^
 @@||c.fa.jd.com^$important
+@@||c.fa.jd.com^$important! ========== 一加 / OPPO (ColorOS) 系统白名单（子域名级） ==========
 @@||c.gj.qq.com^
 @@||c.office.com^
 @@||c.pc.qq.com^
