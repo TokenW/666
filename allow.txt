@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-18 14:57:41（北京时间）
+! Version: 2026-04-18 16:39:06（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 3306
+! Total count: 3307
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -132,7 +132,6 @@
 @@||abtest3-misc-lf.zijieapi.com^
 @@||abtestvm.bytedance.com^
 @@||ac.dun.163yun.com^
-@@||ac.ebis.ne.jp^
 @@||ac.hihonor.com^$important
 @@||access1.tpns.tencent.com^
 @@||account.dianping.com^
@@ -177,7 +176,6 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
-@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -807,6 +805,7 @@
 @@||crm-cdn.peek-cloppenburg.com^
 @@||cros-updates-serving.appspot.com^
 @@||cros-updates-serving.appspot.com^$important
+@@||cs.silverpop.com^
 @@||csi.gstatic.com^
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cstaticdun-v6.126.net^
@@ -1427,10 +1426,12 @@
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||info.zb.qq.com^
+@@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
 @@||init.itunes.apple.com^
+@@||injections.adguard.org^
 @@||input.shouji.sogou.com^
 @@||input.shouji.sogou.com^ 
 @@||input.shouji.sogou.com^$important
