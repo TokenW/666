@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-19 15:08:04（北京时间）
+! Version: 2026-04-19 16:42:49（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 3309
 @@*.flyme.cn
@@ -132,6 +132,7 @@
 @@||abtest3-misc-lf.zijieapi.com^
 @@||abtestvm.bytedance.com^
 @@||ac.dun.163yun.com^
+@@||ac.ebis.ne.jp^
 @@||ac.hihonor.com^$important
 @@||access1.tpns.tencent.com^
 @@||account.dianping.com^
@@ -176,6 +177,7 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
+@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -527,6 +529,7 @@
 @@||c.duomai.com^$important
 @@||c.evidon.com^
 @@||c.fa.jd.com^$important
+@@||c.fa.jd.com^$importantom^
 @@||c.gj.qq.com^
 @@||c.office.com^
 @@||c.pc.qq.com^
@@ -1079,7 +1082,6 @@
 @@||fe3cr.delivery.mp.microsoft.com^
 @@||feconf.zhuanzhuan.com^
 @@||feed-image.baidu.com^
-@@||feed.adrelayer.com^
 @@||feed.ximalaya.com^$important
 @@||feedback.miui.com^
 @@||feedback.miui.com^$important
@@ -1173,7 +1175,6 @@
 @@||gdtimg.com^$important
 @@||gecko.zijieapi.com^
 @@||geoip.hihonor.com^$important
-@@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
 @@||get.sogou.com^$important
@@ -1192,7 +1193,6 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
 @@||go.redirectingat.com^
@@ -2571,6 +2571,7 @@
 @@||smart.hihonor.com^$important
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
+@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
@@ -3008,7 +3009,6 @@
 @@||vip.youku.com^
 @@||vip1.kuwo.cn^
 @@||vipauth.hpplay.cn^
-@@||vitacost.122.2o7.net^
 @@||vm.gtimg.cn^
 @@||vmmp.qpic.cn^
 @@||vmware.com^
