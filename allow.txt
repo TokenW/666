@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-21 21:03:59（北京时间）
+! Version: 2026-04-21 23:05:09（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2933
+! Total count: 2927
 @@*$redirect-rule,domain=d3ward.github.io
 @@*.flyme.cn
 @@*.myapp.com
@@ -492,6 +492,7 @@
 @@||captive.apple.com^
 @@||card-paopao.iqiyi.com^
 @@||cards.iqiyi.com^
+@@||cardservice.openspeech.cn^
 @@||care.meizu.com^
 @@||cashier.ele.me^
 @@||castatic.fengkongcloud.com^
@@ -788,7 +789,6 @@
 @@||dfcfw.com^
 @@||dftoutiao.com^
 @@||dg.k.jd.com^
-@@||diagnose.vivo.com^
 @@||dianfeijisuanqi.bmcx.com^
 @@||dig.bdurl.net^
 @@||dig.lianjia.com^
@@ -1150,7 +1150,6 @@
 @@||hot.browser.intl.miui.com^
 @@||hot.browser.miui.com^
 @@||hotel.17u.cn^
-@@||hpplay.cn^
 @@||hr.163.com^
 @@||href.li^
 @@||hsforms.net^
@@ -1198,7 +1197,6 @@
 @@||id.163.com^
 @@||id.heytap.com^
 @@||id.i2i.jp^
-@@||id.mi.com^
 @@||id.oneplus.com^
 @@||id.realme.com^
 @@||id1.cloud.huawei.com^
@@ -1231,7 +1229,7 @@
 @@||imasdk.googleapis.com^
 @@||imdns.hpplay.cn^
 @@||ime-igw.doubao.com^
-@@||imeclient.openspeech.cn^$important
+@@||imeclient.openspeech.cn^
 @@||img*.funshion.com^
 @@||img-vip-ssl.a.88cdn.com^
 @@||img.ads.tvb.com^
@@ -1388,7 +1386,6 @@
 @@||lc-cn-n1-shared.com^
 @@||lcdn-locator.apple.com^
 @@||learn.khanacademy.org^
-@@||lebo.cn^
 @@||lebotob.hpplay.cn^
 @@||leihuo.163.com^
 @@||lens.zhihu.com^
@@ -1459,14 +1456,12 @@
 @@||log-api.pangolin-sdk-toutiao-b.com^
 @@||log-api.pangolin-sdk-toutiao.com^
 @@||log-upload.mihoyo.com^
-@@||log.doubao.com^
 @@||log.mmstat.com^
 @@||log.snssdk.com^
 @@||log.snssdk.com^$important
 @@||log.taobao.com^
 @@||log.tbs.qq.com^ 
 @@||log.tpns.tencent.com^$important
-@@||log.vivo.com^
 @@||log1.cmpassport.com^
 @@||log5-applog-lf.fqnovel.com^
 @@||log5-applog.fqnovel.com^
@@ -2342,7 +2337,6 @@
 @@||stat.funshion.com^
 @@||stat.jseea.cn^
 @@||stat.lianmeng.360.cn^
-@@||stat.vivo.com^
 @@||stat.y.qq.com^
 @@||stat.y.qq.com^$important
 @@||stat6.y.qq.com^
@@ -2483,7 +2477,7 @@
 @@||tongji.flash.cn^
 @@||tools.3g.qq.com^
 @@||top.17173.com^
-@@||topic.openspeech.cn^$important
+@@||topic.openspeech.cn^
 @@||torimochi.line-apps.com^
 @@||tousu.sina.cn^
 @@||tousu.sina.com.cn^
