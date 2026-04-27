@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-04-27 16:07:11（北京时间）
+! Version: 2026-04-27 19:39:48（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2932
+! Total count: 2924
 @@*$redirect-rule,domain=d3ward.github.io
 @@*.flyme.cn
 @@*.myapp.com
@@ -87,6 +87,7 @@
 @@||3gimg.qq.com^$important
 @@||40017.cn^
 @@||48609.activity-42.m.duiba.com.cn^
+@@||5471782.fls.doubleclick.net^
 @@||79423.analytics.edgekey.net^
 @@||7x24s.com^
 @@||96956.com.cn^
@@ -153,7 +154,6 @@
 @@||ad.doubleclick.net^$important
 @@||ad.kazakinfo.com^
 @@||ad.mcloud.139.com^
-@@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||adash-emas.cn-hangzhou.aliyuncs.com^
 @@||adblock.adguard.com^
@@ -1073,13 +1073,9 @@
 @@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
-@@||go.redirectingat.com^
-@@||go.scorptec.com.au^
 @@||google-analytics.com^
 @@||googleadservices.com^
 @@||googletagmanager.com^
-@@||goto.target.com^
-@@||goto.walmart.com^
 @@||gql-fed.reddit.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
@@ -1087,7 +1083,6 @@
 @@||grpc.biliapi.net^
 @@||gs-loc.apple.com^
 @@||gs.apple.com^
-@@||gs.statcounter.com^
 @@||gslb.hpplay.cn^
 @@||gsp0.baidu.com^
 @@||gsp1.apple.com^
@@ -1304,7 +1299,6 @@
 @@||interface.music.163.com^
 @@||interface3.music.163.com.163jiasu.com^
 @@||interface3.music.163.com^
-@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -2618,7 +2612,6 @@
 @@||validate.perfdrive.com^
 @@||valuecommerce.com^
 @@||vas.snssdk.com^
-@@||vcentry2.valuecommerce.ne.jp^
 @@||vconf.f.360.cn^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.snssdk.com^
@@ -2650,7 +2643,6 @@
 @@||vip.youku.com^
 @@||vip1.kuwo.cn^
 @@||vipauth.hpplay.cn^
-@@||vitacost.122.2o7.net^
 @@||vm.gtimg.cn^
 @@||vmmp.qpic.cn^
 @@||vmware.com^
