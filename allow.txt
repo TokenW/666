@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-01 14:31:23（北京时间）
+! Version: 2026-05-01 17:26:01（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2934
+! Total count: 2921
 @@*$redirect-rule,domain=d3ward.github.io
 @@*.flyme.cn
 @@*.myapp.com
@@ -574,7 +574,6 @@
 @@||click.allkeyshop.com^
 @@||click.alternate.de^
 @@||click.appcast.io^
-@@||click.avs.io^
 @@||click.chp.kohls.com^
 @@||click.cptrack.de^
 @@||click.discord.com^
@@ -612,10 +611,7 @@
 @@||click.simba.taobao.com^
 @@||click.simba.taobao.com^$important
 @@||click.snapshat.com^
-@@||click.trafficguard.ai^
-@@||click.virt.exacttarget.com^
 @@||click.zoom.us^
-@@||clickattr.wayup.com^
 @@||clickcease.com^
 @@||clickdimensions.com^
 @@||clickiocdn.com^
@@ -641,7 +637,6 @@
 @@||cloud.hihonor.com^
 @@||cloud.hpplay.cn^
 @@||cloud.huawei.com^
-@@||cloud.notification-naviextras.com^
 @@||cloud.oneplus.com^
 @@||cloud.oppo.com^
 @@||cloud.realme.com^
@@ -1074,8 +1069,6 @@
 @@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
-@@||go.redirectingat.com^
-@@||go.scorptec.com.au^
 @@||google-analytics.com^
 @@||googleadservices.com^
 @@||googletagmanager.com^
@@ -1084,11 +1077,9 @@
 @@||gql-fed.reddit.com^
 @@||graph.qq.com^
 @@||graph.qq.com^$important
-@@||grp07.ias.rakuten.co.jp^
 @@||grpc.biliapi.net^
 @@||gs-loc.apple.com^
 @@||gs.apple.com^
-@@||gs.statcounter.com^
 @@||gslb.hpplay.cn^
 @@||gsp0.baidu.com^
 @@||gsp1.apple.com^
@@ -1305,7 +1296,6 @@
 @@||interface.music.163.com^
 @@||interface3.music.163.com.163jiasu.com^
 @@||interface3.music.163.com^
-@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -2284,7 +2274,6 @@
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
-@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
@@ -2619,8 +2608,6 @@
 @@||validate.perfdrive.com^
 @@||valuecommerce.com^
 @@||vas.snssdk.com^
-@@||vcentry2.valuecommerce.ne.jp^
-@@||vcentry3.valuecommerce.ne.jp^
 @@||vconf.f.360.cn^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.snssdk.com^
