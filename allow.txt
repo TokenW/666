@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-12 14:31:16（北京时间）
+! Version: 2026-05-12 18:24:25（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2926
+! Total count: 2930
 @@*$redirect-rule,domain=d3ward.github.io
 @@*.flyme.cn
 @@*.myapp.com
@@ -113,6 +113,7 @@
 @@||abtest3-misc-lf.zijieapi.com^
 @@||abtestvm.bytedance.com^
 @@||ac.dun.163yun.com^
+@@||ac.ebis.ne.jp^
 @@||access1.tpns.tencent.com^
 @@||account.dianping.com^
 @@||account.oneplus.com^
@@ -1069,9 +1070,10 @@
 @@||gm.163.com^
 @@||gm.mmstat.com^
 @@||gma.alicdn.com^
-@@||go.adjust.com^
 @@||go.microsoft.com^
 @@||go.oracle.com^$important
+@@||go.redirectingat.com^
+@@||go.scorptec.com.au^
 @@||google-analytics.com^
 @@||googleadservices.com^
 @@||googletagmanager.com^
@@ -1282,6 +1284,7 @@
 @@||inews.gtimg.com^
 @@||inews.gtimg.com^$important
 @@||info.zb.qq.com^
+@@||infra-api.newrelic.com^
 @@||ingest.sentry.io^
 @@||ingest.sentry.io^$important
 @@||ini.update.360safe.com^
@@ -1300,7 +1303,6 @@
 @@||interface.music.163.com^
 @@||interface3.music.163.com.163jiasu.com^
 @@||interface3.music.163.com^
-@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -2613,6 +2615,8 @@
 @@||validate.perfdrive.com^
 @@||valuecommerce.com^
 @@||vas.snssdk.com^
+@@||vcentry2.valuecommerce.ne.jp^
+@@||vcentry3.valuecommerce.ne.jp^
 @@||vconf.f.360.cn^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.snssdk.com^
