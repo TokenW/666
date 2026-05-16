@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-16 14:16:08（北京时间）
+! Version: 2026-05-16 17:24:21（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2933
+! Total count: 2929
 @@*$redirect-rule,domain=d3ward.github.io
 @@*.flyme.cn
 @@*.myapp.com
@@ -1305,7 +1305,6 @@
 @@||interface.music.163.com^
 @@||interface3.music.163.com.163jiasu.com^
 @@||interface3.music.163.com^
-@@||intersport.peerius.com^
 @@||io75a.ocloud.heytapmobi.com^
 @@||ios.bugly.qq.com^
 @@||ios.bugly.qq.com^$important
@@ -1711,7 +1710,6 @@
 @@||my.2345.com^
 @@||my.cainiao.com^
 @@||my.ie.2345.com^
-@@||my.tealiumiq.com^
 @@||my.xunlei.com^
 @@||mydefender.microsoft.com^
 @@||myquark.cn^
@@ -2615,7 +2613,6 @@
 @@||v9-x.toutiaovod.com^
 @@||vali-dns.cp31.ott.cibntv.net^
 @@||vali-g1.cp31.ott.cibntv.net^
-@@||validate.perfdrive.com^
 @@||valuecommerce.com^
 @@||vas.snssdk.com^
 @@||vcentry2.valuecommerce.ne.jp^
@@ -2651,7 +2648,6 @@
 @@||vip.youku.com^
 @@||vip1.kuwo.cn^
 @@||vipauth.hpplay.cn^
-@@||vitacost.122.2o7.net^
 @@||vm.gtimg.cn^
 @@||vmmp.qpic.cn^
 @@||vmware.com^
