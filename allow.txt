@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-22 01:51:07（北京时间）
+! Version: 2026-05-22 03:43:40（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2935
+! Total count: 2934
 @@*$redirect-rule,domain=d3ward.github.io
 @@*.flyme.cn
 @@*.myapp.com
@@ -410,7 +410,6 @@
 @@||b.163.com^
 @@||b.bdstatic.com^
 @@||backend.1music.cc^$important
-@@||backend.1music.cc^$important-fq-tts.fqnovelvod.com^
 @@||bag.itunes.apple.com^
 @@||baijiahao.baidu.com^
 @@||baijiahao.baidu.com^$important
