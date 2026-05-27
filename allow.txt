@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-05-27 22:56:57（北京时间）
+! Version: 2026-05-28 02:19:55（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2955
+! Total count: 2960
 @@*$redirect-rule,domain=d3ward.github.io
 @@*.flyme.cn
 @@*.myapp.com
@@ -389,6 +389,7 @@
 @@||artifactory.appodeal.com^
 @@||as.weixin.qq.com^
 @@||ascdn.baidu.com^
+@@||asrsdk.shouji.360.cn^
 @@||assets.giocdn.com^
 @@||at.umeng.com^
 @@||at.umeng.com^$important
@@ -409,6 +410,7 @@
 @@||aweme.snssdk.com^$important
 @@||awin1.com^
 @@||awp-assets.meituan.net^
+@@||b-gtc.getui.net^
 @@||b.163.com^
 @@||b.bdstatic.com^
 @@||backend.1music.cc^$important
@@ -1218,6 +1220,7 @@
 @@||id6.me^
 @@||idmb.register.xmpush.global.xiaomi.com^
 @@||idmsa.apple.com^
+@@||ido.getui.net^
 @@||ietheivaicai.com^
 @@||iface2.iqiyi.com^
 @@||iface2.iqiyi.com^$important
@@ -2465,6 +2468,8 @@
 @@||tagtic.cn^
 @@||taiga.maven.io^
 @@||tajs.qq.com^
+@@||talk.bz.gepush.com^
+@@||talk.bz.getui.com^
 @@||tangram.e.qq.com^
 @@||tangram.e.qq.com^$important
 @@||taobao.com^ 
