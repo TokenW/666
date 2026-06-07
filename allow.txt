@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-06-07 21:24:05（北京时间）
+! Version: 2026-06-07 23:18:46（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2966
+! Total count: 2965
 @@*$redirect-rule,domain=d3ward.github.io
 @@*.flyme.cn
 @@*.myapp.com
@@ -32,6 +32,8 @@
 @@|admin-oss-xlvip.a.88cdn.com^
 @@|wxpaylogo.qpic.cn^
 @@||*-kmwatsonc.events.data.microsoft.com^
+@@||*-misc-lf.fqnovel.com^$important
+@@||*-novelapp.fqnovelvod.com^
 @@||*-umwatsonc.events.data.microsoft.com^
 @@||*.51.la^
 @@||*.a.yximgs.com^
@@ -72,7 +74,6 @@
 @@||126.net^$important
 @@||163.com^$important
 @@||17u.cn^
-@@||1music.cc^$important
 @@||1sapp.com^
 @@||1tian.kuaishou.com^
 @@||316.coolapk1s.com^
@@ -413,7 +414,6 @@
 @@||b-gtc.getui.net^
 @@||b.163.com^
 @@||b.bdstatic.com^
-@@||backend.1music.cc^$important
 @@||badjs.weixinbridge.com^$
 @@||bag.itunes.apple.com^
 @@||baijiahao.baidu.com^
@@ -1398,7 +1398,7 @@
 @@||ks.pull.yximgs.com^
 @@||ksapisrv.com^
 @@||kuaishou.httpdns.pro^
-@@||kunlunpi.com^$important
+@@||kunlunpi.com^
 @@||kwimgs.com^
 @@||kyaru-concat.now.sh^
 @@||kyaru-concat.now.sh^$important
@@ -2509,7 +2509,7 @@
 @@||tongji.cn^
 @@||tongji.edu.cn^
 @@||tongji.flash.cn^
-@@||tongzhi.cup.com.cn^$important
+@@||tongzhi.cup.com.cn^
 @@||tools.3g.qq.com^
 @@||top.17173.com^
 @@||topic.openspeech.cn^
@@ -2636,7 +2636,6 @@
 @@||v26-fq-tts.fqnovelvod.com^
 @@||v26-novelapp.fqnovelvod.com^
 @@||v3-fq-tts.fqnovelvod.com^
-@@||v3-novelapp.fqnovelvod.com^
 @@||v3-ppx.ixigua.com^
 @@||v5-novelapp.fqnovelvod.com^
 @@||v6-fq-tts.fqnovelvod.com^
@@ -2659,7 +2658,7 @@
 @@||vd1.market.xiaomi.com^
 @@||vd6.l.qq.com^ 
 @@||vdn3.vzuu.com^
-@@||vdn5.vzuu.com^$important
+@@||vdn5.vzuu.com^
 @@||vdun.weibo.com^$important
 @@||vectorsdk.map.qq.com^
 @@||vectorsdk.map.qq.com^$important
