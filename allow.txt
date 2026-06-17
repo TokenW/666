@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-06-17 06:05:38（北京时间）
+! Version: 2026-06-17 10:50:38（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2967
+! Total count: 2979
 @@*$redirect-rule,domain=d3ward.github.io
 @@*.flyme.cn
 @@*.myapp.com
@@ -286,6 +286,7 @@
 @@||api.kwaizt.com^
 @@||api.live.bilibili.com^
 @@||api.m.jd.com^
+@@||api.magene.cn^
 @@||api.map.baidu.com^
 @@||api.meituan.com^
 @@||api.micloud.xiaomi.net^
@@ -295,6 +296,7 @@
 @@||api.miwifi.com^
 @@||api.neixin.cn^
 @@||api.nocturnal-narwhal.buzz^$domain=webtor.io
+@@||api.onelap.cn^
 @@||api.open.uc.cn^
 @@||api.pinduoduo.com^
 @@||api.push.apple.com^
@@ -533,6 +535,7 @@
 @@||cdn.duurzaam.greenchoice.nl^
 @@||cdn.jsdelivr.net^
 @@||cdn.jsdelivr.net^$important
+@@||cdn.onelap.cn^
 @@||cdn.pandora.xiaomi.com^
 @@||cdn.pinduoduo.com^
 @@||cdn.rozetka.com.ua^
@@ -777,6 +780,7 @@
 @@||data.mistat.intl.xiaomi.com^$important
 @@||data.mistat.xiaomi.com^
 @@||data.notify.macys.com^
+@@||data.onelap.cn^
 @@||data.orders.costco.ca^
 @@||data.orders.costco.com^
 @@||data.sec*.miui.com^
@@ -1266,6 +1270,7 @@
 @@||img.jxdown.com^
 @@||img.meituan.net^
 @@||img.mp.itc.cn^
+@@||img.onelap.cn^
 @@||img.pddpic.com^
 @@||img.qidian.com^
 @@||img.samsungapps.com^
@@ -1569,6 +1574,7 @@
 @@||ma*-normal-lf.zijieapi.com^
 @@||ma135-r.analytics.edgekey.net^
 @@||mac.bmcx.com^
+@@||magene.cn^
 @@||mai.pinduoduo.com^
 @@||mail.163.com^
 @@||mail.icloud.com^
@@ -1799,6 +1805,8 @@
 @@||omsc.kpn.com^
 @@||onegoods.nosdn.127.net^
 @@||onekey1.cmpassport.com^
+@@||onelap.cn^
+@@||onelap.com^
 @@||oneline.nextday.media^
 @@||oneplus.cdn.cloudflare.net^
 @@||oneplus.helpshift.com^
@@ -2132,6 +2140,7 @@
 @@||r4---sn-qxo7rn7e.googlevideo.com^$important
 @@||r5---sn-4g5ednsl.googlevideo.com^
 @@||r5---sn-4g5ednsl.googlevideo.com^$important
+@@||race.onelap.cn^
 @@||radiofrance.targetspot.com^
 @@||rd.bizrate.com^
 @@||rdelivery.qq.com^
@@ -2390,6 +2399,7 @@
 @@||static.hdslb.com^
 @@||static.iask.cn^
 @@||static.iqiyi.com^
+@@||static.onelap.cn^
 @@||static.pddpic.com^
 @@||static.qiyi.com^
 @@||static.res.qq.com^
@@ -2560,6 +2570,7 @@
 @@||tybook.taoyuewenhua.net^
 @@||tz.sec.xiaomi.com^
 @@||u.163.com^
+@@||u.onelap.cn^
 @@||u.oppomobile.com^
 @@||u1.img.mobile.sina.cn^
 @@||u1.img.mobile.sina.cn^$important
@@ -2727,6 +2738,7 @@
 @@||wappass.baidu.com^
 @@||watson.events.data.microsoft.com^
 @@||watson.telemetry.microsoft.com^
+@@||wattp.net^
 @@||wb.amap.com^
 @@||wbapp.mobile.sina.cn^
 @@||wbapp.mobile.sina.cn^$important
