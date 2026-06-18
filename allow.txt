@@ -2,10 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-06-18 16:37:42（北京时间）
+! Version: 2026-06-18 20:45:42（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2983
-@@*$redirect-rule,domain=d3ward.github.io
+! Total count: 2986
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -29,10 +28,8 @@
 @@t1.market.xiaomi.com
 @@url.cn
 @@verify.sec.xiaomi.com
-@@|admin-oss-xlvip.a.88cdn.com^
-@@|wxpaylogo.qpic.cn^
 @@||*-kmwatsonc.events.data.microsoft.com^
-@@||*-misc-lf.fqnovel.com^$important
+@@||*-misc-lf.fqnovel.com^
 @@||*-novelapp.fqnovelvod.com^
 @@||*-umwatsonc.events.data.microsoft.com^
 @@||*.51.la^
@@ -46,6 +43,7 @@
 @@||*.cdninstagram.com^$important
 @@||*.dlied1.cdntips.net^
 @@||*.gtimg.cn^$important
+@@||*.heytapdownload.com^
 @@||*.img.mobile.sina.cn^
 @@||*.img.mobile.sina.cn^$important
 @@||*.imtt.qq.com^$important
@@ -164,6 +162,7 @@
 @@||adeng.hpplay.cn^
 @@||adidasapp.api.adidas.com.cn^
 @@||adidasapp.api.adidas.com.cn^$important
+@@||admin-oss-xlvip.a.88cdn.com^
 @@||admin.dable.io^
 @@||admin.mailchimp.com^
 @@||adnmb3.com^
@@ -363,7 +362,7 @@
 @@||app.zhuanzhuan.com^
 @@||app.zhuanzhuan.com^$important
 @@||appcenter.ms^
-@@||appcfg.v.qq.com^$important
+@@||appcfg.v.qq.com^
 @@||appcloud.zhihu.com^
 @@||appcloud.zhihu.com^$important
 @@||appcloud2.zhihu.com^
@@ -702,6 +701,7 @@
 @@||conf.hpplay.cn^
 @@||config-onecloud.onethingpcs.com^
 @@||config.cmpassport.com^
+@@||conn1.oppomobile.com^
 @@||connect-drcn.hispace.hicloud.com^
 @@||connect.intl.rom.miui.com^
 @@||connect.rom.miui.com/generate_204^$important
@@ -848,6 +848,7 @@
 @@||docs.getui.com^
 @@||docs.idqqimg.com^
 @@||dorado.xiaojukeji.com^
+@@||dorangesource.alicdn.com^
 @@||dot.360.cn^
 @@||douyincdn.com^
 @@||down-update.qq.com^
@@ -1131,7 +1132,7 @@
 @@||gw5.push.mcp.weibo.cn^
 @@||h-adashx.ut.taobao.com^
 @@||h.trace.qq.com^
-@@||h35.ynodd.cn^$
+@@||h35.ynodd.cn^
 @@||h5-box.onethingpcs.com^
 @@||h5.360buyimg.com^
 @@||h5.cc.163.com^
@@ -1794,6 +1795,7 @@
 @@||obituaries.thestar.com^
 @@||obituaries.toacorn.com^
 @@||obus-cn.dc.heytapmobi.com^
+@@||obus-dc20058-cn.heytapmobi.com^
 @@||oca.microsoft.com^
 @@||oca.telemetry.microsoft.com^
 @@||ocsp.apple.com^
@@ -2911,6 +2913,7 @@
 @@||wximg.wxs.qq.com^
 @@||wxmini-api.uyouqu.com^
 @@||wxpay.qpic.cn^
+@@||wxpaylogo.qpic.cn^
 @@||wxsnsdy.wxs.qq.com^
 @@||wxsnsdy.wxs.qq.com^$important
 @@||wxsnsdythumb.wxs.qq.com^
