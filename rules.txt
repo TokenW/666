@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-07-29 01:27:45（北京时间）
+! Version: 2026-07-29 03:09:53（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 370945
+! Total count: 371095
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -4747,10 +4747,6 @@
 #--腾讯视频-Tencent
 #--芒果TV-Mgtv
 #--风行&酷喵-FunShion
-#/pangolin-sdk-toutiao.*/
-#/pangolin-sdk-toutiao1.*/
-#/pangolin-sdk.*/
-#/pglstatp-toutiao.*/
 #0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
 #0.0.0.0 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
 #0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
@@ -4801,6 +4797,7 @@
 #163邮箱官网
 #1688网页版图片
 #18+不良网站
+#1RTB ===
 #216.34.181.45   s        # slashdot.org
 #22听书网音频接口
 #316签名墙
@@ -4820,6 +4817,7 @@
 #360热点
 #360翻译
 #4399小游戏
+#52qumao.com 七猫自建广告交换平台（纯广告）──
 #555影视
 #74.125.127.105	g        # google.com
 #8680
@@ -4951,6 +4949,8 @@
 #@@||update.miui.com^
 #@@||updates.cdn-apple.com^
 #@@||v*-novelapp.fqnovelvod.com^
+#ADN Plus ===
+#ADX VIP ===
 #AD推荐的游戏介绍加载
 #API调用
 #APP 评论区图片
@@ -4959,27 +4959,41 @@
 #APP扫码后登陆页面加载
 #APP聊天窗口内图片加载
 #APP设置页各选项内容布局加载
+#Ad-Scope ===
+#AdBid ===
+#Aggmore 聚合广告 SDK ──
 #Android Apk下载页面
 #App内网易心小易界面游戏图标跳转链接
 #A站点赞
 #BWIKI网页图片
 #BWIKI网页排版
 #BWIKI首页
+#Baidu 百度广告 SDK ──
 #BiLiBiLi游戏官网
 #BiLiBiLi游戏官网内容加载
 #BiLiBiLi移动游戏中心
 #BiLiBiLi移动游戏中心内容加载
 #BiLiBiLi移动游戏中心网页布局
 #Blogger
+#ByteDance Pangle 穿山甲广告 SDK ──
 #B直播
 #B站
 #B站APP关注列表
 #CC字幕加载
 #CC直播域名
+#DigitalCloudShield ===
+#Domob 多盟广告 ──
+#FancyDSP ===
+#GDT 腾讯广点通广告 ──
+#Gameley ===
 #HTTPDNS拦截
 #HeyTap（欢太）
+#Huawei 华为广告 SDK ──
+#HubCloud ===
 #ICP/IP地址/域名信息备案管理系统
 #IP 地址查询
+#KS 快手广告 SDK ──
+#LeadMoa ===
 #Logolabn去广告
 #MIUI 天气预报
 #MIUI 流量中心
@@ -4989,8 +5003,10 @@
 #MIUI浏览器关键词联想
 #MIUI黄页
 #MTAPP 更新
+#MentaMob ===
 #Migu | 咪咕
-#OPPO
+#NDCJL ===
+#OPPO 广告 SDK ──
 #OPPO 应用商店 主题 开屏广告
 #OPPO应用配置
 #OPPO开放平台
@@ -5036,13 +5052,19 @@
 #QQ音乐首页
 #QQ验证页
 #Reddit
+#RichMob ===
+#Sigmob ===
+#Tanx 阿里巴巴广告 SDK ──
 #Tracking
+#UBiX ===
 #UC
 #UC浏览器
 #UC浏览器 & 夸克
 #UC浏览器网盘
 #UP主主页商品页面加载
 #Umeng | 友盟
+#Vivo 广告 SDK ──
+#Vlion 维龙 ===
 #X5内核文档插件下载
 #X8沙箱
 #YouTube 去底部广告
@@ -5248,11 +5270,13 @@
 #gamezop
 #gp助手
 #https://qa666.xyz?tg=1959655
+#iFlytek 讯飞广告 ──
 #ios app付费解锁
 #ios上的pixiv
 #ios毒奶
 #ip测试页电脑端
 #ip测试页移动端
+#jiuyue919.com 广告子域 ──
 #kimi智能助手
 #kimi智能助手没网，然而放行一次之后再禁却没事
 #mytvsuper
@@ -5270,6 +5294,8 @@
 #pkg=white.ad.web.com;【提示误伤】选择性不√以下子项
 #pkg=xxx.ad.doubleclick.net;广告联盟
 #pornhub
+#qimao.com 广告子域 ──
+#qm989.com 广告子域 ──
 #qq
 #qq登录授权接口
 #qq的一些资源图片加载
@@ -5283,37 +5309,8 @@
 #teams
 #uc 浏览器备份
 #vivo
+#wtzw.com 广告子域 ──
 #yeah邮箱官网
-#||ad.zijieapi.com^
-#||ads*-normal-hl.amemv.com^
-#||ads*-normal-hl.zijieapi.com^
-#||ads*-normal-lf.amemv.com^
-#||ads*-normal-lf.zijieapi.com.dhcp^
-#||ads*-normal-lf.zijieapi.com^
-#||ads*-normal-lq.amemv.com^
-#||ads*-normal-lq.zijieapi.com.queniuiq.com^
-#||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
-#||ads*-normal-lq.zijieapi.com^
-#||ads*-normal.amemv.com^
-#||ads*-normal.zijieapi.com^
-#||apps.bytesfield.com^
-#||bsccdn.net^
-#||dig.bdurl.net^
-#||dig.zjurl.cn^
-#||lf*-orange.byteorge.com^
-#||localads.chengzijianzhan.cn.queniurc.com^
-#||localads.chengzijianzhan.cn^
-#||p*-ad-sign.byteimg.com^
-#||p*-ad.byteimg.com^
-#||p*-local-ads.byteimg.com.queniuso.com^
-#||p*-local-ads.byteimg.com^
-#||pangolin-sdk-toutiao-b.com^
-#||pangolin-sdk-toutiao.com^
-#||pangolin-sdk-toutiao1.com^
-#||pglstatp-toutiao.com^
-#||sf*-ttcdn-tos.pstatp.com^
-#||v*-novelapp.fqnovelvod.com^
-#||vcs.zijieapi.com^
 #↑ 百度系 ↑ 
 #↓ 百度系 ↓
 #①spotify登录、主页联网，②播放歌曲
@@ -5369,6 +5366,7 @@
 #京东图片
 #京东外卖
 #京东存储和图片提供
+#京东广告 ──
 #京东联盟官网
 #京喜
 #亲邻开门卡初始化
@@ -5387,6 +5385,7 @@
 #优酷app 兑换vip
 #优酷图片加载
 #优酷系
+#优量汇 GDT ===
 #会员购商品页面加载
 #会影响酷安没有推送。
 #传奇广告
@@ -5397,7 +5396,6 @@
 #作者头像加载
 #作者头像＆二维码
 #保险专家
-#信息流及评论区广告
 #信用分
 #倘若下方链接放行后，有个别音频无法播放，可使用通配符进行放行。
 #借钱呗
@@ -5426,10 +5424,8 @@
 #华风爱科气象
 #卡片加载
 #去除丰巢新版取件码页面广告
-#去除首页还有什么值得买推广
 #参考：https://h5.jd.com/article/247.html
 #反向DNS查找
-#发现页去除酷品
 #可可影视
 #右上角登录布局
 #合集封面
@@ -5467,6 +5463,8 @@
 #地推/增长（非内容）---
 #墨墨背单词
 #夏普电视开机广告
+#多盟 Domob ===
+#大事选 ===
 #大众养生网
 #大圣净化
 #大师兄
@@ -5510,6 +5508,7 @@
 #小游戏广告（如不使用可屏蔽，用则去掉）---
 #小米主题设计师注册
 #小米其他
+#小米广告 ===
 #小米应用商店图片
 #小米推送(mipush)
 #小米文件下载
@@ -5530,16 +5529,12 @@
 #小赢
 #小辉付
 #山姆
-#巨量引擎（广告投放平台）---
 #已废弃产品域名（仅残留追踪代码）---
-#帖子详情好物推荐
-#帖子详情赞助内容
 #幸运字符界面布局加载
 #应用商店
 #应用图标
 #应用宝
 #应用游戏界面视频加载
-#应用游戏页去除推广视频
 #度小满
 #得间
 #微信公众号
@@ -5557,6 +5552,7 @@
 #微信转账到QQ
 #微视视频封面
 #微银信用
+#快手 ===
 #快手图标
 #快手头像
 #快手相关
@@ -5626,6 +5622,7 @@
 #授权登录用户图标加载
 #掌上穿越火线开屏，但会让一些腾讯系游戏活动无图。
 #掌上穿越火线无法登录
+#掌驭移动 ===
 #探探
 #推特(第三方调用)
 #推荐歌曲图片加载
@@ -5739,7 +5736,6 @@
 #电费计算器
 #番茄免费小说
 #番茄小说
-#番茄小说 / Pangle 穿山甲 广告过滤规则
 #番茄小说听书
 #番茄小说短信登陆
 #番茄小说网页
@@ -5768,6 +5764,7 @@
 #百度视频封面
 #百度贴吧签到
 #百度贴吧表情误杀
+#百鹤 ===
 #皮皮虾/字节跳动
 #皮皮虾pro
 #皮皮虾评论区发图
@@ -5802,7 +5799,7 @@
 #移动网页端网页布局
 #移动网页端顶部快捷入口图标
 #稀土掘金
-#穿山甲开发者平台（广告 SDK 配置/策略下发）---
+#穿山甲/字节 ===
 #立即下载页面
 #笔趣阁
 #笔趣阁网页广告
@@ -5885,6 +5882,7 @@
 #谷歌浏览器
 #豆包
 #贝壳账户页面
+#贝子 ===
 #账号与安全页面加载
 #账号安全页面
 #贴吧弹窗
@@ -5953,6 +5951,7 @@
 #页面端及资源加载
 #页面端商品跳转网页图片
 #页面端商品跳转网页布局
+#顺昌之行 ===
 #领红包封面
 #领跑抽奖
 #饿了么小程序
@@ -105825,7 +105824,6 @@
 @@||gdfp.gifshow.com^
 @@||gdown.baidu.com^
 @@||gdtimg.com^
-@@||gecko.zijieapi.com^
 @@||get.neofinancial.com^
 @@||get.shouji.sogou.com^
 @@||get.sogou.com^
@@ -106329,7 +106327,6 @@
 @@||mon.isnssdk.com^
 @@||mon.snssdk.com^
 @@||mon.zijieapi.com^
-@@||monsetting.toutiao.com^
 @@||mooc-image.nosdn.127.net^
 @@||mos.m.taobao.com^
 @@||mp.163.com^
@@ -107774,6 +107771,7 @@ unpkg.com/aladug/*.js
 v.qq.com##div[class*="mod_row_box mod_row_box_special"]
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
 v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
+w.metaconex.io
 webtor.io##DIV.ad
 webtor.io##IFRAME[scrolling='no']
 webtor.io##[data-element='empty']
@@ -112299,6 +112297,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||55labs.com^
 ||55laomao.com^
 ||55qs293t.com^
+||55vt5u2bvojyryyc7mgkph.cfd^
 ||55yy56n7p2ug15lrwz.cfd^
 ||55zzz.cn^
 ||5603.net^
@@ -115220,6 +115219,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||a.triggit.com^
 ||a.trivita.com^
 ||a.trowow.de^
+||a.trustcnt.online^
 ||a.ttest.fr^
 ||a.tuizhuti.com^
 ||a.tunley-environmental.com^
@@ -119178,6 +119178,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad-analyze.jp^
 ||ad-api-log.colopl.jp^
 ||ad-api-v01.uliza.jp^
+||ad-api.adn-plus.com.cn^
 ||ad-api.band.us^
 ||ad-api.cnblogs.com^
 ||ad-api.ehawk.com^
@@ -119224,6 +119225,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad-display.diwodiwo.xyz^
 ||ad-display.wikawika.xyz^
 ||ad-download.hismarttv.com^
+||ad-drs-ipv6.52qumao.com^
 ||ad-ebis.bookpass.auone.jp^
 ||ad-ebis.mynavi-job20s.jp^
 ||ad-ebis.toysub.jp^
@@ -119452,6 +119454,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.auditude.com^
 ||ad.autorace.jp^
 ||ad.avcorpi.click^
+||ad.baihemob.com^
 ||ad.bandao.cn^
 ||ad.bannerbank.ru^
 ||ad.bannerhost.ru^
@@ -119904,6 +119907,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.tjserv.media^
 ||ad.tjtune.com^
 ||ad.tk.cn^
+||ad.toutiao.com
 ||ad.toutiao.com^
 ||ad.tpmn.co.kr^
 ||ad.tpmn.io^
@@ -119938,6 +119942,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.visbran.fr^
 ||ad.vivo.com.cn^
 ||ad.vkool.net^
+||ad.voiceads.cn^
 ||ad.vrvm.com^
 ||ad.vryeye.com^
 ||ad.vu^
@@ -119960,6 +119965,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ad.wretch.cc^
 ||ad.wrtn.ai^
 ||ad.wsod.com^
+||ad.wtzw.com^
 ||ad.wurangxian.top^
 ||ad.wynk.in^
 ||ad.wz.cz^
@@ -121636,6 +121642,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adm.shinobi.jp^
 ||adm.sina.com.cn^
 ||adm.xmfish.com^
+||adm.zhangyuyidong.cn^
 ||adm.zookingsoft.com^
 ||adm2.autoimg.cn^
 ||adm3.autoimg.cn^
@@ -122413,6 +122420,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads-backend.chaincliq.com^
 ||ads-banner.s3.ap-south-1.amazonaws.com^
 ||ads-bi.zenkube.com^
+||ads-bid.leadmoad.com^
 ||ads-bidder-api.twitter.com^
 ||ads-bilek.com^
 ||ads-bitcoin.com^
@@ -123979,6 +123987,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adsbb.dfiles.eu^
 ||adsbdfs.heytapimage.com^
 ||adsbetnet.com^
+||adsbid.leadmoad.com^
 ||adsbingo.com^
 ||adsblockersentinel.info^
 ||adsbookie.com^
@@ -124035,6 +124044,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adsdk.idmzj.com^
 ||adsdk.microsoft.com^
 ||adsdk.picooapps.com^
+||adsdk.richmob.cn^
 ||adsdk.state.duoku.com^
 ||adsdk.trafficmanager.net^
 ||adsdk.vivo.com.cn^
@@ -124400,6 +124410,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adservice.google.nl^
 ||adservice.google.se^
 ||adservice.hani.co.kr^
+||adservice.huawei.com^
 ||adservice.kugou.com^
 ||adservice.sbs.co.kr^
 ||adservice.sigmob.cn^
@@ -125500,9 +125511,11 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adx-bid.tianzhuobj.com^
 ||adx-bj-req.anythinktech.com^
 ||adx-bj.anythinktech.com^
+||adx-cfg-u1.ubixioe.com^
 ||adx-cn.ads.vungle.com^
 ||adx-cn.anythinktech.com^
 ||adx-core.youku.com^
+||adx-data-u1.ubixioe.com^
 ||adx-data.yfanads.com^
 ||adx-dra-op-dbankcloud-com-dra.appacc.dbankedge.cn^
 ||adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn^
@@ -125526,6 +125539,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adx-sg.ads.heytapmobi.com^
 ||adx-static.ksosoft.com^
 ||adx-strategy-api-cn.statisticslinks.com^
+||adx-track.adn-plus.com.cn^
+||adx-track.domob.cn^
 ||adx-u-sg.heytapmobile.com^
 ||adx.36kr.com^
 ||adx.4strokemedia.com^
@@ -125543,6 +125558,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adx.chinmedia.vn^
 ||adx.chip.de^
 ||adx.com.ru^
+||adx.domobcdn.com^
 ||adx.doumpaq.com^
 ||adx.fulcrum.com.fj^
 ||adx.gayboy.at^
@@ -125553,12 +125569,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||adx.hupu.com^
 ||adx.ibibo.com^
 ||adx.io^
+||adx.jd.com^
 ||adx.kuaiyiad.com^
 ||adx.mala.cn^
 ||adx.maplehaze.cn^
 ||adx.mocoplex.com^
 ||adx.op.cp18.ott.cibntv.net^
 ||adx.opera.com^
+||adx.oppomobile.com^
 ||adx.rrt365.com^
 ||adx.sogaha.cn^
 ||adx.starnewsonline.com^
@@ -127184,6 +127202,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||aiaoren.com^
 ||aiapp-flex-pl.com^
 ||aiapp-uk-system.com^
+||aiappptprofit.com^
 ||aiapptrade.net^
 ||aiaskjqrimnol.website^
 ||aiavenuetrade.com^
@@ -132663,6 +132682,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||anocturexapp.org^
 ||anodachwrhdbv.space^
 ||anode67.top^
+||anodpo.ru^
 ||anoeticgoniac.cfd^
 ||anol.loan^
 ||anoliankerbed.qpon^
@@ -133313,6 +133333,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api-ad.kajicam.com^
 ||api-ads.tiantianqutao.com^
 ||api-adservices.apple.com^
+||api-adx.52qumao.com^
 ||api-an.tutu.ru^
 ||api-analytics-cn3.zepp.com^
 ||api-analytics-de.zepp.com^
@@ -133326,6 +133347,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api-analytics.zepp.com^
 ||api-ao.adison.co^
 ||api-bloomreach.comfy.ua^
+||api-cfg.52qumao.com^
 ||api-cfg.wtzw.com^
 ||api-cloudfalcon.hismarttv.com^
 ||api-cn.cdo.heytapmobi.com^
@@ -133338,6 +133360,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api-dynhost.hismarttv.com^
 ||api-e189.21cn.com^
 ||api-e413248b-endpoint.com^
+||api-eas.52qumao.com^
 ||api-es.apdetective.site^
 ||api-eu.carrotquest.app^
 ||api-eu.carrotquest.io^
@@ -133384,6 +133407,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api-metric.gosweb.gosuslugi.ru^
 ||api-n.outgrow.co^
 ||api-notify.markarch.com^
+||api-nxs-v4.mentamob.com^
 ||api-p*.mobsurl.com^
 ||api-p*.yksdks.com^
 ||api-p1.yksdks.com^
@@ -133423,6 +133447,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api-unisearch.hismarttv.com^
 ||api-v2.kmoparkaalst.be^
 ||api-v2.shareitgames.com^
+||api-v3.mentamob.com^
 ||api-v3.tinypass.com^
 ||api-vidaaasst.hismarttv.com^
 ||api-visitor-analytics.intercom.com^
@@ -133475,6 +133500,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.adv.ott.cibntv.net^
 ||api.adviad.com^
 ||api.advocaciajacobi.com.br^
+||api.adx.oppomobile.com^
 ||api.adxnow.com^
 ||api.afdback.ppsimg.com^
 ||api.affiliations.site^
@@ -134299,6 +134325,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.shein.hoctan.com^
 ||api.shein.zuremod.com^
 ||api.shopcarpe.com.br^
+||api.shubunk.com^
 ||api.sistemavibra.com^
 ||api.sm.cn^
 ||api.smartx.com.br^
@@ -134420,6 +134447,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.voceinvestidor.com.br^
 ||api.voemaisagro.com.br^
 ||api.vogastrategie.com^
+||api.voiceads.cn^
 ||api.vpnlumos.com^
 ||api.vrumeads.com^
 ||api.wacontactcenter.com.br^
@@ -134476,18 +134504,13 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api2.boclinkads.com^
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /! 帖子详情赞助内容
-||api2.coolapk.com/v6/feed/detail$replace=/&quot;include_goods_ids&quot;:\[.*?]\,&quot;include_goods&quot;:\[.*?]\,/ /
 ||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
 ||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/! 发现页去除酷品
-||api2.coolapk.com/v6/feed/detail$replace=/\,&quot;detailSponsorCard&quot;:{.*}/}}/
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
-||api2.coolapk.com/v6/main/indexV8$replace=/{&quot;entityType&quot;:&quot;card&quot;\,&quot;entityTemplate&quot;:&quot;listCard&quot;.*?}&quot;}\,/ /
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /! 应用游戏页去除推广视频
-||api2.coolapk.com/v6/main/init$replace=/{&quot;id&quot;:1170.*?}\,/ /
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /! 去除首页还有什么值得买推广
-||api2.coolapk.com/v6/page/dataList$replace=/{&quot;entityType&quot;:&quot;card&quot;\,&quot;entityTemplate&quot;:&quot;apkImageCard&quot;.*?\\u0022}&quot;}\,/ /
 ||api2.drmontanha.com.br^
 ||api2.drramoncolombo.com^
 ||api2.drricardofonseca.com^
@@ -136878,6 +136901,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||arnophondatrikstrade.com^
 ||arnsvr.site^
 ||aroarbur.qpon^
+||aroeiravalorenca.net^
 ||aroeuyo.dns64.de^
 ||arohm.uspatriottactical.com^
 ||aromaexplode.com^
@@ -138861,6 +138885,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||autonewsinfo.fr^
 ||autonomoustradingai.digital^
 ||autonomoustradingai.live^
+||autonymtootsie.qpon^
 ||autopsyextendedyou.com^
 ||autoresdecomic.com^
 ||autotdispi.cyou^
@@ -139020,6 +139045,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||avexpro6.net^
 ||avexprofit-de.live^
 ||avexprofit.live^
+||avexprofit20.com^
 ||avexprofitai.live^
 ||avexprofitai.shop^
 ||avfay.com^
@@ -140564,6 +140590,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||balamall.shop^
 ||balanceaquarid.qpon^
 ||balanceathlete.com^
+||balancebox.com^
 ||balancebreath.com^
 ||balancedsuppercreed.com^
 ||balancenotes.com^
@@ -143767,7 +143794,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bicp-analytics.postscript.io^
 ||bicyclebusgrave.work^
 ||bid-adx.vlion.cn^
+||bid-adx2.vlion.cn^
 ||bid-algorix.com^
+||bid.adbiding.com^
 ||bid.axiatraders.com^
 ||bid.glass^
 ||bid.run^
@@ -145084,6 +145113,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||blekko.com^
 ||blemblem.us^
 ||blendedbird.com^
+||blendee.com^
 ||blender3d.fr^
 ||blenderbakery.com^
 ||blendonthegoshop.com^
@@ -147108,6 +147138,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||branchborder.com^
 ||branchct.ncapp04.com^
 ||branchcust.zulln.se^
+||branchdsp.io^
 ||branche-rendalie-ai.com^
 ||branchio.hipages.com.au^
 ||branchio.rsvp.com.au^
@@ -150764,7 +150795,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||calcifychiasma.cyou^
 ||calcipresc.cyou^
 ||calcomsec.com^
-||calcostell.cyou^
 ||calcpol.com^
 ||calculatesymbols.com^
 ||calculatingcircle.com^
@@ -152038,6 +152068,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||carphone92.com^
 ||carpici.clicknplay.to^
 ||carpitournel.cyou^
+||carpoolmatch.com^
 ||carpoolqueen.com^
 ||carprimp.info^
 ||carprlce.ru^
@@ -155561,6 +155592,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cistykapitrust-ai.com^
 ||cistyportdex.digital^
 ||cistyportdextrade.com^
+||ciszadochodyn.business^
 ||ciszadochodyn.net^
 ||ciszhp.finanzfrage.net^
 ||ciszhp.gesundheitsfrage.net^
@@ -155721,6 +155753,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cjujz.aosom.com^
 ||cjulor.marimekko.jp^
 ||cjutqvopetliy.space^
+||cjv8tgk7y4j8jo.rest^
 ||cjvdfw.com^
 ||cjwhahqi.com^
 ||cjwtfp.esimsar.com^
@@ -156246,6 +156279,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||click-eu-v4.plarclck.com^
 ||click-eu-v4.plarimocl.com^
 ||click-eu-v4.plclick.com^
+||click-eu-v4.preclkmn.com^
 ||click-eu-v4.preclksize.com^
 ||click-eu.exmainclck.com^
 ||click-eu.exmainclckback.com^
@@ -156310,6 +156344,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||click-v4.plarimocl.com^
 ||click-v4.plarimoexocli.com^
 ||click-v4.plclick.com^
+||click-v4.preclkmn.com^
 ||click-v4.preclksize.com^
 ||click-v4.rpdmkrclk.com^
 ||click-v4.yoclpknu.com^
@@ -156465,6 +156500,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||click.plarimoexocli.com^
 ||click.plclick.com^
 ||click.pockee.com^
+||click.preclkmn.com^
 ||click.preclksize.com^
 ||click.pyrrhicmechntech.com^
 ||click.qianqian.com^
@@ -157330,6 +157366,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||clumsycar.com^
 ||clunen.com^
 ||clungfellow.com^
+||clunkerjoiners.cyou^
 ||clunkyentirelinked.com^
 ||clurdfsagmfjh.space^
 ||cluster-0.gac.edu^
@@ -157900,6 +157937,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cobolgammed.com^
 ||cobradaunder.cfd^
 ||cobrand.ria.com^
+||cobrasvirger.cyou^
 ||cobrraogc.de^
 ||cobwebhauntedallot.com^
 ||cobwebsituationstyling.com^
@@ -162593,7 +162631,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||csirf.shop^
 ||csirj.shop^
 ||csitulo.g-heat.eu^
-||csjdeveloper.com^
 ||csjdhxlelvqpa.site^
 ||csjdlngaavfilh.com^
 ||csjggncfpbhnq.space^
@@ -166088,6 +166125,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||d4q8zgf756.com^
 ||d4rxxm6ig.com^
 ||d4xmm7es84.com^
+||d4yoxd.top^
 ||d5.sina.com.cn^
 ||d5092moci.com^
 ||d5099e30ec.708ae8f508.com^
@@ -173527,6 +173565,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||difnxm.cn^
 ||difucyvkjayoc.space^
 ||dify.calilnegociosimobiliarios.shop^
+||dig-cfg.wtzw.com^
 ||dig.bdurl.net
 ||dig.bdurl.net^
 ||dig.lianjia.com^
@@ -174126,6 +174165,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||disasterpreserved.com^
 ||disastrous-protection.com^
 ||disastrous-special.pro^
+||disatsbevi.cyou^
 ||disbish.com^
 ||disbudswraths.com^
 ||disc888.com^
@@ -177297,6 +177337,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||doumaibiji.cn^
 ||doumob.com^
 ||douofficial-pl.com^
+||doupceticroyals.cfd^
 ||douplay.net^
 ||doupuer.com^
 ||dourasinfeft.cfd^
@@ -179506,6 +179547,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dynacrems.wp.pl^
 ||dynad.net^
 ||dynalyst.jp^
+||dynamglyci.cyou^
 ||dynamic-content.croquetteland.com^
 ||dynamic-dns.net^
 ||dynamic.aol.com^
@@ -183947,6 +183989,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||en-us.coloplastcare.com^
 ||en.btc-trader-app.club^
 ||en.btcprofit.we-trck.com^
+||en.elowriderst.com^
 ||en.foxload.com^
 ||en.ikmemergent.net.jumia.co.ke^
 ||en.taichuan.com^
@@ -184571,6 +184614,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||entropysunbath.shop^
 ||entrustfacileproficient.com^
 ||entry-cn.com^
+||entry-su1.ubixioe.com^
 ||entry.baidu.com^
 ||entry.org^
 ||entryhit.wp.pl^
@@ -186246,6 +186290,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||event.collector.scopely.io^
 ||event.condenastdigital.com^
 ||event.csdn.net^
+||event.dashisx.com^
 ||event.dengage.com^
 ||event.dfinery.io^
 ||event.dnv.com^
@@ -187148,7 +187193,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||exmarketplace.com^
 ||exmeqy.smartbuyglasses.de^
 ||exmwfltxyxwmr.website^
-||exnesspromo.com^
 ||exns1.exalto.nu^
 ||exnsar.raiton.ru^
 ||exnxoswc.cc^
@@ -187581,6 +187625,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ezdesigns.net^
 ||ezdjat.shoesme.nl^
 ||ezebra.clearanceon.shop^
+||ezebrafr-eur.sbs^
 ||ezebras.help^
 ||ezebrashop-sale.shop^
 ||ezebrawin.shop^
@@ -188862,6 +188907,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fastyouxi.com^
 ||fastyouyou.com^
 ||fastyunfan.com^
+||fat-boss-casino.fr^
 ||fatal-mouse.pro^
 ||fatal-package.pro^
 ||fatal-scratch.pro^
@@ -190330,6 +190376,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||filedrive.nocoshop.ru^
 ||filedrive.uploadbox.world^
 ||filefortune.com^
+||fileice.net^
 ||filekeeper.nocoshop.ru^
 ||filekeeper.topupload.ru^
 ||fileml.com^
@@ -190746,7 +190793,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||finance94-facere99.sbs^
 ||finance94-non58.sbs^
 ||finance94-ut82.sbs^
-||finance95-consequatur0.space^
 ||finance95-distinctio55.sbs^
 ||finance95-hic21.sbs^
 ||finance97-distinctio81.sbs^
@@ -190758,7 +190804,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||finance98-qui87.sbs^
 ||finance98-ullam4.space^
 ||finance99-accusamus36.space^
-||finance99-amet45.space^
 ||finance99-debitis3.sbs^
 ||finance99-dicta56.sbs^
 ||finance99-odio77.sbs^
@@ -190986,6 +191031,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||finmaxbo.com^
 ||finmaxfx.com^
 ||finnansera-ai.live^
+||finnanseraai-app.shop^
 ||finnanseraai.live^
 ||finnedrepitchplanaru.cfd^
 ||finnermahmudi.qpon^
@@ -195781,7 +195827,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gambling-affiliation.com^
 ||gamblingsyndication.com^
 ||gambo-ad.com^
-||gamboge-dress.shop^
 ||gamboge-wimple.shop^
 ||gambogecringedresh.cfd^
 ||game-advertising-online.com^
@@ -198929,6 +198974,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||glycogest.com^
 ||glycoseunite.shop^
 ||glymanicale.com^
+||glyoxalkoibal.cfd^
 ||glyoxylpowered.cfd^
 ||glype.com^
 ||glyrcioxzpvvh.site^
@@ -199966,6 +200012,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||go1.trakit28.com^
 ||go1.trakit29.com^
 ||go1.trakit30.com^
+||go1.trakit31.com^
 ||go1.were.work^
 ||go1.yare.work^
 ||go2.altaro.com^
@@ -210016,7 +210063,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hobblequintecountys.cyou^
 ||hobcowriediazoma.qpon^
 ||hobobot.net^
-||hobowhema.com^
 ||hobypcdcsidnc.online^
 ||hocevqttpeekw.store^
 ||hocgeese.com^
@@ -212087,7 +212133,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hyfokui.pro^
 ||hyfyuan.com^
 ||hygar.com^
-||hygcgehouse.shop^
 ||hygckbylqhutq.website^
 ||hygeiankinema.cyou^
 ||hygeistintrunk.cfd^
@@ -212742,7 +212787,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ibrapush.com^
 ||ibreeno.com^
 ||ibribeillegals.vaultnoir.com^
-||ibridcalab.cyou^
 ||ibryte.com^
 ||ibseniccamery.qpon^
 ||ibsenicopalish.cfd^
@@ -218454,7 +218498,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ios.asktagapp.com^
 ||ios.bugly.qq.com^
 ||ios.bugly.tencent.com^
-||ios94.com^
 ||iosap2-static.b-cdn.net^
 ||iosedge.com^
 ||iosequence.online^
@@ -218488,6 +218531,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||iovation.com^
 ||iow-dns.bitdefender.net^
 ||iowanseck.com^
+||iowtsnicked.shop^
 ||ioxoinyxionos.com^
 ||ioxqdp.leatherology.com^
 ||ioxy.de^
@@ -219402,7 +219446,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||itrsa.nevuer.com^
 ||itruni.com^
 ||itrustzone.site^
-||itruzz.com^
 ||itrxx.com^
 ||its-dori.tumblr.com^
 ||its.fusrv.com^
@@ -219490,6 +219533,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||iuiweb.com^
 ||iujciykvnpygv.website^
 ||iujeaa.menz-style.com^
+||iujfxsnhivbqg.online^
 ||iujmdwvmvhblw.website^
 ||iujpr5vp4ejyuiv9i2c.rest^
 ||iujvcjis7.easterndns.com^
@@ -220627,7 +220671,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jdisbizkiwsbn.online^
 ||jdiytgppssetc.space^
 ||jdjedzszejiwn.site^
-||jdji622.shop^
 ||jdjiuhwooalvp.website^
 ||jdjjrlmodfqxw.online^
 ||jdjkljs.click^
@@ -221922,6 +221965,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jointreport-switch.com^
 ||joinus.holidayseniorliving.com^
 ||joinyongjiumianfeijichang.com^
+||joistparsonymedii.qpon^
 ||joiwnq2.cn^
 ||jojackal.com^
 ||jojog.com^
@@ -222004,6 +222048,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||joqowqymkrywy.top^
 ||jorammeatman.com^
 ||jordan.qunis.ru^
+||jordan.zcdn.click^
 ||jordanburrow.com^
 ||jordanbuty.pl^
 ||jordanfemmepascher.fr^
@@ -222249,6 +222294,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jqgjtz.com^
 ||jqilyjagezcqk.site^
 ||jqjauhkkylyj.com^
+||jqjfomk.com^
 ||jqjpdxlywnqam.site^
 ||jqkcett.icu^
 ||jqki.cn^
@@ -222740,6 +222786,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jssav4hk.xyz^
 ||jssav6hk.club^
 ||jssckcpqylmzc.site^
+||jssdk.tubexazimebeze.com^
 ||jssearch.net^
 ||jsshidzmbryny.online^
 ||jssr.cc^
@@ -223211,7 +223258,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||justservingfiles.net^
 ||justspoisure.com^
 ||justsufficiently.com^
-||justthegays.com^
 ||justtrack.io^
 ||justtrck.com^
 ||justuno.com^
@@ -224039,7 +224085,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kapitangesoftware.pro^
 ||kapitark.live^
 ||kapitarna.shop^
+||kapitarynvexon.net^
 ||kapitarynvexonai.com^
+||kapitarynvexontrade.com^
 ||kapiteledix.club^
 ||kapitewe.com^
 ||kapitewetech.com^
@@ -224163,6 +224211,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kassakafroscozing.cyou^
 ||kassegewinnburg-de.live^
 ||kassegewinnburg.live^
+||kassuchelp.shop^
 ||kastino.ru^
 ||kasumikarate.hanagasumi.net^
 ||kasych.net^
@@ -225574,6 +225623,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kkmbbvz.xyz^
 ||kkmjv.certapet.com^
 ||kknka.tndetoxcenter.com^
+||kknrrhztpsbpo.website^
 ||kkopshcenbxot.site^
 ||kkpeioqgeo.com^
 ||kkpgv.kankan.com^
@@ -226744,6 +226794,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||krakencassino.com^
 ||krakenfolio.com^
 ||krakenoptimize.com^
+||krakow-rynowekta-bot.com^
 ||krakow-rynowekta-bot.live^
 ||krakow-rynowekta-bot.net^
 ||krakow-rynowekta-pl.com^
@@ -228332,6 +228383,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||landeavoirectosystem.com^
 ||landenglinktools.com^
 ||lander-events-api.c4s-rd.services^
+||lander1.landerpages.store^
 ||landerbrauver.ru^
 ||landerhq.com^
 ||landernsoftware.digital^
@@ -229642,6 +229694,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lemnode.fr^
 ||lemoheo.cyou^
 ||lemon.fragranceofarabia.com^
+||lemon.gameley.com^
 ||lemon.meinefestanstellung-fyrd.com^
 ||lemon.peakhomefurnishings.com^
 ||lemonadds.com^
@@ -230025,11 +230078,14 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lezysoptimizations.lovable.app^
 ||lezzyporn.com^
 ||lf*-sf-be-pack-sign.pglstatp-toutiao.com^
+||lf-cdn-tos.bytescm.com^
+||lf-event-manager.oceanengine.com^
 ||lf-leads-fe-scm.bytecdn.com^
 ||lf-reward-video.bytedcdn.com^
 ||lf-static.tiktokpangle-cdn-us.com^
 ||lf-wkrs.wkbrowser.com^
 ||lf.lelefeminine.com^
+||lf1-cdn-tos.bytegoofy.com^
 ||lf21cgfgpg2cfz.cfd^
 ||lf26-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf2cgxz0b.com^
@@ -230361,7 +230417,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||liberaztion.fr^
 ||liberland.fr^
 ||libersforeact.cyou^
-||libersubae.cyou^
 ||liberty.gedads.com^
 ||libertycdn.com^
 ||libertycoinsdrew.com^
@@ -237515,6 +237570,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lockedyetoffence.com^
 ||lockerdome.com^
 ||lockerdomecdn.com^
+||lockerimage.com^
 ||lockersatelic.cam^
 ||locketsauce.com^
 ||locksadvancedrelease.com^
@@ -239753,6 +239809,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lucecrescoro.live^
 ||lucecrescoro.pro^
 ||lucefastholm-ai.com^
+||lucefastholmtrade.com^
 ||lucentanxiouslyfleeting.com^
 ||lucentestudyo.com^
 ||lucentjosephs.cfd^
@@ -240349,6 +240406,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lxpgll.icu^
 ||lxqcgj.com^
 ||lxrffyqkackjhg.com^
+||lxrhymhpiycum.online^
 ||lxrjekw.com^
 ||lxrjjgzynzdzj.online^
 ||lxstat.com^
@@ -249874,7 +249932,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mezima.com^
 ||mezir1nm.xyz^
 ||mezmerband.com^
-||mezzemessa.cyou^
 ||mezzobit.com^
 ||mf-massoterapia.it^
 ||mf.atm.youku.com^
@@ -250514,6 +250571,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mindopu.com^
 ||mindradiance.info^
 ||minds.plant.theseks.net^
+||mindsetterz.com^
 ||mindshareworld.fr^
 ||mindslaver.com^
 ||mindsswink.cyou^
@@ -251154,6 +251212,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mkt.vettaquimica.com.br^
 ||mkt.vitasport.co^
 ||mkt.wemakeprice.link^
+||mkt.wtzw.com^
 ||mkt3261.com^
 ||mkt51.net^
 ||mkt6333.com^
@@ -251566,6 +251625,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mnxgpg.gastro-hero.de^
 ||mnxhj.com^
 ||mnxlyo.kinoteatr.ru^
+||mnxqgqdtuhkim.online^
 ||mnxtwmdclreco.space^
 ||mnykevwrezdpg.site^
 ||mnzvtwd.cn^
@@ -252301,6 +252361,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mon.nveda.in^
 ||mon.snssdk.com^
 ||mon.tiktokv.com^
+||mon.toutiao.com^
+||mon.toutiaocloud.com^
+||mon.toutiaocloud.net^
 ||mon.uppyhouse.com^
 ||mon.us.tiktokv.com^
 ||mon.xactware.com^
@@ -252427,6 +252490,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||monitor-ads.huan.tv^
 ||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
+||monitor-pro.digitalcloudshield.com^
 ||monitor-stsdk.vivo.com.cn^
 ||monitor-targeting-failures.sqrt-5041.de^
 ||monitor-uu.play.aiseet.atianqi.com^
@@ -253065,6 +253129,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mpb2.iteye.com^
 ||mpc.nicequest.com^
 ||mpcduaxujgpkxt.com^
+||mpcfg.fancydsp.com^
 ||mpcsbtbipqzfa.space^
 ||mpctech.com^
 ||mpdkfhyvpvttt.site^
@@ -254490,6 +254555,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||my-best-web.com^
 ||my-deco-shop.com^
 ||my-developer-portfolio.pages.dev^
+||my-dryzorsyncapp.org^
 ||my-go.experian.com^
 ||my-loyola.com^
 ||my-luprixappgpt.com^
@@ -254510,6 +254576,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||my-thryzonpixelai.de^
 ||my-tracknl.com^
 ||my-traffic7.com^
+||my-trezikhelmgpt.org^
 ||my-zykanordrift.net^
 ||my-zykanordriftapp.net^
 ||my.007moms.com^
@@ -257062,6 +257129,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||neurismregrate.cfd^
 ||neurismstoping.com^
 ||neurixprofitsolution.com^
+||neurmark.site^
 ||neuroedge.click^
 ||neurogliabrcceath.guru^
 ||neurolink-engine.com^
@@ -257827,6 +257895,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ngepfoguoouph.space^
 ||ngexcelelernodyd.org^
 ||ngexcelelernodyde.org^
+||ngfhkglghgdjliwgh.online^
 ||ngfkrduait.com^
 ||ngfncpvxigzvz.website^
 ||nggcgjtnqm.com^
@@ -259063,6 +259132,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nonissue.com^
 ||nonjuryaflare.cfd^
 ||nonjurycoveted.cfd^
+||nonlifelunts.cyou^
 ||nonlitenzo.cyou^
 ||nonnanttripple.cyou^
 ||nonofy.com^
@@ -259140,6 +259210,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nordauth.com^
 ||nordcdn.com^
 ||nordcheckout.com^
+||nordcqraft.shop^
 ||nordecoancia-pt.live^
 ||nordette.1.p2l.info^
 ||nordette.3.p2l.info^
@@ -260162,6 +260233,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ntfkfspmntojh.site^
 ||ntfsformac.cc^
 ||ntfsformac.cn^
+||ntgkgtobzlwbv.site^
 ||nthaumotzz.com^
 ||nthelead.com^
 ||nthldc.europcar.co.uk^
@@ -262213,6 +262285,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ohmysocial.com^
 ||ohmystats.com^
 ||ohndsplu.com^
+||ohniskotradevo.shop^
 ||ohobuke.pro^
 ||ohomihlorwmjh.space^
 ||ohooblbmkxp.com^
@@ -262833,6 +262906,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ometrics.warnerbros.com^
 ||ometrics.wb.com^
 ||omexpress.site^
+||omextrail.site^
 ||omfghellobrosjda38.org^
 ||omfoom.thepoolfactory.com^
 ||omftdc.morijuku.com^
@@ -264144,6 +264218,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||optiex24.live^
 ||optifiantsion.carte-gr.total.fr^
 ||optify.net^
+||optigain-ai.com^
 ||optigain-ai.net^
 ||optigainai-app.com^
 ||optigainai-gpt.com^
@@ -265895,6 +265970,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ozzpnf.loberon.ch^
 ||p*-ad-aweme.byteimg.com^
 ||p*-ad-sign.byteimg.com^
+||p*-ad.bytecdn.cn
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||p*-lm.adkwai.com^
 ||p*-lm.adukwai.com^
@@ -266182,6 +266258,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||p4-ad.adkwai.com^
 ||p4-ad.adukwai.com^
 ||p4-be-pack-sign.pglstatp-toutiao.com^
+||p4-lm.adukwai.com^
 ||p4.preppypm.com^
 ||p49o7e.ru^
 ||p4dc8ve6i.com^
@@ -268164,6 +268241,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pbikowiwtqlpd.website^
 ||pbilcsebbutq.com^
 ||pbizeusoaxyfl.online^
+||pbjdrioamxyya.space^
 ||pbjlyq999xy5jr1oq1krtjjr9.cfd^
 ||pbjs-stream.bydata.com^
 ||pbkila.tonitrus.de^
@@ -269292,6 +269370,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pfucg.nothingnew.com^
 ||pfudp.saltair.com^
 ||pfuhoaygpop.com^
+||pfumefevfhare.space^
 ||pfundeoutacts.cyou^
 ||pfuxksjzeccih.top^
 ||pfuyhr.schutz.com.br^
@@ -273549,6 +273628,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pre-employmentservices.adp.com^
 ||pre-m.dewu.com^
 ||pre-mom.com^
+||pre-sdk-config.alibaba-inc.com^
 ||pre.03porno.com^
 ||pre.102porno.club^
 ||pre.102porno.net^
@@ -276175,7 +276255,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||puccini.live^
 ||puce-bag.shop^
 ||puce-clutch.shop^
-||puce-peacoat.shop^
 ||pucheracantoon.cfd^
 ||pucheroclarify.cfd^
 ||puciopucio.pl^
@@ -277514,6 +277593,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qbiapxkofrlix.online^
 ||qbibsy.icu^
 ||qbipmmfyscior.site^
+||qbit-ai.online^
+||qbit-ai.space^
 ||qbittorrent.com^
 ||qbixxhbamudnt.space^
 ||qbjit.circalasvegas.com^
@@ -277548,6 +277629,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qbuec.elvtd.com^
 ||qbulqouctdzso.online^
 ||qbuqxddcgzenn.site^
+||qbvvojnfini.com^
 ||qbwebebwkeqar.top^
 ||qbwebebwkeqob.top^
 ||qbwkux.home24.at^
@@ -277604,6 +277686,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qchrsplrabrnu.site^
 ||qcigth.workwearsuit.com^
 ||qcijim.sellerhub.co.kr^
+||qcjfeabboqfxp.online^
 ||qcjgyhgwtzlzv.space^
 ||qcjslm.com^
 ||qcjyyaiabhmrn.store^
@@ -279911,6 +279994,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qzqfud.casamineira.com.br^
 ||qzruomjczpdzt.store^
 ||qzrzrendsnebn.online^
+||qzs.gdt.qq.com^
 ||qzs.gdtimg.com^
 ||qzs.qq.com^
 ||qzs43ai3p.com^
@@ -279970,6 +280054,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||r.cricbet.co^
 ||r.cvglobal.co^
 ||r.dmp.sina.cn^
+||r.domobcdn.com^
 ||r.drinksdirect.net^
 ||r.existenz.se^
 ||r.flatlong.shop^
@@ -281145,6 +281230,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rddywd.com^
 ||rde.ru^
 ||rdedkdhyuyghl.online^
+||rdelivery.qq.com^
 ||rdeswa1.com^
 ||rdexylsftabnr.store^
 ||rdezqwydewmuu.store^
@@ -282834,6 +282920,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||report.qqweb.qq.com^
 ||report.reachit.network^
 ||report.seznamzpravy.cz^
+||report.shunchangzhixing.com^
 ||report.starshort.online^
 ||report.syzs.qq.com^
 ||report.tantanapp.com^
@@ -283147,6 +283234,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||resortecapitenciaai.shop^
 ||resortekapitencia.com^
 ||resortsyulan.cyou^
+||resource.ad-scope.com.cn^
 ||resource.baomihua.com^
 ||resources-it.opentext.com^
 ||resources.acarasolutions.com^
@@ -284340,6 +284428,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||risingindianews.com^
 ||risingofknight.com^
 ||risingshadewhite.com^
+||risk-fp-openapi.vivo.com.cn^
 ||risk.clearbit.com^
 ||risk8belt.com^
 ||riskexcel.com^
@@ -285962,6 +286051,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rtb-eu-v4-cosmos.branchdiscovery.io^
 ||rtb-eu-v4.9versemedia.com^
 ||rtb-eu-v4.admozartexchange.com^
+||rtb-eu-v4.adoptimix.com^
 ||rtb-eu-v4.adscholars.com^
 ||rtb-eu-v4.adsfloow.net^
 ||rtb-eu-v4.adsudo.com^
@@ -286010,6 +286100,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rtb-eu.admeridianopenrtb.com^
 ||rtb-eu.admidadsp.com^
 ||rtb-eu.admozartexchange.com^
+||rtb-eu.adoptimix.com^
 ||rtb-eu.adscholars.com^
 ||rtb-eu.adsfloow.net^
 ||rtb-eu.adsudo.com^
@@ -286063,6 +286154,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rtb-us-west.linkedin.com^
 ||rtb-useast-v4.admozartexchange.com^
 ||rtb-useast-v4.adnexusmarketing.com^
+||rtb-useast-v4.adoptimix.com^
 ||rtb-useast-v4.adscholars.com^
 ||rtb-useast-v4.adsfloow.net^
 ||rtb-useast-v4.adsudo.com^
@@ -286123,6 +286215,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rtb-useast.admeridianopenrtb.com^
 ||rtb-useast.admidadsp.com^
 ||rtb-useast.admozartexchange.com^
+||rtb-useast.adoptimix.com^
 ||rtb-useast.adtapmedia.com^
 ||rtb-useast.affinity.net^
 ||rtb-useast.anyclip-media.com^
@@ -286158,6 +286251,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rtb-useast.readywind.media^
 ||rtb-useast.rnkclkres.com^
 ||rtb-useast.rtbflairads.com^
+||rtb-useast.santaads.com^
 ||rtb-useast.saroadexchange.com^
 ||rtb-useast.servvidisplay.com^
 ||rtb-useast.sonital.com^
@@ -286170,6 +286264,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rtb-useast.voisetech.com^
 ||rtb-useast.westcom.tv^
 ||rtb-useast.wxadserve.xyz^
+||rtb-useast.yieldoz.com^
 ||rtb-uswest-ak.solomath.com^
 ||rtb-uswest-v4.admozartexchange.com^
 ||rtb-uswest-v4.adsfloow.net^
@@ -286180,6 +286275,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rtb-uswest-v4.chocolateplatform.com^
 ||rtb-uswest-v4.epikads.com^
 ||rtb-uswest-v4.freevpnplanet.com^
+||rtb-uswest-v4.frequency33media.com^
 ||rtb-uswest-v4.kigoras.com^
 ||rtb-uswest-v4.prertbdir.com^
 ||rtb-uswest-v4.pubsfusion.com^
@@ -286324,6 +286420,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rtbbpowaq.com^
 ||rtbbtech.com^
 ||rtbbtr.com^
+||rtbcallback.sigmob.cn^
 ||rtbdem.com^
 ||rtbdemand.com^
 ||rtbet-france.fr^
@@ -287029,6 +287126,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rvhzjg.desivero.com^
 ||rvitam.xenos.nl^
 ||rviunh.tosowoong.com^
+||rvkahxxouzjhl.website^
 ||rvkee.sigmabeauty.com^
 ||rvkhazel.com^
 ||rvlcabsakhoog.space^
@@ -287212,6 +287310,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rydtyitkzhgzw.space^
 ||ryecypress.com^
 ||ryeincrediblerepresentation.com^
+||ryejjjwmueenz.website^
 ||ryenavoleika.info^
 ||ryepcqrlebdxd.website^
 ||ryeqnyvbncdvg.com^
@@ -287408,6 +287507,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||s.adsession.com^
 ||s.advantageclicks.net^
 ||s.advertrek.com^
+||s.adxvip.com^
 ||s.affectgroup.com^
 ||s.afxwa.com^
 ||s.agava.ru^
@@ -287924,6 +288024,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||s.pcapps.qq.com^
 ||s.pcmgr.qq.com^
 ||s.pelsbarn.no^
+||s.peplle.cn^
 ||s.petbarn.au^
 ||s.petbarn.test.ajo.adobe.com^
 ||s.petgentleshop.com^
@@ -288139,10 +288240,12 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||s.wxewm.site^
 ||s.wxktv.cn^
 ||s.x47b2v9.com^
+||s.xansrv.com^
 ||s.xcfe.cn^
 ||s.xh1.cn^
 ||s.xiang7.vip^
 ||s.xiaohongshu.com^
+||s.xlink3.com^
 ||s.xodyw.com^
 ||s.xtds1.com^
 ||s.yfycy.com^
@@ -288175,6 +288278,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||s002o2hkg.com^
 ||s00hv1jp8.com^
 ||s01.nowvisitors.com^
+||s01.peplle.cn^
 ||s02.bestsecret.com^
 ||s03291291828.surf^
 ||s06g9qvr5.com^
@@ -288987,6 +289091,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sagetrc.com^
 ||saggarpensum.shop^
 ||saggarsabrook.qpon^
+||saggedwent.cfd^
 ||saggiamercovia.live^
 ||saggrowledetc.com^
 ||saghandkerchief.com^
@@ -291067,6 +291172,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdk-monitoring.ogury.co^
 ||sdk-open-phone.getui.com^
 ||sdk-os-static.hoyoverse.com^
+||sdk-report.1rtb.com^
 ||sdk.1rtb.net^
 ||sdk.ad.smaato.net^
 ||sdk.adsongo.com^
@@ -291091,6 +291197,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdk.e.qq.com
 ||sdk.e.qq.com^
 ||sdk.fra-*.braze.eu^
+||sdk.gdt.qq.com^
 ||sdk.hansel.io^
 ||sdk.hzsanjiaomao.com^
 ||sdk.inlocomedia.com^
@@ -291126,6 +291233,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdk.wesdk.co^
 ||sdk.yolanda.hk^
 ||sdk.zadn.vn^
+||sdk.zhangyuyidong.cn^
 ||sdk.zsdfm.com^
 ||sdk1.resu.io^
 ||sdk4push.com^
@@ -291133,6 +291241,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdkapi.cloooud.com^
 ||sdkapi.kookong.com^
 ||sdkapi.netmera.com^
+||sdkapi.richmob.cn^
 ||sdkapicdn.applanga.com^
 ||sdkapiv2.bizport.cn^
 ||sdkapp.mobile.sina.cn^
@@ -291142,6 +291251,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdkcfg.adintl.cn^
 ||sdkclick.com^
 ||sdkclick.mobile.sina.cn^
+||sdkconf.adbiding.com^
 ||sdkconf.avlyun.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com.mshome.net^
@@ -291161,6 +291271,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdklog.adintl.cn^
 ||sdklog.tvstore.opera.com^
 ||sdklog.uu.cc^
+||sdklog.zhangyuyidong.cn^
 ||sdkoptedge.chinanetcenter.com^
 ||sdkpay.uu.cc^
 ||sdkrec.tf.360.cn^
@@ -292407,6 +292518,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||seifst.seifenstars.de^
 ||seijlfsx.com^
 ||seinavora-ai.com^
+||seinavoraai.pro^
 ||seipvscpuneji.xyz^
 ||seiranshuuekifuwa-app.com^
 ||seiranshuuekifuwa-ja.com^
@@ -296414,6 +296526,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||settingsoutpier.net^
 ||settingsppup.com^
 ||settleddisembarkinborn.com^
+||settlegalbantunic.cyou^
 ||settlementlaying.com^
 ||settleshoes.com^
 ||settlingbucket.com^
@@ -296590,6 +296703,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sf6-be-pack.pglstatp-toutiao.com
 ||sf6-be-pack.pglstatp-toutiao.com^
 ||sf6-fe-pack.pglstatp-toutiao.com^
+||sf6-fe-tos.pglstatp-toutiao.com^
 ||sf6-ttcdn-tos.pstatp.com^
 ||sfa.standardfusion.com^
 ||sfaazgosczit.in^
@@ -296756,6 +296870,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sgbbc.cn^
 ||sgben.com^
 ||sgbpk.livewithaura.com^
+||sgbrftxioksgf.online^
 ||sgbssld.com^
 ||sgbypj.ekobutiks.com^
 ||sgc.onestore.co.kr^
@@ -299823,6 +299938,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||showilyaletap.com^
 ||showmebars.com^
 ||showmediadaily.com^
+||showmethat.click^
 ||showmeyouradsnow.com^
 ||shownewsdaily.com^
 ||showplax.com^
@@ -301235,6 +301351,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||skzdntgxoseva.online^
 ||sl-ct5.com^
 ||sl-h-statistics-ch-1.storeland.ru^
+||sl.adbiding.com^
 ||sl.cenesea.com^
 ||sl.hpplay.cn^
 ||sl.shopbangla.xyz^
@@ -306636,6 +306753,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sobrerendoire.pro^
 ||sobrerendoireai-nl.live^
 ||sobrerendoireai.live^
+||sobrerendoiresoftware.com^
 ||sobzqgxafnvlj.site^
 ||socadvnet.com^
 ||socagercornet.com^
@@ -308242,7 +308360,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||speedin.com^
 ||speedin.in^
 ||speedingdeadlyplays.com^
-||speedingdetectedreluctant.com^
 ||speedingstale.com^
 ||speedinpc.com^
 ||speedlynk.com^
@@ -312310,6 +312427,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ssp-monitor.adstarcharm.com^
 ||ssp-prod-eastus-nonmutt.trafficmanager.net^
 ||ssp-track-us.bidease.com^
+||ssp-track.adn-plus.com.cn^
 ||ssp.08160.cn^
 ||ssp.1nmob.com^
 ||ssp.1rtb.com^
@@ -316307,6 +316425,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||st.kannacocbd.com^
 ||st.klassenfahrten-kluehspies.de^
 ||st.kommatec-red.de^
+||st.korlumo.com^
 ||st.laribbonsandcrafts.com^
 ||st.ledar.com^
 ||st.legen.dk^
@@ -320192,6 +320311,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||static.youappi.com^
 ||static.youdm.cn^
 ||static.yxh1.cn^
+||static.yximgs.com^
 ||static.zctx8.com^
 ||static.ziftsolutions.com^
 ||static.zongheng.com^
@@ -322898,6 +323018,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||straxenforge-ai.com^
 ||straxenforge-app.com^
 ||straxenforge-app.net^
+||straxenforge-app.org^
 ||straxenforge-fr.live^
 ||straxenforge.live^
 ||straxenforge.net^
@@ -324100,6 +324221,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||supertura.com^
 ||superuniswap.xyz^
 ||superunlimited.com^
+||superup322.com^
 ||supervisemessagedelude.com^
 ||supervisioncontrary.com^
 ||supervisionzoologicalconstrue.com^
@@ -324122,6 +324244,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||supewfflaymnr.online^
 ||supfast.net^
 ||suphelper.com^
+||suphfcfgvpefh.space^
 ||supilxaimmfkp.site^
 ||supiz.dosaze.com^
 ||suplementos.strongest.com.br^
@@ -325531,6 +325654,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||syngeta.fr^
 ||synihgcbc.com^
 ||synkd.life^
+||synnterm.sbs^
 ||synodusdifdacoenoby.qpon^
 ||synoekyamazia.shop^
 ||synoekypods.cfd^
@@ -325771,9 +325895,12 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||t-adx.52qumao.com^
 ||t-ak.hulu.com^
 ||t-analytics.com^
+||t-cfg.52qumao.com^
+||t-cfg.wtzw.com^
 ||t-dsp.pinduoduo.com^
 ||t-dz.com^
 ||t-e.flyme.cn^
+||t-exc.jiuyue919.com^
 ||t-flow.flyme.cn^
 ||t-invest.live^
 ||t-kuailian.com.cn^
@@ -325856,6 +325983,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||t.acwholesalers.com^
 ||t.ad.nl^
 ||t.adating.link^
+||t.adbiding.com^
 ||t.adbr.io^
 ||t.adbxb.cn^
 ||t.adclr.jp^
@@ -326521,6 +326649,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||t.premii.com^
 ||t.pressurewashersdirect.com^
 ||t.pridat.eu^
+||t.primtrck.fun^
 ||t.prod1.discover.binge.com.au^
 ||t.producthunt.com^
 ||t.pswec.com^
@@ -327913,6 +328042,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tammycooly.com^
 ||tamodesign.shop^
 ||tampedirenica.com^
+||tampionbaryte.com^
 ||tampionsley.com^
 ||tampurunrig.com^
 ||tamqe279-fibre.industrialplane.su^
@@ -328480,6 +328610,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tasiassuites.com^
 ||task.edu.hueteinterpreting.com^
 ||task.major.assholetenants.com^
+||task.tanx.com^
 ||taskageenter.cyou^
 ||taskanalytics.com^
 ||taskapi.net^
@@ -328948,8 +329079,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tcxrdt.trendhim.be^
 ||tcxshop.com^
 ||tczulp.econea.cz^
+||tczwvnyqpwlwn.com^
 ||tczyt8.cn^
 ||td-everest.biz^
+||td-nexus.advlion.com^
 ||td.airdroid.com^
 ||td.bestproducts.com^
 ||td.bicycling.com^
@@ -330481,7 +330614,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||testingmetriksbre.ru^
 ||testingtesting123.tms-chel.ru^
 ||testio.ecartdev.com^
-||testlab360.com^
 ||testlink.blueheart.io^
 ||testlink.droppin.us^
 ||testlink.kidzapp.com^
@@ -332486,6 +332618,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tizru.com^
 ||tizy.ru^
 ||tizzywaygang.shop^
+||tj-adc.wtzw.com^
 ||tj-cmys.com^
 ||tj-cyhg.com^
 ||tj-tracker.store^
@@ -332542,6 +332675,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tjj.com^
 ||tjjd83.xyz^
 ||tjjs.km.com^
+||tjjs.wtzw.com^
 ||tjjvo.juneandvie.com^
 ||tjk-njk.com^
 ||tjkcibklcapsx.space^
@@ -333051,6 +333185,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tm.sanibagno.it^
 ||tm.sfa.fr^
 ||tm.shipshape.dk^
+||tm.sigmob.cn^
 ||tm.swp.de^
 ||tm.tenthmuselondon.com^
 ||tm.trampolin.dk^
@@ -334131,6 +334266,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tossoffads.com^
 ||tosswealthy.com^
 ||tossylibant.shop^
+||total-casino.fr^
 ||totaladblock.com^
 ||totalav.com^
 ||totaldebrid.fr^
@@ -336094,6 +336230,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||track.claura.in^
 ||track.clauraglobal.com^
 ||track.clearsender.com^
+||track.clearsky-rhythm.com^
 ||track.cliktrekbr.com^
 ||track.clinicadermatologicaollague.com^
 ||track.clubcar.com^
@@ -338939,6 +339076,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tradova-ro.live^
 ||tradova.live^
 ||tradova.shop^
+||tradovasolution.com^
 ||tradowix-ai.live^
 ||tradplus.cn^
 ||tradplus.com^
@@ -339717,6 +339855,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||trezikhelm-gpt.net^
 ||trezikhelm-gpt.org^
 ||trezikhelmgpt-ai.com^
+||trezikhelmgpt-ai.net^
 ||trezikhelmgpt.net^
 ||trezikhelmgpt.org^
 ||trezlo.ru^
@@ -347124,6 +347263,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||uynrxrspirsnw.space^
 ||uynukzlkdixye.site^
 ||uyotrasel-app.com^
+||uyotrasel.click^
 ||uypbyopkhpoas.store^
 ||uyprwkmrammol.space^
 ||uyq3ruf.icu^
@@ -347460,6 +347600,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||v6-reading-ad.qznovelvod.com^
 ||v6.viayonetici.com^
 ||v6.wiki^
+||v66-ad.ndcjl.com^
 ||v66v66.com^
 ||v68.ink^
 ||v6analytics.htmedia.in.edgekey.net^
@@ -349581,6 +349722,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||videopotok.pro^
 ||videoprodavec.ru^
 ||videoproxy.site^
+||videoproxy.tanx.com^
 ||videopush.baidu.cn^
 ||videopush.baidu.com^
 ||videoroll.net^
@@ -350068,6 +350210,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||viraladnetwork.net^
 ||viralenzio-app.com^
 ||viralenzio.com^
+||viralenzio.digital^
 ||viralflashed.cfd^
 ||viralfoodie.net^
 ||viralize.tv^
@@ -354953,6 +355096,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||weenierfrisian.cfd^
 ||weeoffer.com^
 ||weephostessscissors.com^
+||weepy-fail.pro^
 ||weepylack.com^
 ||weerewndksdosdkwe.site^
 ||weetext.pro^
@@ -360216,6 +360360,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.pakmailcanada.com^
 ||www.palaceskateboard.com^
 ||www.paliodisiena.net^
+||www.pangle.cn^
 ||www.pangolin-dsp-toutiao.com^
 ||www.papy.co.jp^
 ||www.paramutplus.com^
@@ -360366,7 +360511,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.psnzone.com^
 ||www.psychics-readings-for-free.com^
 ||www.ptcasinoonline.com^
-||www.ptkalsatriapsara.com^
 ||www.pto-slb-09.com^
 ||www.ptpscollege.org^
 ||www.pugliasounds.it^
@@ -360624,7 +360768,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.shinyechogz.name^
 ||www.shockcounter.com^
 ||www.shoo5woop.com^
-||www.shoobaloo.ie^
 ||www.shootingeffectively.skin^
 ||www.shopathome.com^
 ||www.shopping-artikel.de^
@@ -362033,6 +362176,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xaqprd.gardenbenches.com^
 ||xarfxj.icu^
 ||xarivontel.com^
+||xarnox-driveai.net^
 ||xarnoxdrive-ai.com^
 ||xarnoxdrive-ai.org^
 ||xarnoxdriveai.net^
@@ -363196,6 +363340,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xml-eu-v4.srvqck27.com^
 ||xml-eu-v4.srvqck3.com^
 ||xml-eu-v4.starvalue-3.online^
+||xml-eu-v4.stormplace.online^
 ||xml-eu-v4.sttsxplc.online^
 ||xml-eu-v4.svdva-e.online^
 ||xml-eu-v4.svdva-f.online^
@@ -363223,6 +363368,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xml-eu.adquint.com^
 ||xml-eu.adsailor.com^
 ||xml-eu.adsfloow.net^
+||xml-eu.advertoix.com^
 ||xml-eu.adverttise.com^
 ||xml-eu.adxcircle.com^
 ||xml-eu.adzestoads.xyz^
@@ -363340,6 +363486,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xml-v4.bomdukop-3.online^
 ||xml-v4.bomdukop-4.online^
 ||xml-v4.boostadtraffic.com^
+||xml-v4.cashlelo.com^
 ||xml-v4.chusdc.online^
 ||xml-v4.cjhdc.online^
 ||xml-v4.clearbidtechnologies.com^
@@ -363431,6 +363578,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xml-v4.srvqck3.com^
 ||xml-v4.starvalue-4.online^
 ||xml-v4.stevbade1.online^
+||xml-v4.stormplace.online^
 ||xml-v4.strongkeyword.com^
 ||xml-v4.strongmetrics.io^
 ||xml-v4.sttsxplc.online^
@@ -368610,6 +368758,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zenigthink.shop^
 ||zeniocloud.com^
 ||zenis15.net^
+||zenishift.site^
 ||zenit-dochodek.com^
 ||zenit-dochodek.net^
 ||zenitdexeris-platform.com^
@@ -368668,6 +368817,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zentryncascadeai.net^
 ||zents10.top^
 ||zents7.top^
+||zentsuite.site^
 ||zenturaaipro.com^
 ||zenturaki-de.live^
 ||zenturaki.live^
