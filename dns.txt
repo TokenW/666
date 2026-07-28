@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-07-28 23:58:47（北京时间）
+! Version: 2026-07-29 01:27:45（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 262677
+! Total count: 262683
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-ad.adbkwai.com^
@@ -3231,6 +3231,7 @@
 ||365vpn.com^
 ||365vpn.org^
 ||365vpn.uk^
+||365yg.com^
 ||36613u6zuw13fb.cfd^
 ||367p.com^
 ||368e8a60e648be18a93a3a7c322cd6bb.top^
@@ -14455,17 +14456,8 @@
 ||ads*-adnow.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
-||ads*-normal-hl.amemv.com^
 ||ads*-normal-hl.zijieapi.com^
-||ads*-normal-lf.amemv.com^
-||ads*-normal-lf.zijieapi.com.dhcp^
-||ads*-normal-lf.zijieapi.com^
-||ads*-normal-lq.amemv.com^
-||ads*-normal-lq.zijieapi.com.queniuiq.com^
-||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
 ||ads*-normal-lq.zijieapi.com^
-||ads*-normal.amemv.com^
-||ads*-normal.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
@@ -21420,6 +21412,7 @@
 ||amebassamshoo.cyou^
 ||ameblojp.live^
 ||amelatrina.com^
+||amemv.com^
 ||amendbroom.cyou^
 ||amendedobes.cfd^
 ||amendedodeum.shop^
@@ -31290,6 +31283,8 @@
 ||awejmp.com^
 ||awembd.com^
 ||awemdia.com^
+||awemeughun.com^
+||awemeugsoul.com^
 ||awempire.com^
 ||awempt.com^
 ||awemwh.com^
@@ -46876,7 +46871,12 @@
 ||chenggao.cn^
 ||chengjie168.com.cn^
 ||chengplacidova.cfd^
+||chengzijianzhan.cc^
+||chengzijianzhan.cn^
 ||chengzijianzhan.com^
+||chengzijianzhan.net^
+||chengzijianzhana.com^
+||chengzijianzhanb.com^
 ||chenhao97.top^
 ||chenshengyu.cn^
 ||chenwangqiao.com^
@@ -53662,6 +53662,7 @@
 ||crash.163.com^
 ||crash.browser.qq.com^
 ||crash.ninja^
+||crash.snssdk.com^
 ||crash.xiaohongshu.com^
 ||crash1ytics.com^
 ||crash2.zhihu.com^
@@ -54603,6 +54604,7 @@
 ||csirf.shop^
 ||csirj.shop^
 ||csitulo.g-heat.eu^
+||csjdeveloper.com^
 ||csjdhxlelvqpa.site^
 ||csjdlngaavfilh.com^
 ||csjggncfpbhnq.space^
@@ -58518,6 +58520,7 @@
 ||dailyfeature.net^
 ||dailyfignds.shop^
 ||dailygame.fr^
+||dailygn.com^
 ||dailyhousetips.com^
 ||dailylocalguide.com^
 ||dailylog.storm.baofeng.com^
@@ -73417,6 +73420,8 @@
 ||ecom3-normal-lq.ecombdapi.com^
 ||ecom5-normal-lq.ecombdapi.com^
 ||ecomadserver.com^
+||ecombdapi.com^
+||ecombdpage.com^
 ||ecomedtorg.ru^
 ||ecomgxh.kuwo.cn^
 ||ecomicrolab.com^
@@ -103665,6 +103670,7 @@
 ||huoju.asia^
 ||huomob.com^
 ||huopiwang.com^
+||huoshanzhibo.com^
 ||huowamtxlunei.online^
 ||huoxingtan66.com^
 ||huoying666.com^
@@ -105887,6 +105893,7 @@
 ||ilshoflnkdbmj.com^
 ||iltcaf.immobilienscout24.de^
 ||iltskegkybift.online^
+||iluckysf.net^
 ||ilumu.com^
 ||ilvexaron.shop^
 ||ilvgn.johnnyjanosik.com^
@@ -113204,6 +113211,7 @@
 ||jinniespottagy.com^
 ||jinniu168.com^
 ||jinraoiahbrhg.online^
+||jinritemai.com^
 ||jinruike.com^
 ||jinshagt222.com^
 ||jinshui2018.chalook.net^
@@ -121936,7 +121944,6 @@
 ||leztruvintradingapphub.com^
 ||lezysoptimizations.lovable.app^
 ||lezzyporn.com^
-||lf*-orange.byteorge.com^
 ||lf*-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf-leads-fe-scm.bytecdn.com^
 ||lf-reward-video.bytedcdn.com^
@@ -129362,8 +129369,6 @@
 ||local-shares.ri.la^
 ||local-update.com^
 ||local.info.g9hc4.cn^
-||localads.chengzijianzhan.cn.queniurc.com^
-||localads.chengzijianzhan.cn^
 ||localaffectrecipe.com^
 ||localbestdating1.com^
 ||localcoolingfarms.com^
@@ -131710,6 +131715,7 @@
 ||luckyorange.net^
 ||luckypush.pro^
 ||luckypushh.com^
+||luckysf.net^
 ||luckyshelf.com^
 ||luckysportsgear.com^
 ||luckystart-casino.fr^
@@ -142480,6 +142486,7 @@
 ||minidcsc.kugou.com^
 ||minidoc.ru^
 ||minigame.gtimg.cn^
+||minigame.zijieapi.com^
 ||minigame5-normal-hl.zijieapi.com^
 ||minigame5-normal-lq.zijieapi.com^
 ||minigames.versusgame.com^
@@ -148436,6 +148443,7 @@
 ||neighborlywatch.com^
 ||neighbourlyrepress.com^
 ||neighrewarn.click^
+||neihanshequ.com^
 ||neihhou.com^
 ||neijh.com^
 ||neilhoticapwz.space^
@@ -157761,12 +157769,9 @@
 ||ozzpnf.loberon.ch^
 ||p*-ad-aweme.byteimg.com^
 ||p*-ad-sign.byteimg.com^
-||p*-ad.byteimg.com^
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||p*-lm.adkwai.com^
 ||p*-lm.adukwai.com^
-||p*-local-ads.byteimg.com.queniuso.com^
-||p*-local-ads.byteimg.com^
 ||p*-webcast-sign.douyinpic.com^
 ||p-advg.com^
 ||p-ae1-adapt-beacon.awsprodops.movetv.com^
@@ -178299,6 +178304,7 @@
 ||rtlog.isnssdk.com^
 ||rtlog.tiktokv.com^
 ||rtlog.vidown.cn^
+||rtlog.zijieapi.com^
 ||rtlog16-normal-alisg.tiktokv.com^
 ||rtlog16-normal-no1a.tiktokv.eu^
 ||rtlog16-normal-useast5.tiktokv.us^
@@ -188387,7 +188393,6 @@
 ||sezwho.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
-||sf*-ttcdn-tos.pstatp.com^
 ||sf-ads.io^
 ||sf-helper.com^
 ||sf-insights.io^
@@ -235083,6 +235088,7 @@
 ||ugdcxl.timeout.jp^
 ||ugdcxl.timeout.pt^
 ||ugdeals.com^
+||ugditui.cn^
 ||ugdsoft.com^
 ||ugdtimg.com^
 ||ugdturner.com^
@@ -238989,7 +238995,6 @@
 ||uzzxkatxegdzh.website^
 ||v*-ad.video.yximgs.com^
 ||v*-be-pack.pglstatp-toutiao.com^
-||v*-novelapp.fqnovelvod.com^
 ||v*.denakop.com^
 ||v-2ray.com^
 ||v-collector.dp.aws.charter.com^
@@ -258323,6 +258328,7 @@
 ||youday.cn^
 ||youdebrid.com^
 ||youdenphallus.qpon^
+||youdianyisi.com^
 ||youdontgetpaidforpotential.com^
 ||youexpectation.org^
 ||youfck.com^

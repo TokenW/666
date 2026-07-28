@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-07-28 23:58:47（北京时间）
+! Version: 2026-07-29 01:27:45（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 370901
+! Total count: 370945
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -4747,6 +4747,10 @@
 #--腾讯视频-Tencent
 #--芒果TV-Mgtv
 #--风行&酷喵-FunShion
+#/pangolin-sdk-toutiao.*/
+#/pangolin-sdk-toutiao1.*/
+#/pangolin-sdk.*/
+#/pglstatp-toutiao.*/
 #0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
 #0.0.0.0 ad.ca.doubleclick.net	#intereferes with video on globeandmail.com
 #0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
@@ -4879,6 +4883,7 @@
 #<wiki-spam-sites>
 #<yahoo-ad-sites>
 #=====================================
+#==========================================
 #> 3975游戏
 #> > 大牌餐饮
 #> > 应用宝
@@ -5279,6 +5284,36 @@
 #uc 浏览器备份
 #vivo
 #yeah邮箱官网
+#||ad.zijieapi.com^
+#||ads*-normal-hl.amemv.com^
+#||ads*-normal-hl.zijieapi.com^
+#||ads*-normal-lf.amemv.com^
+#||ads*-normal-lf.zijieapi.com.dhcp^
+#||ads*-normal-lf.zijieapi.com^
+#||ads*-normal-lq.amemv.com^
+#||ads*-normal-lq.zijieapi.com.queniuiq.com^
+#||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+#||ads*-normal-lq.zijieapi.com^
+#||ads*-normal.amemv.com^
+#||ads*-normal.zijieapi.com^
+#||apps.bytesfield.com^
+#||bsccdn.net^
+#||dig.bdurl.net^
+#||dig.zjurl.cn^
+#||lf*-orange.byteorge.com^
+#||localads.chengzijianzhan.cn.queniurc.com^
+#||localads.chengzijianzhan.cn^
+#||p*-ad-sign.byteimg.com^
+#||p*-ad.byteimg.com^
+#||p*-local-ads.byteimg.com.queniuso.com^
+#||p*-local-ads.byteimg.com^
+#||pangolin-sdk-toutiao-b.com^
+#||pangolin-sdk-toutiao.com^
+#||pangolin-sdk-toutiao1.com^
+#||pglstatp-toutiao.com^
+#||sf*-ttcdn-tos.pstatp.com^
+#||v*-novelapp.fqnovelvod.com^
+#||vcs.zijieapi.com^
 #↑ 百度系 ↑ 
 #↓ 百度系 ↓
 #①spotify登录、主页联网，②播放歌曲
@@ -5429,6 +5464,7 @@
 #图片加载
 #土豆视频
 #地区官网
+#地推/增长（非内容）---
 #墨墨背单词
 #夏普电视开机广告
 #大众养生网
@@ -5471,6 +5507,7 @@
 #小哥工作台
 #小小影视去广告
 #小惠 生活服务助手
+#小游戏广告（如不使用可屏蔽，用则去掉）---
 #小米主题设计师注册
 #小米其他
 #小米应用商店图片
@@ -5493,6 +5530,8 @@
 #小赢
 #小辉付
 #山姆
+#巨量引擎（广告投放平台）---
+#已废弃产品域名（仅残留追踪代码）---
 #帖子详情好物推荐
 #帖子详情赞助内容
 #幸运字符界面布局加载
@@ -5639,6 +5678,7 @@
 #校园招聘官网
 #桔小花
 #检测升级
+#橙子建站（广告落地页搭建平台，全系封禁）---
 #欢乐麻将、欢乐斗地主登录。
 #欢太官网
 #欢太软件商店
@@ -5693,11 +5733,13 @@
 #用户头像加载
 #用户头像＆用户背景图
 #用户头像＆部分封面
+#电商广告（小说内的电商推广）---
 #电影港
 #电视相关
 #电费计算器
 #番茄免费小说
 #番茄小说
+#番茄小说 / Pangle 穿山甲 广告过滤规则
 #番茄小说听书
 #番茄小说短信登陆
 #番茄小说网页
@@ -5760,6 +5802,7 @@
 #移动网页端网页布局
 #移动网页端顶部快捷入口图标
 #稀土掘金
+#穿山甲开发者平台（广告 SDK 配置/策略下发）---
 #立即下载页面
 #笔趣阁
 #笔趣阁网页广告
@@ -6139,10 +6182,6 @@
 /m.html?rmid=*&yd=
 /m.html?shareName=*&proxyAccount=
 /matomo.js$third-party
-/pangolin-sdk-toutiao.*/
-/pangolin-sdk-toutiao1.*/
-/pangolin-sdk.*/
-/pglstatp-toutiao.*/
 /public/tingshu/foor.js$~third-party
 /redbaiduct.com?s=
 /resolve?type=*&short=*&name=$third-party
@@ -107309,7 +107348,6 @@ apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
 apkpure.net,apkpure.com##DIV.js-ad-slot
 applnn.cc##DIV.html-box
-arningproject.click
 avmoo.sbs###movie-share
 avmoo.sbs##.visible-xs-block.pt-10.text-center
 avmoo.sbs##h4
@@ -111082,6 +111120,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||365vpn.com^
 ||365vpn.org^
 ||365vpn.uk^
+||365yg.com^
 ||36613u6zuw13fb.cfd^
 ||367p.com^
 ||368e8a60e648be18a93a3a7c322cd6bb.top^
@@ -122333,17 +122372,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ads*-adnow.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-*.zijieapi.com^
-||ads*-normal-hl.amemv.com^
 ||ads*-normal-hl.zijieapi.com^
-||ads*-normal-lf.amemv.com^
-||ads*-normal-lf.zijieapi.com.dhcp^
-||ads*-normal-lf.zijieapi.com^
-||ads*-normal-lq.amemv.com^
-||ads*-normal-lq.zijieapi.com.queniuiq.com^
-||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
 ||ads*-normal-lq.zijieapi.com^
-||ads*-normal.amemv.com^
-||ads*-normal.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
@@ -129311,6 +129341,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||amebassamshoo.cyou^
 ||ameblojp.live^
 ||amelatrina.com^
+||amemv.com^
 ||amendbroom.cyou^
 ||amendedobes.cfd^
 ||amendedodeum.shop^
@@ -139203,6 +139234,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||awejmp.com^
 ||awembd.com^
 ||awemdia.com^
+||awemeughun.com^
+||awemeugsoul.com^
 ||awempire.com^
 ||awempt.com^
 ||awemwh.com^
@@ -154815,7 +154848,12 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||chenggao.cn^
 ||chengjie168.com.cn^
 ||chengplacidova.cfd^
+||chengzijianzhan.cc^
+||chengzijianzhan.cn^
 ||chengzijianzhan.com^
+||chengzijianzhan.net^
+||chengzijianzhana.com^
+||chengzijianzhanb.com^
 ||chenhao97.top^
 ||chenshengyu.cn^
 ||chenwangqiao.com^
@@ -161613,6 +161651,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||crash.163.com^
 ||crash.browser.qq.com^
 ||crash.ninja^
+||crash.snssdk.com^
 ||crash.xiaohongshu.com^
 ||crash1ytics.com^
 ||crash2.zhihu.com^
@@ -162554,6 +162593,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||csirf.shop^
 ||csirj.shop^
 ||csitulo.g-heat.eu^
+||csjdeveloper.com^
 ||csjdhxlelvqpa.site^
 ||csjdlngaavfilh.com^
 ||csjggncfpbhnq.space^
@@ -166473,6 +166513,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dailyfeature.net^
 ||dailyfignds.shop^
 ||dailygame.fr^
+||dailygn.com^
 ||dailyhousetips.com^
 ||dailylocalguide.com^
 ||dailylog.storm.baofeng.com^
@@ -181393,6 +181434,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ecom3-normal-lq.ecombdapi.com^
 ||ecom5-normal-lq.ecombdapi.com^
 ||ecomadserver.com^
+||ecombdapi.com^
+||ecombdpage.com^
 ||ecomedtorg.ru^
 ||ecomgxh.kuwo.cn^
 ||ecomicrolab.com^
@@ -211671,6 +211714,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||huoju.asia^
 ||huomob.com^
 ||huopiwang.com^
+||huoshanzhibo.com^
 ||huowamtxlunei.online^
 ||huoxingtan66.com^
 ||huoying666.com^
@@ -213898,6 +213942,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ilshoflnkdbmj.com^
 ||iltcaf.immobilienscout24.de^
 ||iltskegkybift.online^
+||iluckysf.net^
 ||ilumu.com^
 ||ilvexaron.shop^
 ||ilvgn.johnnyjanosik.com^
@@ -221228,6 +221273,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jinniespottagy.com^
 ||jinniu168.com^
 ||jinraoiahbrhg.online^
+||jinritemai.com^
 ||jinruike.com^
 ||jinshagt222.com^
 ||jinshui2018.chalook.net^
@@ -229978,7 +230024,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||leztruvintradingapphub.com^
 ||lezysoptimizations.lovable.app^
 ||lezzyporn.com^
-||lf*-orange.byteorge.com^
 ||lf*-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf-leads-fe-scm.bytecdn.com^
 ||lf-reward-video.bytedcdn.com^
@@ -237408,8 +237453,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||local-shares.ri.la^
 ||local-update.com^
 ||local.info.g9hc4.cn^
-||localads.chengzijianzhan.cn.queniurc.com^
-||localads.chengzijianzhan.cn^
 ||localaffectrecipe.com^
 ||localbestdating1.com^
 ||localcoolingfarms.com^
@@ -239759,6 +239802,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||luckyorange.net^
 ||luckypush.pro^
 ||luckypushh.com^
+||luckysf.net^
 ||luckyshelf.com^
 ||luckysportsgear.com^
 ||luckystart-casino.fr^
@@ -250545,6 +250589,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||minidcsc.kugou.com^
 ||minidoc.ru^
 ||minigame.gtimg.cn^
+||minigame.zijieapi.com^
 ||minigame5-normal-hl.zijieapi.com^
 ||minigame5-normal-lq.zijieapi.com^
 ||minigames.versusgame.com^
@@ -256514,6 +256559,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||neighborlywatch.com^
 ||neighbourlyrepress.com^
 ||neighrewarn.click^
+||neihanshequ.com^
 ||neihhou.com^
 ||neijh.com^
 ||neilhoticapwz.space^
@@ -265849,12 +265895,9 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ozzpnf.loberon.ch^
 ||p*-ad-aweme.byteimg.com^
 ||p*-ad-sign.byteimg.com^
-||p*-ad.byteimg.com^
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||p*-lm.adkwai.com^
 ||p*-lm.adukwai.com^
-||p*-local-ads.byteimg.com.queniuso.com^
-||p*-local-ads.byteimg.com^
 ||p*-webcast-sign.douyinpic.com^
 ||p-advg.com^
 ||p-ae1-adapt-beacon.awsprodops.movetv.com^
@@ -286419,6 +286462,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rtlog.isnssdk.com^
 ||rtlog.tiktokv.com^
 ||rtlog.vidown.cn^
+||rtlog.zijieapi.com^
 ||rtlog16-normal-alisg.tiktokv.com^
 ||rtlog16-normal-no1a.tiktokv.eu^
 ||rtlog16-normal-useast5.tiktokv.us^
@@ -296515,7 +296559,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sezwho.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
-||sf*-ttcdn-tos.pstatp.com^
 ||sf-ads.io^
 ||sf-helper.com^
 ||sf-insights.io^
@@ -343252,6 +343295,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ugdcxl.timeout.jp^
 ||ugdcxl.timeout.pt^
 ||ugdeals.com^
+||ugditui.cn^
 ||ugdsoft.com^
 ||ugdtimg.com^
 ||ugdturner.com^
@@ -347160,7 +347204,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||uzzxkatxegdzh.website^
 ||v*-ad.video.yximgs.com^
 ||v*-be-pack.pglstatp-toutiao.com^
-||v*-novelapp.fqnovelvod.com^
 ||v*.denakop.com^
 ||v-2ray.com^
 ||v-collector.dp.aws.charter.com^
@@ -366528,6 +366571,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||youday.cn^
 ||youdebrid.com^
 ||youdenphallus.qpon^
+||youdianyisi.com^
 ||youdontgetpaidforpotential.com^
 ||youexpectation.org^
 ||youfck.com^
