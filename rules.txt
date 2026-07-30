@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-07-30 19:45:36（北京时间）
+! Version: 2026-07-30 21:29:32（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 372432
 					# May break iOS Game Center.
@@ -107450,6 +107450,7 @@ cloudflareinsights.com$third-party
 cn.torrentkitty.app###note
 colamanga.com#@#.gg_950
 com:8891/c.php?s=*$third-party
+com^
 cpu.baidu.com##A[href*='cpro.baidu.com']
 cqjschungao.com##[style*='px no-repeat; position: relative;']
 cqjschungao.com##[style='bottom: 132px;']
@@ -107469,7 +107470,6 @@ douban.com##div.center [style*='padding: 4px;']
 eastday.com##DIV.lfyinliu
 eastmoney.com###dc-result-tc
 eastmoney.com##.dc-layer-tc
-ext.capital^
 facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
 familydoctor.com.cn##IFRAME[width='400']
 fanyi.baidu.com##H1,H3,.intro-nav.clearfix,.intro-copyrigh,A.app-bar,.intro-copyright
@@ -107694,6 +107694,7 @@ qushucheng.com##.appguide-wrap
 qushucheng.com##.hotcmd-wp
 scoregg.com##.float-modal
 share.acgnx.se##IMG[src*='share.acgnx.se']
+shiwue.shop
 sina.cn###float-btn.callApp_fl_btn
 sina.cn##.wap-msg-bar-wap-bottom,#m-sentiment3,.broadcast,.animated.pluse
 sina.cn##SECTION.sw_c0.sina_sliders_pos
@@ -107795,7 +107796,6 @@ wk.baidu.com##.fc-ad-wrap
 wk.baidu.com##.middle-box-root
 wn01.uk##IMG[alt][style='width: 100%; height: 100%;']
 woozooo.com##.ves
-ww.szczytevocorex.com
 www.3ppp.net##DIV.bottom_fixed
 www.67tool.com##.footer-banner
 www.apkmirror.com##.ains.ains-has-label
