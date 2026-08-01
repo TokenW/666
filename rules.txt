@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-01 19:10:49（北京时间）
+! Version: 2026-08-01 20:59:12（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 372922
+! Total count: 372919
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -107349,7 +107349,6 @@ acglala.me##.topm,.donghua_info > DIV[style='width:100%;'],.donghua_info > a
 achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
 achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
 adblock-tester.com##.includeWrapper, .svelte-700pcr
-ag.com^
 ai-chatbot.top##.right-14
 ali213.net##.placeholderforpromotion
 apkcombo.com##.diseanmevrtt
@@ -107882,6 +107881,7 @@ zhihu.com##.MobileAppHeader-downloadLink
 zhihu.com##.zhihuAdvert-MBanner-wordDownload
 zhihu.com##div[data-za-detail-view-path-is_ad]
 zol.com.cn##A.dingtong.xianshiyouhui
+|luxuriouselusivefunds.com^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-ad.adbkwai.com^
@@ -110751,7 +110751,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||2pqma2nuv.com^
 ||2proxy.de^
 ||2proxyweb.com^
-||2pxcmgs.online^
 ||2qh7mtw6yglvxnpc6pcm.cfd^
 ||2qj7mq3w4uxe.com^
 ||2qkh3nbvi7y9xhoy.cfd^
@@ -158763,7 +158762,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||collectrum.com^
 ||collects.lightinthebox.com^
 ||colleem.com^
-||college-pathway.rakunan-h.ed.jp.24x7.hk^
 ||college.business.oregonstate.edu^
 ||college.deltacompy.com.br^
 ||college.marketingcube.com.au^
@@ -247331,7 +247329,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||megaihargi.com^
 ||megainf.ru^
 ||megajoy.com^
-||meganerd.nl^
 ||megangoldish.shop^
 ||meganmikhail.com^
 ||megaopen.ru^
