@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-02 04:40:44（北京时间）
+! Version: 2026-08-02 06:44:46（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 373016
+! Total count: 373018
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -107446,6 +107446,7 @@ cibaipuki.com##[href*=":"]
 ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
 cloud.189.cn#@#.ad-container
 cloudflareinsights.com$third-party
+cn.miaozhen.com
 cn.torrentkitty.app###note
 colamanga.com#@#.gg_950
 com:8891/c.php?s=*$third-party
@@ -107468,7 +107469,6 @@ douban.com##div.center [style*='padding: 4px;']
 eastday.com##DIV.lfyinliu
 eastmoney.com###dc-result-tc
 eastmoney.com##.dc-layer-tc
-er.bloke.com
 facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
 familydoctor.com.cn##IFRAME[width='400']
 fanyi.baidu.com##H1,H3,.intro-nav.clearfix,.intro-copyrigh,A.app-bar,.intro-copyright
@@ -107658,6 +107658,7 @@ msn.cn###rightRailContentContainer > div > div.modernRightRail_modulesContainer-
 mumu*.com/js/cdn.js$~third-party
 mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
 myqqjd.com##.adsbygoogl
+ntellitxt.com
 nxnba.com##.bootom-fixed
 olevod.com##.ads-bg
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
@@ -107691,6 +107692,7 @@ qq.com##[id^='App_WAP_share_page']
 quark.cn##.ad-wolong-container
 qushucheng.com##.appguide-wrap
 qushucheng.com##.hotcmd-wp
+s.cartoonnetwork.jp^
 scoregg.com##.float-modal
 share.acgnx.se##IMG[src*='share.acgnx.se']
 sina.cn###float-btn.callApp_fl_btn
