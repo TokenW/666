@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-03 02:57:07（北京时间）
+! Version: 2026-08-03 04:45:10（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 376367
+! Total count: 376336
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -109853,6 +109853,7 @@
 @@||zm.sm-tc.cn^
 @@||ztgame.com^
 Mplay/kk1.js
+^
 _/bigREDcat.css?
 _/bigREDdog.js
 _300x250.js
@@ -110048,7 +110049,6 @@ ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https:/
 ifeng.com##div[class^="ad_"]
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 imgur.com##.Ad.sas.Smart
-ionaireinpjs.net
 ip.sb##.wwads_abp
 ip.sb##[style='text-align: center;margin: 20px 0;width: 100%;']
 iplark.com##body > #capture-area ~ div[class]:empty
@@ -111088,7 +111088,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||1.zuowenjun.com^
 ||1.zw3e.com^
 ||10-letter-words.com^
-||10.bangerade.us^
 ||10.im.cz^
 ||10.ln7371.top^
 ||100-flannelman.com^
@@ -112777,7 +112776,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||23.224.89.2^
 ||23.231.151.252^
 ||23.83.67.164^
-||23.bayworld.net^
 ||230704953-learn-maths-starters.twilightparadox.com^
 ||23081r.cn^
 ||2309h034h843.qpon^
@@ -113966,7 +113964,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||4-counter.com^
 ||4-en-login-app.de^
 ||4-fizjopl.shop^
-||4.baumgardner.us^
 ||4.dlevo.com^
 ||4.e-why.net^
 ||4.grc4lulcygf1mz7.cyou^
@@ -120413,7 +120410,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||aboundplausibleeloquent.com^
 ||aboundskeets.cfd^
 ||abourselfi.com^
-||about.baltimorefellowship.org^
 ||about.infotechnology.com^
 ||about.izenimplant.ro^
 ||about.masculist.ru^
@@ -135020,7 +135016,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||animeloundry.com^
 ||animenippon.cc^
 ||animeplaynow.com^
-||animeproxy.net^
 ||animeshoppers.com^
 ||animesvosts.ru^
 ||animeteatr.ru^
@@ -135385,7 +135380,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||anupam.sohojkroy.com^
 ||anura.io^
 ||anura.pro^
-||anvfamo4.online^
 ||anvhe.natpat.com^
 ||anvilfunctions.com^
 ||anvilturpentineelitist.com^
@@ -138410,7 +138404,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||apple.scurity.help^
 ||apple.support-find-my-iphone.com^
 ||apple.www.letv.com^
-||apple072.jp^
 ||apple1.willemvisser.co.za^
 ||apple11.nowhearthis.co.uk^
 ||apple8.dnsdyn.net^
@@ -138996,7 +138989,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||arabss.arabxn.org^
 ||araceresole.com^
 ||aracinicin.com^
-||aracmtva.com^
 ||araguaina.ondec.com.br^
 ||araklet.mediagene.co.jp^
 ||aralbluequant.net^
@@ -139847,7 +139839,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ashia.to^
 ||ashiping.com^
 ||ashiq.creditrepaircloud.com^
-||ashish.money^
 ||ashixu.ggff.net^
 ||ashlerskamao.qpon^
 ||ashlessergotin.cyou^
@@ -140617,7 +140608,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||atmocd.possiblegoods.com^
 ||atmovs.com^
 ||atmtd.com^
-||atmyhouse.bangerade.us^
 ||atncfddwenjgt.website^
 ||atner.somethingnicecompany.com^
 ||atnkdx.guthaben.de^
@@ -141632,7 +141622,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||avologin.com^
 ||avomera.shop^
 ||avonexpro-es.live^
-||avopage.com^
 ||avosstart.fr^
 ||avouchuramil.com^
 ||avourpimlicodoping.cyou^
@@ -141642,14 +141631,12 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||avovpn.club^
 ||avovpn.com^
 ||avovpn.guru^
-||avovpn.homes^
 ||avovpn.live^
 ||avovpn.lol^
 ||avovpn.net^
 ||avovpn.quest^
 ||avovpn.site^
 ||avovpnbot.info^
-||avovps.help^
 ||avowcosmo.cfd^
 ||avowtech.mobileadstrk.com^
 ||avp.labanquepostale.fr^
@@ -143039,7 +143026,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||baikiedestrer.cyou^
 ||bailbezetta.cfd^
 ||baileeyojuane.shop^
-||bailey.today^
 ||bailiffstrapwanted.com^
 ||bailiffzealous.com^
 ||baimakanshu.com/assets/public/
@@ -144741,7 +144727,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bebravpn-app.space^
 ||bebravpn-ru.com^
 ||bebravpn.app^
-||bebravpn.biz^
 ||bebravpn.blog^
 ||bebravpn.help^
 ||bebravpn.lol^
@@ -145110,7 +145095,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||belnoria.com^
 ||belointeractive.com^
 ||belong.curtin.edu.au^
-||belongdesert.com^
 ||belongeddilute.com^
 ||belongingstransform.com^
 ||belongirreplaceabletwice.com^
@@ -169930,7 +169914,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dashboard.wheelio-app.com^
 ||dashboard.xqubemedia.com^
 ||dashboardbntest.branchcustom.xyz^
-||dashboardd.baselinux.net^
 ||dashboardmortal.com^
 ||dashboardnew.adcalls.nl^
 ||dashboardprompt.com^
@@ -178421,7 +178404,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dns.alwynstudio.com.au^
 ||dns.amigo-mgn.ru^
 ||dns.andreykiv.com^
-||dns.anitelekom.ru^
 ||dns.anne-pierre.fr^
 ||dns.anon.no^
 ||dns.api.gandi.net^
@@ -186649,7 +186631,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||email.alerts.fyrst.de^
 ||email.alerts.norisbank.de^
 ||email.alerts.postbank.de^
-||email.anti-spam.technology^
 ||email.apexauctions.com^
 ||email.app.theiconic.com.au^
 ||email.axisintegrated.ca^
@@ -215825,7 +215806,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||i.getemoji.me^
 ||i.go.sohu.com^
 ||i.hao61.net^
-||i.hate.fink.baumgardner.us^
 ||i.honk.me^
 ||i.hotkeys.com^
 ||i.hzblic.com^
@@ -232230,7 +232210,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lasioy.lafarmaciaonline.com^
 ||lasiresteplynn.cfd^
 ||lasivau.com^
-||laskjdfisd.skadfjs.antropologiayasombro.ar^
 ||lasopabowl158.weebly.com^
 ||lasrews.lovable.app^
 ||lassitudefulfilpledge.com^
@@ -232996,7 +232975,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||learntchain.com^
 ||learntoteach.justlearning.net^
 ||learnvcsa.anjumanallana.in^
-||learnvcsa.bayworld.net^
 ||learnvcsa.bestprogramsforkids.com^
 ||learnvcsa.bfcontrol.com.mx^
 ||learnvcsa.cynic.gq^
@@ -275783,7 +275761,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||player-metrics.kinescope.io^
 ||player-mob-lg.cp31.ott.cibntv.net^
 ||player-nation.anjumanallana.in^
-||player-nation.bayworld.net^
 ||player-nation.hotelconsuladoinn.com^
 ||player-qr.com^
 ||player-telemetry.vimeo.com^
@@ -275805,7 +275782,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||playerhit.co^
 ||playerhq.co^
 ||playernation.anjumanallana.in^
-||playernation.anti-spam.technology^
 ||playernation.blackonstuff.com^
 ||playernation.canalspa.cl^
 ||playernation.chinapoem.org^
@@ -295633,7 +295609,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdfif.birkenstock.com^
 ||sdfklsfdafopk.aiskdljf.slidersgy.com^
 ||sdflkjkls.sdkfjsdf.sceneco.re^
-||sdfnm.sjdfhjkdf.antropologiayasombro.ar^
 ||sdfp.snssdk.com^
 ||sdfsdvc.com^
 ||sdftjepmiwcwq.space^
@@ -305648,7 +305623,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||skjorendalsystem.com^
 ||skkjtopbgnflw.website^
 ||skl.zhazhiwei.com^
-||skldfjei.wuejhrj.antropologiayasombro.ar^
 ||sklearntech.infotechnology.com^
 ||sklentsphorid.cyou^
 ||sklep-colway.com^
@@ -336721,7 +336695,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||thordata.com^
 ||thoriasreagreesassy.cyou^
 ||thorn-fondwell.live^
-||thorn.barneysaurous.net^
 ||thorncapstead.shop^
 ||thorncontinuepalm.com^
 ||thornenbotchy.qpon^
@@ -353348,7 +353321,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vcsa.tovamiasto.com^
 ||vcsa.void.chinapoem.org^
 ||vcsa.worldpolyathlon.com^
-||vcsaontop.bayworld.net^
 ||vcsaxinter.bostoncareercounselor.com^
 ||vcsaxselenite.ms-itsllc.com^
 ||vcsc1fp2f.com^
@@ -360275,7 +360247,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||welovemath.hornburst.com^
 ||welovemath.tcloud.my^
 ||welovemath123.duckdns.org^
-||welovemath89.barabesta.is^
 ||weloveplayernation.bfcontrol.com.mx^
 ||weloveschool.hornburst.com^
 ||welovescience123.duckdns.org^
@@ -360741,7 +360712,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||whereismybonus.com^
 ||wheresyourmoney.chickenkiller.com^
 ||wheresyourmoney.gatewayjobs.com.np^
-||wheresyourmoneyhehe.bangerade.us^
 ||whetteddawkin.cfd^
 ||whewhikrokartou.net^
 ||wheybkethenic.qpon^
@@ -365728,7 +365698,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||www.secure.rc-club.ricoh.co.jp^
 ||www.securemed.shop^
 ||www.securityplusproducts.com^
-||www.securly.com.bangerade.us^
 ||www.securly.com.bookpropofplace.com^
 ||www.securly.com.dnscream.com^
 ||www.securly.com.dnsear.com^
