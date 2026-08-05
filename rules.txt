@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-06 03:16:23（北京时间）
+! Version: 2026-08-06 04:58:15（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 377965
+! Total count: 377983
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -6096,7 +6096,6 @@
 .xyz:*/bug?*=$third-party
 .xyz:*/hm$third-party
 .xyz:*/js/b.php?v=*
-.xyz^
 /*.css?*r=0$third-party
 /*/*.add.*.add
 /*_*_aubi.js$third-party
@@ -110339,6 +110338,7 @@ iplark.com##div.search-container > [style='display: block;']
 iplaysoft.com##.related_posts
 iplaysoft.com##.wwads-cn.wwads-horizontal
 iqiyi.com##.header__ele
+ire.click
 ithome.com###bd-share-box
 ithome.com###hd_float
 ithome.com###hd_float1
@@ -121982,6 +121982,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||acylbirri.digital^
 ||acyruuezhtdkk.space^
 ||acystiasodaic.shop^
+||acywgurpzinbb.site^
 ||acyxssqjdvfaj.space^
 ||aczomhakkz.in^
 ||aczonesystem.click^
@@ -151242,6 +151243,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||brvallsrentacar.eccocar.com^
 ||brvdn.thornbridgebrewery.co.uk^
 ||brvelocity.eccocar.com^
+||brvjlzbxlpqgd.online^
 ||brvpxpjolggcs.website^
 ||brwanacars.eccocar.com^
 ||brwczgvk.com^
@@ -158571,6 +158573,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||chptbtxqkvbel.site^
 ||chpz4928itr24n.cfd^
 ||chqdyaoziqacr.website^
+||chqg6g8hemumv58of2575ttyf4p.rest^
 ||chqte.suncloudoptics.com^
 ||chr.conservativehealthreport.org^
 ||chrczt.vite-envogue.de^
@@ -192611,6 +192614,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fastwangyou.com^
 ||fastwaterblog.com^
 ||fastwavehilltop.com^
+||fastway-pay.ocband.org^
 ||fastwebcounter.com^
 ||fastwebtrends.com^
 ||fastwhitewhale.com^
@@ -205603,6 +205607,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||growwithcoachcarmen.com^
 ||grozetstraint.com^
 ||grqdkqvxbburi.site^
+||grqrkjxpltwso.site^
 ||grquadonaxobq.site^
 ||grrebjfkmoddeh.com^
 ||grrekey.xyz^
@@ -220179,6 +220184,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||info-ebank.com^
 ||info-flirtme.com^
 ||info-fsi.stanford.edu^
+||info-ledger.org^
 ||info-milfroom.com^
 ||info-moredates.com^
 ||info-pacific.marsh.com^
@@ -223472,6 +223478,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ispcapi.mcafee.com^
 ||ispeakvideo.ru^
 ||ispehcsibrwft.site^
+||ispeirmusyrvn.online^
 ||ispnsjcdiubjf.online^
 ||isponsorki.pl^
 ||ispot.tv^
@@ -233908,6 +233915,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ledg.erlive.at^
 ||ledgarix-it.com^
 ||ledgarix.shop^
+||ledger-app.at^
 ||ledger-bryn.live^
 ||ledger-lives-desktop.io^
 ||ledger.com.ledgerlive.com.es^
@@ -234410,6 +234418,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lettenfluoric.com^
 ||letterbox-path.com^
 ||letterboxtrail.com^
+||letterdigamyaxillar.cyou^
 ||letteringift.com^
 ||lettermechanism.com^
 ||letternrede.cfd^
@@ -255924,6 +255933,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mkt6333.com^
 ||mkt941.com^
 ||mktadsodr.ppdai.com^
+||mktbqkzdzadrg.site^
 ||mktcs.cloudapps.cisco.com^
 ||mktg.aa.f5.com^
 ||mktg.act-on.com^
@@ -259209,6 +259219,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mwjakey.shop^
 ||mwjfiwyvo.com^
 ||mwjnirzamspps.space^
+||mwkljcqfgyvmw.site^
 ||mwllnzblxxylc.space^
 ||mwmyefeqpkpkvm.com^
 ||mwowoshszibzo.space^
@@ -266608,6 +266619,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ockecpnnrbu.com^
 ||ockerflurn.qpon^
 ||ockremarkedon.com^
+||ockrkyarvmuc.in^
 ||ocksterconnect.qpon^
 ||ockvjestempfy.website^
 ||ockvpyhmddtus.online^
@@ -274451,6 +274463,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pewnytokenex-engine.com^
 ||pewnyzabieg.pl^
 ||pewpxlxlfsaac.website^
+||pewterytela.cfd^
 ||pewyforz.shop^
 ||pewzaxgeohbcc.online^
 ||pexcsvjiecyoi.site^
@@ -333122,6 +333135,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tag-demo.mention-me.com^
 ||tag-manager.playbuzz.com^
 ||tag-manager.yle.fi^
+||tag-v*.kuzen.io^
 ||tag.adtrendmedia.net^
 ||tag.aftvnews.com^
 ||tag.airportshuttleiceland.com^
@@ -350969,6 +350983,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||unfamllliardate.net^
 ||unfamllliardates.com^
 ||unfatedbroomy.cyou^
+||unfearysaviour.qpon^
 ||unfiltered.adguarddns.com^
 ||unfiltered.joindns4.eu^
 ||unfinished-apple.com^
@@ -359793,6 +359808,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wapn1.flosports.tv^
 ||wapomua.pro^
 ||wappatopunnerzaurak.qpon^
+||wappatoregrets.cyou^
 ||wappatoskee.cyou^
 ||wapperrattage.com^
 ||wappoputter.shop^
@@ -372962,6 +372978,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||yjnkas.com^
 ||yjnmrs.mall.pl^
 ||yjonbxthuxllt.website^
+||yjonspllguxz.com^
 ||yjotqzesimahl.online^
 ||yjpehuogudsoy.site^
 ||yjpgxf.svsound.com^
@@ -374603,6 +374620,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||z3lkm5tpziqn541.cfd^
 ||z3yfkdjd.icu^
 ||z444o.com^
+||z451hzjrn3ntu1.cfd^
 ||z492.ctinsider.com^
 ||z4q4lg98hgwcg6g87nncp38g6ff891ee.cfd^
 ||z4tnhm97b.com^
