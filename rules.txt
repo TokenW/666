@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-07 13:27:31（北京时间）
+! Version: 2026-08-07 15:00:55（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 377848
+! Total count: 377847
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -110249,7 +110249,6 @@ cqjschungao.com##[style*='px no-repeat; position: relative;']
 cqjschungao.com##[style='bottom: 132px;']
 csdn.net##div:nth-child(10) > div.csdn-side-toolbar > div.csdn-common-logo-advert:first-child
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
-cyeudsgiknvm.com
 dama.lu##.tool-box
 ddzzxs.com###inglestore.inglestore
 dgtle.com##.footer-abox
@@ -110264,7 +110263,6 @@ douban.com##div.center [style*='padding: 4px;']
 eastday.com##DIV.lfyinliu
 eastmoney.com###dc-result-tc
 eastmoney.com##.dc-layer-tc
-ekey.net^
 facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
 familydoctor.com.cn##IFRAME[width='400']
 fanyi.baidu.com##H1,H3,.intro-nav.clearfix,.intro-copyrigh,A.app-bar,.intro-copyright
@@ -110565,6 +110563,7 @@ sspai.com##.recommend-card
 stbemucode.com##DIV.header-ads
 stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 sukebei.nyaa.si##.servers-cost-money1
+tbjasp.cyrillus.de^
 template/m1938pc/ads/*.js
 thepaper.cn##[class^='index_footer_banner']
 tieba.baidu.com##.activity_head
