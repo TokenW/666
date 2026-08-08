@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-08 11:16:31（北京时间）
+! Version: 2026-08-08 12:47:01（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 377097
+! Total count: 377096
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -110554,7 +110554,6 @@ sohu.com##[data-spm-content='ad']
 sohu.com##[data-spm^='ad-']
 soshu888.net##[style$='width: 100vw; position: relative;']
 soutubot.moe##.bg-gray-800.overflow-hidden
-spa.ghtsg.com
 sspai.com###btn-call-app
 sspai.com##.is-shown.open-in-app-button
 sspai.com##.recommend-card
