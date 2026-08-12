@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-12 06:32:38（北京时间）
+! Version: 2026-08-12 09:10:43（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 349473
+! Total count: 349474
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -6003,6 +6003,7 @@
 .cn:*/sc/*?n=$third-party
 .cn:*/vh5$third-party
 .cn:8005/cc/*?is_not=
+.com
 .com/00*00*00*_*c*p*v*.js$~third-party
 .com/11*11*11*_*c*p*v*.js$~third-party
 .com/17*?rid=17$third-party
@@ -108386,7 +108387,6 @@ google.com##.g.kno-result.rQUFld.mnr-c.g-blk
 greasyfork.org#@#body .ad
 guancha.cn##.g_header44
 guancha.cn##.g_swiper_container
-gyz.cn^
 hanime1.me#@#[class*="juicyads"]
 hanman/static/dist/ppm/js/main.js
 hanyu.baidu.com###J_CishuBtn > img
@@ -108548,6 +108548,7 @@ myqqjd.com##.adsbygoogl
 nxnba.com##.bootom-fixed
 olevod.com##.ads-bg
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
+ow-3.mediav.com
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
 pan.baidu.com##.nd-operate-guidance
 pan.baidu.com##A.active-msg
