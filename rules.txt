@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-14 13:28:44（北京时间）
+! Version: 2026-08-14 15:10:57（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 369467
+! Total count: 369468
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -6038,6 +6038,7 @@
 .com:8005/*&n=$third-party
 .com:8008/sc/*?n=$third-party
 .com:8010/cc/
+.costacroisieres.fr^
 .cyou/redbaiduct.com
 .cyou/xling_*_$third-party
 .fun/*.jss?17*&r=0$third-party
