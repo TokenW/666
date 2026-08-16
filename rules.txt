@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-16 22:13:51（北京时间）
+! Version: 2026-08-17 00:13:41（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 369453
+! Total count: 369452
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -109675,7 +109675,6 @@ fuliba2023.net##.post-actions
 fuliba2023.net##.relates-imagetext
 fuliba2023.net##.sidebar
 fuliba2023.net##blockquote
-gencyuk.com^
 google.com###belowsb
 google.com###bres
 google.com###fbar
