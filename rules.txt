@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-17 20:24:27（北京时间）
+! Version: 2026-08-17 22:20:00（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 369368
+! Total count: 369374
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -109533,7 +109533,6 @@
 @@||zm.sm-tc.cn^
 @@||ztgame.com^
 Mplay/kk1.js
-^
 _/bigREDcat.css?
 _/bigREDdog.js
 _300x250.js
@@ -109635,6 +109634,7 @@ cibaipuki.com##A[href^='/article-list-id']
 cibaipuki.com##IMG[border='0'][width='100%']
 cibaipuki.com##SECTION[id^='download_']
 cibaipuki.com##[href*=":"]
+cify.com^
 ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
 cloud.189.cn#@#.ad-container
 cloudflareinsights.com$third-party
@@ -110051,6 +110051,7 @@ xlys02.com###ad-index
 xmh/200/200-*.gif
 xxooo.cf###overlay
 xyz:9002/*?x=$third-party
+y.pl
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yhdm*.com/js/wap2-jm-ms.js?ver=
 youtube.com##AD-SLOT-RENDERER
@@ -138494,6 +138495,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||arightdaturic.shop^
 ||arigng.door.ac^
 ||ariix.com^
+||arijhpvidfqkk.online^
 ||arikiculls.cyou^
 ||arilligrame.com^
 ||arimaspdeek.com^
@@ -157099,6 +157101,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cj1k.net^
 ||cj2015.drywear.dk^
 ||cj2550.com^
+||cj6rg2tyiqlte4hpxp1.cfd^
 ||cj81gcvm2.com^
 ||cj99fbulb4.com^
 ||cja0m4iew.com^
@@ -264182,6 +264185,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||oreodex.live^
 ||ores-fixed.mno.link^
 ||orest-vlv.com^
+||oresyipqzckyl.site^
 ||oreware.com^
 ||orexincrake.cyou^
 ||oreylo.com^
@@ -344688,6 +344692,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||uswvvrisswcbd.site^
 ||usxui.13142233.xyz^
 ||usybvizjdfyur.website^
+||usyuqcezbvhqr.online^
 ||usyyzz.winparts.nl^
 ||usztct.gang.com.br^
 ||usztvnmmlukau.website^
@@ -348938,6 +348943,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vk-ads.ru^
 ||vk-analytics.ru^
 ||vk.phonevilla.in^
+||vkaabtxifs.in^
 ||vkabutik.pl^
 ||vkanalytics.net^
 ||vkaszkwyibcwl.site^
