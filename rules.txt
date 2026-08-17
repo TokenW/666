@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-17 12:32:12（北京时间）
+! Version: 2026-08-17 14:35:12（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 369858
+! Total count: 369860
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -109795,6 +109795,7 @@ jianshu.com##[aria-label='lwa-ad-one']
 jingyan.baidu.com###wrapper > .exp-container:nth-child(2) > aside.wgt-ad-guess.content-box:nth-child(2)
 jingyan.baidu.com##.ad-card
 jingyan.baidu.com##.asp-self-rander > .asp-wrap
+jkenwok.xyz^
 js/yys/Pfhl365.js
 juejin.cn###juejin > div.view-container.container:first-child > main.container.main-container.with-view-nav:last-child > div.view.timeline-index-view > div.timeline-container:last-child > div.timeline-content > aside.index-aside.aside.sticky:last-child > div.sidebar-block.sticky-block:nth-child(5)
 juejin.cn###juejin > div.view-container.container:first-child > main.container.main-container.with-view-nav:last-child > div.view.timeline-index-view > div.timeline-container:last-child > div.timeline-content > aside.index-aside.aside:last-child > div.sidebar-block.banner-block:nth-child(2)
@@ -109958,6 +109959,7 @@ sspai.com##.recommend-card
 stbemucode.com##DIV.header-ads
 stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 sukebei.nyaa.si##.servers-cost-money1
+t-night-now.com
 template/m1938pc/ads/*.js
 thepaper.cn##[class^='index_footer_banner']
 tieba.baidu.com##.activity_head
