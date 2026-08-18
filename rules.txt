@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-19 04:13:19（北京时间）
+! Version: 2026-08-19 06:12:56（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 386885
 					# May break iOS Game Center.
@@ -103890,6 +103890,7 @@
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
 91porny.com/api/getPos?jspath=/
+9y.com
 :*/xcdn*/js/_init.js?$third-party
 ://*.yinghua*.*/bar$~third-party
 ://*banzhu*/js/cdn.js$~third-party
@@ -106548,7 +106549,6 @@ marriedgames.com.br##div.sp-backdrop-info.show-prompt:first-child
 match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
 medium.com##.m, .abb, .add, .ade
 mefcl.com##article:has(span.sticky-icon)
-ming001.site
 mini.yyrtv.com##.right-gg
 mobi*.*.cam/*_$third-party
 mobi*.*.cyou/*_$third-party
