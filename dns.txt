@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-19 16:25:17（北京时间）
+! Version: 2026-08-19 18:19:32（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 279594
+! Total count: 279611
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-ad.adbkwai.com^
@@ -28194,6 +28194,7 @@
 ||applicantsmilesassembly.com^
 ||applicanttowardsbureau.com^
 ||applicatifs.ricoh.fr^
+||application-vpnzo.com^
 ||application.mindshine.app^
 ||application.mybiglove.ru^
 ||application.rasmussen.edu^
@@ -272167,6 +272168,7 @@
 ||xn--*.x1abo.com^
 ||xn--12cg1cwavsheby0grcyae2puc3c5d.com^
 ||xn--14ra41gd24b.xyz^
+||xn--1qqp3f85dcwcez1inzc.com^
 ||xn--21955-gya.biz^
 ||xn--22455-udb.biz^
 ||xn--28j2a3ar1p.died.pw^
@@ -272194,6 +272196,8 @@
 ||xn--80afden1bnch4a.xn--p1ai^
 ||xn--80affa3aj0al.xn--80asehdb^
 ||xn--9kq050gk1z.com^
+||xn--9kq10ek4nfj1bly0a.org^
+||xn--9kqr48j.com^
 ||xn--9kqrm7t.com^
 ||xn--9kqrm7t.net^
 ||xn--9kqu74cfu3b.com^
@@ -272222,6 +272226,9 @@
 ||xn--fiqy4bl9l81zp7skjc1xd.com^
 ||xn--fjqz50cv5q3so.ltd^
 ||xn--gov-x68dy61b.shop^
+||xn--h5q13wxxnwubd52b.org^
+||xn--h5q36vepk.com^
+||xn--h5q84a86ft33f1ej.com^
 ||xn--huajicloud-cn3r594m.com^
 ||xn--i6qs37am6iwyqffc.com^
 ||xn--jor0b302fdhgwnccw8g.com^
@@ -272229,6 +272236,8 @@
 ||xn--kbtz2zn3ab56c.com^
 ||xn--m7r781dz66a.cn^
 ||xn--mes358aby2apfg.com^
+||xn--mes358akvk7hn.com^
+||xn--mes358ar69azba.com^
 ||xn--mest5a943ag8x.com^
 ||xn--mesz5hn9e3rh.com^
 ||xn--minecrft-5za.com^
@@ -272248,6 +272257,7 @@
 ||xn--rss276g.net^
 ||xn--rss276g.xyz^
 ||xn--rsso18bk2j97ggmu.com^
+||xn--ssrdog-u40k507h.com^
 ||xn--swt207gl1hzc.net^
 ||xn--v3csa3bs8i.com^
 ||xn--vpn-0m8e007c.com^
@@ -272290,8 +272300,14 @@
 ||xn--yfrp36ea9901a.com^
 ||xn--yfrp5enpj81a6w4d.com^
 ||xn--yfrw1g0upg04amnn.com^
+||xn--yfrw1g210bq2x1bg.com^
+||xn--yfrw1ghyc0w6f55d.com^
 ||xn--yfrw1glt6awpb6x3e.xyz^
+||xn--yfrw1gnycd39eggi.com^
+||xn--yfrw1gow2d4chrxa.com^
 ||xn--yfrw1goy3egzffc.com^
+||xn--yfrw1gu5rpi5bscj.org^
+||xn--yfrx4ay7cq52em5r.com^
 ||xn--yh4bx88a.com^
 ||xn--yotu-1ra.be^
 ||xn--yrs494l.com^
@@ -272300,6 +272316,7 @@
 ||xn--z9jzga6u1506a.jp^
 ||xn--zuup71g88ae4i.com^
 ||xn--zw0autp42d.cn^
+||xn--zwwa296b.com^
 ||xnasldata-63224ea7ba.apps.iocnt.de^
 ||xnbbhxsnvxook.online^
 ||xnbjsc.travelwith.jp^
