@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-21 16:28:35（北京时间）
+! Version: 2026-08-21 18:20:26（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 380346
+! Total count: 380360
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -6005,7 +6005,6 @@
 .cn:*/sc/*?n=$third-party
 .cn:*/vh5$third-party
 .cn:8005/cc/*?is_not=
-.com
 .com/00*00*00*_*c*p*v*.js$~third-party
 .com/11*11*11*_*c*p*v*.js$~third-party
 .com/17*?rid=17$third-party
@@ -6099,6 +6098,7 @@
 .xyz:*/bug?*=$third-party
 .xyz:*/hm$third-party
 .xyz:*/js/b.php?v=*
+.ziontrade.net
 /*.css?*r=0$third-party
 /*/*.add.*.add
 /*_*_aubi.js$third-party
@@ -100067,6 +100067,7 @@
 0.0.0.0 zzkwg.comfortykive.xyz
 0.0.0.0 zzounds.mom
 0.0.0.0 zzz.onion.pet
+1 pagead2.googleadservices.com
 118pan.com##.card.mt-2:nth-child(2)
 120ask.com##IFRAME[width='400']
 123pan.com##.adv-container-pc
@@ -114232,6 +114233,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||absentwhimdesired.com^
 ||abshop.fr^
 ||absinfo.eagle.org^
+||abslakpdotzst.site^
 ||absm.hostliger.com^
 ||absod.video.iqiyi.com^
 ||absolstats.co.za^
@@ -134520,7 +134522,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||at-go.experian.com^
 ||at-ninja.jp^
 ||at-o.net^
-||at-wie-w-p-1.nashkan.net^
 ||at.360.audion.fm^
 ||at.3d-college.com^
 ||at.acutrack.com^
@@ -147416,6 +147417,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cannedrestrict.com^
 ||canneledebug.cfd^
 ||cannelkhussak.shop^
+||cannerymyocyte.qpon^
 ||cannonborough.com^
 ||cannonchange.com^
 ||cannonclam.com^
@@ -154182,6 +154184,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cobwebcomprehension.com^
 ||cobwebhauntedallot.com^
 ||cobwebsituationstyling.com^
+||cocauseuncharmfun.qpon^
 ||coccidsepiola.shop^
 ||coccihoverly.com^
 ||coccinele.shop^
@@ -174586,7 +174589,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||doh.jeroenhd.nl^
 ||doh.kekew.info^
 ||doh.kekew.racing^
-||doh.kel.pe^
 ||doh.kidzonet.io^
 ||doh.killtw.im^
 ||doh.koduarve.ee^
@@ -187504,6 +187506,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fcgztan.cn^
 ||fcheng.top^
 ||fchgd.arula.com^
+||fchgkvsqusran.site^
 ||fchsemhd.shop^
 ||fchxrosjemara.site^
 ||fcifaypfepfvy.space^
@@ -191673,7 +191676,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fr-fr.siemensplmevents.com^
 ||fr-go.experian.com^
 ||fr-go.kelkoogroup.net^
-||fr-gra-w-p-1.nashkan.net^
 ||fr-log.vietnamplus.vn^
 ||fr.a2dfp.net^
 ||fr.adpinfo.com^
@@ -193763,6 +193765,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||g56kghlqi.com^
 ||g594253006.co^
 ||g5hvff5.chatwerk.de^
+||g5kl83he.xyz^
 ||g5xu1dslr6.com^
 ||g64njjhyh.com^
 ||g650.delcotimes.com^
@@ -208840,6 +208843,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hfcqcubumdrpp.website^
 ||hfctx.cn^
 ||hfcwc.sndys.com.au^
+||hfcxgnrjhudkg.site^
 ||hfd.bridgetowermedia.com^
 ||hfda78aa77hkj.bootsschuley.de^
 ||hfdlh.cymbiotika.com^
@@ -213223,6 +213227,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||icugm.wagamama.us^
 ||iculpiumiyznp.space^
 ||icunvveszpzxa.online^
+||icuvzogomwarh.site^
 ||icvihl.cachecoeurlingerie.com^
 ||icwmzb.talisa.fr^
 ||icws.jb51.net^
@@ -220545,6 +220550,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jakfundzen.club^
 ||jakid.xyz^
 ||jakisity.top^
+||jakobcia.qpon^
 ||jakofyol.cc^
 ||jakotako.is-best.net^
 ||jakou.com^
@@ -227272,6 +227278,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kskai.visionveda.in^
 ||kskml.mkmachining.com^
 ||ksknhvggsizbu.store^
+||ksks2.sportsonline.top^
 ||kslbahd.top^
 ||kslfjvhhmbrgg.online^
 ||kslfqcxumewry.store^
@@ -229788,6 +229795,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||legacyshirts.store^
 ||legacyuh6.net.rewe.de^
 ||legal-necessary.pro^
+||legal-special.pro^
 ||legal.fashionresource.com^
 ||legaladviser.us^
 ||legaladvisor.us^
@@ -257253,6 +257261,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||n2bqyqg5u3.com^
 ||n2d79v41a3.com^
 ||n2ivsbik2.com^
+||n2m8u4ae9.com^
 ||n2major.com^
 ||n2nc9u5l.xyz^
 ||n2xj2mxg3z.com^
@@ -261244,7 +261253,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||noryzacryptonai.net^
 ||noryzacryptonai.org^
 ||nos.nosepinpalace.com^
-||nosdaarte.com^
 ||nosdaydxatuaiy.com^
 ||nosdeoirs.fr^
 ||nosemorgue.com^
@@ -264082,6 +264090,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ogzkaplivkku.in^
 ||ogzopanhilgem.online^
 ||ogzucf.all4golf.de^
+||ogzwxfqdketms.site^
 ||oh.5.p2l.info^
 ||ohabyhzhqzinz.space^
 ||ohacnvhxgst.com^
@@ -265494,6 +265503,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||onlinekey.biz^
 ||onlinekino.pl^
 ||onlinelive.info^
+||onlinemediahelper.com^
 ||onlinepbx.ru^
 ||onlineporno.fun^
 ||onlinepromogift.com^
@@ -276151,7 +276161,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||primworks.site^
 ||princessbeak.com^
 ||princesupplements.shop^
-||princez.uk^
 ||principlespite.com^
 ||principleunitsweighty.com^
 ||princodwhamble.shop^
@@ -292185,6 +292194,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||savek.xyz^
 ||savelorika.top^
 ||saventra.xyz^
+||saveomicron.shop^
 ||saver.mychair.shop^
 ||saversludgesauter.cyou^
 ||saveterracehangnail.com^
@@ -299315,7 +299325,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||serwislaptopow.live^
 ||serwismaszyn24.com^
 ||serwisrolniczy.com^
-||seryna.co^
 ||ses.eskill.com^
 ||sescloud.club^
 ||sesetitoefanyorgag.org^
@@ -332619,6 +332628,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||swaljol72dgv.controlconceptsusa.com^
 ||swallow.pelias.io^
 ||swallowcrockerybless.com^
+||swamieslationfetidly.qpon^
 ||swamplots.com^
 ||swan-api.iqiyi.com^
 ||swan-swan-goose.com^
@@ -341095,6 +341105,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tktracker.aotter.net^
 ||tktzgajycssox.site^
 ||tkurkcfcgs.com^
+||tkvfayv59.com^
 ||tkvied.levi.com.my^
 ||tkvvyf.keen.pl^
 ||tkvxdj.cars.com^
@@ -354281,6 +354292,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||upvod.pl^
 ||upvpn.app^
 ||upvuhtybgum.com^
+||upvuwkflkzrpx.website^
 ||upwardpublisher.com^
 ||upwards44.top^
 ||upwardsdecreasecommitment.com^
@@ -365216,6 +365228,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wirlingdiscos.qpon^
 ||wirlocof.com^
 ||wirralroofingmec.com^
+||wirrasparks.qpon^
 ||wirrsglzkmccj.site^
 ||wirtgage-proxing.icu^
 ||wirthycgltinq.site^
@@ -373518,6 +373531,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xrmxt.shoreexcursionsgroup.com^
 ||xrnrhowppgvxdhm.com^
 ||xrnrplqcfmpxfg.com^
+||xrnvpmqajqcme.online^
 ||xrnyhc.allmanmulsang.com^
 ||xrnyhc.alltype.co.kr^
 ||xrnyhc.arumdri.co.kr^
