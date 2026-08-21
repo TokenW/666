@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-22 04:15:24（北京时间）
+! Version: 2026-08-22 06:14:17（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 380385
+! Total count: 380383
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -104109,7 +104109,6 @@ achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
 adblock-tester.com##.includeWrapper, .svelte-700pcr
 ai-chatbot.top##.right-14
 ali213.net##.placeholderforpromotion
-allshuset24.se^
 apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
 apkpure.net,apkpure.com##DIV.js-ad-slot
@@ -104274,7 +104273,6 @@ hax.co.id#@#.ad-wrapper
 heiliao346.pro###post-card-1234,#post-card-518,#post-card-1000,#post-card-666,#post-card-1588,#post-card-1555,#post-card-1118,#post-card-618,#post-card-888,#post-card-999
 hentaicomic.ru#@#.Flagrow-Ads-under-header
 hentaicomic.ru#@#.pcd_ad
-hop
 huya.com###J_adBnM > img:last-child
 huya.com###J_liveListHeader > div.liveList-BusinessGame:last-child
 huya.com###matchComponent4
