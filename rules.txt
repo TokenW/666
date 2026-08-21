@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-21 06:17:27（北京时间）
+! Version: 2026-08-21 08:47:25（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 380839
+! Total count: 380838
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -104229,7 +104229,6 @@ eastmoney.com##.dc-layer-tc
 facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
 familydoctor.com.cn##IFRAME[width='400']
 fanyi.baidu.com##H1,H3,.intro-nav.clearfix,.intro-copyrigh,A.app-bar,.intro-copyright
-fd
 fe80::1%lo0 localhost
 ff00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
@@ -104449,6 +104448,7 @@ qq.com##[id^='App_WAP_share_page']
 quark.cn##.ad-wolong-container
 qushucheng.com##.appguide-wrap
 qushucheng.com##.hotcmd-wp
+rts.xyz^
 scoregg.com##.float-modal
 share.acgnx.se##IMG[src*='share.acgnx.se']
 sina.cn###float-btn.callApp_fl_btn
@@ -104536,7 +104536,6 @@ tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
 tieba.baidu.com##div[class*='-ad-pb-']
 tools.bugscaner.com###div_qrcode_container
 tv.sohu.com##.actv-banner.js-app-topbanner,.banner_yunying,.js-oper-pos,IMG.vrs-banner-act-img
-u^
 unpkg.com/aladug/*.js
 v.qq.com##div[class*="mod_row_box mod_row_box_special"]
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
