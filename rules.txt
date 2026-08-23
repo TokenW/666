@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-24 04:12:28（北京时间）
+! Version: 2026-08-24 06:12:26（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 380570
+! Total count: 380566
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -104257,8 +104257,6 @@ google.com##.g.kno-result.rQUFld.mnr-c.g-blk
 greasyfork.org#@#body .ad
 guancha.cn##.g_header44
 guancha.cn##.g_swiper_container
-guide.com
-gyz.cn^
 hanime1.me#@#[class*="juicyads"]
 hanman/static/dist/ppm/js/main.js
 hanyu.baidu.com###J_CishuBtn > img
@@ -104339,7 +104337,6 @@ ithome.com##.rm-modal-body
 ithome.com##.rm-modal1-bg
 ithome.com##.rm-modal1-body
 ithome.com##.visited-link-color-fixed:has(.tip-gray)
-ivofs.vivo.com.cn^
 ix6080.com##DIV[style$='vw; display: block;']
 izaiwen.cn##.item-box
 izaiwen.cn##DIV[carousel-item]
@@ -104371,7 +104368,6 @@ juejin.cn###juejin > div.view-container.container:first-child > main.container.m
 juejin.cn###juejin > div.view-container.container:first-child > main.container.main-container.with-view-nav:last-child > div.view.timeline-index-view > div.timeline-container:last-child > div.timeline-content > aside.index-aside.aside:last-child > div.sidebar-block.banner-block:nth-child(2)
 juejin.cn###juejin > div.view-container.container:first-child > main.container.main-container.with-view-nav:last-child > div.view.timeline-index-view > div.timeline-container:last-child > div.timeline-content > aside.index-aside.aside:last-child > div.sidebar-block.banner-block:nth-child(3)
 juejin.cn##.extension
-lift.com^
 limbopro.xyz###a_d_sider
 limbopro.xyz###disqus_thread
 limbopro.xyz##.grecaptcha-badge
