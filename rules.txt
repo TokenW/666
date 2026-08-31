@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-08-31 06:15:19（北京时间）
+! Version: 2026-08-31 10:33:38（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 367720
+! Total count: 367721
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -90701,6 +90701,7 @@ smartapps.cn##swan-nest-banner-ad.ad-expose
 smartapps.cn##swan-nest-banner-ad[class*="ad-expose"]
 smartapps.cn##swan-template[data-origin-name*="adRecommendation"]
 smartapps.cn##swan-view[class*="sw-26__bdad-wrap"]
+smh.112.2o7.net
 smzdm.com##.foot-banner
 smzdm.com##.foot-banner.haojia-coupon
 smzdm.com##.footer-wrap.fixed-bottom
@@ -90757,6 +90758,7 @@ sspai.com##.recommend-card
 stbemucode.com##DIV.header-ads
 stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 sukebei.nyaa.si##.servers-cost-money1
+t.net
 template/m1938pc/ads/*.js
 thepaper.cn##[class^='index_footer_banner']
 tieba.baidu.com##.activity_head
@@ -90770,7 +90772,6 @@ unpkg.com/aladug/*.js
 v.qq.com##div[class*="mod_row_box mod_row_box_special"]
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
 v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
-vejasmin.com
 webtor.io##DIV.ad
 webtor.io##IFRAME[scrolling='no']
 webtor.io##[data-element='empty']
