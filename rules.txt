@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-09-04 04:19:19（北京时间）
+! Version: 2026-09-04 07:42:32（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 366576
+! Total count: 366596
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -6235,6 +6235,7 @@
 /xxgg/gd*.js
 /xxgg/pf*.js
 /yinghuacd/bottom.js
+0 appier.mobi
 0.0.0.0 0-ilxrc-w285.p9bckp.sbs
 0.0.0.0 0-lxk284pre.c3kqmp.cfd
 0.0.0.0 0.0.0.0
@@ -89510,7 +89511,6 @@ mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !
 myqqjd.com##.adsbygoogl
 nxnba.com##.bootom-fixed
 olevod.com##.ads-bg
-opseri.com
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
 pan.baidu.com##.nd-operate-guidance
@@ -112667,6 +112667,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.freemake.com^
 ||analytics.freespee.com^
 ||analytics.freespoke.com^
+||analytics.freezehost.pro^
 ||analytics.freiraumakustik.de^
 ||analytics.freshbooks.com^
 ||analytics.fridayparts.com^
@@ -121319,6 +121320,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||avalancheofnews.com^
 ||avalanchetremorunfilled.com^
 ||avalonalbum.com^
+||avalwackes.com^
 ||avanquestusa.com^
 ||avantajados.com^
 ||avantioptima.cyou^
@@ -125050,6 +125052,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||benzincarwash.com^
 ||benzkartel.duckdns.org^
 ||beoecomapim.bang-olufsen.com^
+||beoedekpynbnd.space^
 ||beoofo.pairs.lv^
 ||beop.io^
 ||beopinion.com^
@@ -132829,6 +132832,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cantfindme.org^
 ||cantigasheep.qpon^
 ||cantinadautoress.com^
+||cantinonoxial.shop^
 ||cantonsaunt.cfd^
 ||cantseeme.dapper.agency^
 ||canttouchme.broring.com^
@@ -134314,6 +134318,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cbu01.alicdn.com/img/ibank/*
 ||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 ||cbudbs.tirendo.de^
+||cbuopbissyyab.site^
 ||cbuvhv.desertcart.ae^
 ||cbvngyngaulfa.space^
 ||cbvnzczrbcjoq.online^
@@ -156270,6 +156275,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||detson.de^
 ||deturbcordies.com^
 ||deuspower.to^
+||deusvardy.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
 ||deut3.fdj.fr^
@@ -158679,6 +158685,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dmkt.point-ad-game.com^
 ||dmkt.solutions.cas.org^
 ||dmlnznrxcwfeo.store^
+||dmlobbgnn.com^
 ||dmlph.sundaycitizen.co^
 ||dmm.aizhan.com^
 ||dmm.drmarcelomarciano.com^
@@ -194542,6 +194549,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hhbwhgtciqe.com^
 ||hhbxcs.tylko.com^
 ||hhbypdoecp.com^
+||hhcdagzyxyiby.website^
 ||hhcj.co.uk^
 ||hhcskj.com^
 ||hhdfk.startrepairingcredit.com^
@@ -201139,6 +201147,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||impassableretainerexplained.com^
 ||impassioned-boat.pro^
 ||impassioned-vacation.com^
+||impatientbelievable.com^
 ||impbid.com^
 ||impdsp.meituan.com^
 ||impearlretail.shop^
@@ -203169,6 +203178,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||innumerablebenedictiondisgrace.com^
 ||innumerablemakeupreligious.com^
 ||innveu2ji6.com^
+||innyddibgranw.space^
 ||innyweakela.co^
 ||ino4637d0.com^
 ||inocvsvmeopau.space^
@@ -203777,6 +203787,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||intentionproof.com^
 ||intentionsaspirin.com^
 ||intentionscommitsubtle.com^
+||intentiontrunkfundamental.com^
 ||intentiq.com^
 ||intentlens.com^
 ||intentlyuncover.com^
@@ -209741,6 +209752,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kanndr.badkamerdepot.be^
 ||kanojo.fr^
 ||kanoodle.com^
+||kanoonjoug.com^
 ||kanovento.net^
 ||kanpaku.jp^
 ||kanseen.com^
@@ -213878,6 +213890,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lancbcdncmphy.online^
 ||lancedflyers.shop^
 ||lancefluxivex.com^
+||lancetsupflow.com^
 ||lancetsyager.shop^
 ||lancharsenicdronel.qpon^
 ||land.izuchai.dance^
@@ -274591,6 +274604,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rudechangingmetropolitan.com^
 ||ruderalweiring.com^
 ||rudeteach.pro^
+||rudloffreset.com^
 ||rudolfmiscue.cyou^
 ||rudolphdesigns.com^
 ||rudousgillied.com^
@@ -310024,6 +310038,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stalyusporinplatform.com^
 ||stalyusporintrade.com^
 ||stamina4.top^
+||staminaturbotfourier.cfd^
 ||stamp-station-flow.lovable.app^
 ||stampbesidescontrived.com^
 ||stampen.linkpulse.com^
@@ -318535,6 +318550,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||surancetowns.com^
 ||surbasedetergepians.cfd^
 ||surbatebeclose.com^
+||surbatethwitesoulish.cyou^
 ||surbc.smashtess.com^
 ||sure.registration.abrdns.com^
 ||sureads.com^
@@ -325795,6 +325811,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||thetestpage.39.net^
 ||thetfluxhovur.site^
 ||thetimmedia.site^
+||thetiskikuyu.com^
 ||thetkugrid.site^
 ||thetmark.site^
 ||thetopic.co.kr^
@@ -338666,6 +338683,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ulbaskljxyvoox.com^
 ||ulbrayvibe.site^
 ||ulbruiqadlmaa.online^
+||ulcvtuslxtkxx.site^
 ||uldhyajkjmcdw.online^
 ||uldjz.gerberchildrenswear.com^
 ||uldtqa.weekendmaxmara.com^
@@ -346830,6 +346848,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vtacibqzopiw.com^
 ||vtbgeclxziikb.com^
 ||vtbimdkh.com^
+||vtbtwpoziolcq.online^
 ||vtc3rlbjj.com^
 ||vtcbanking6868.weebly.com^
 ||vtcstape.veterinariaconectada.com.br^
@@ -365688,6 +365707,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zpguxkvsnjobx.website^
 ||zpifugiaprqwn.store^
 ||zpihe.seintofficial.com^
+||zpjgofagauuku.space^
 ||zpjivmwnrhiwd.site^
 ||zpjojd.roucha.com^
 ||zpkcq.thinkstrategic.com^
