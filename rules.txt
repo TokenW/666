@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-09-06 03:44:24（北京时间）
+! Version: 2026-09-06 05:48:56（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 368837
+! Total count: 368851
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -90702,7 +90702,6 @@ docin.com##.moneyBox
 dongmanhuayuan.myheartsite.com##.card-body
 douban.com##IFRAME[width='315']
 douban.com##div.center [style*='padding: 4px;']
-e.fr^
 eastday.com##DIV.lfyinliu
 eastmoney.com###dc-result-tc
 eastmoney.com##.dc-layer-tc
@@ -132687,6 +132686,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bwgbqdhuyvkqu.site^
 ||bwgjustmysocks.com^
 ||bwh.why4free.top^
+||bwhrurrkgt1x6g.rest^
 ||bwin2808.com^
 ||bwinpartypartners.com^
 ||bwitahqriaz.in^
@@ -135185,6 +135185,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||carrot.hepper.com^
 ||carrotsmacaca.qpon^
 ||carry.registration.abrdns.com^
+||carryedgandum.com^
 ||carryenjoy.com^
 ||carryglanced.com^
 ||carryingalfredparticipant.com^
@@ -180480,6 +180481,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fxclub.org^
 ||fxdepo.com^
 ||fxeaobv.icu^
+||fxepofupedgjq.space^
 ||fxewupiyppjkg.website^
 ||fxfezg.bodylab24.de^
 ||fxfifv.icu^
@@ -199619,6 +199621,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hzhabei.cn^
 ||hzhepy.lojaiplace.com.br^
 ||hzhlgkoxzgkok.site^
+||hzhtnsqgkmcau.website^
 ||hzhuang.wang^
 ||hzhyhm.com^
 ||hzhzhz.cc^
@@ -228290,6 +228293,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lw-c-log.lastwarapp.com^
 ||lw.b.inhaabit.com^
 ||lw.musictarget.com^
+||lw1z4e5zuqhlfetegbmfgi.cfd^
 ||lwadm.com^
 ||lwahyysblqbez.site^
 ||lwashh.hessischer-jobanzeiger.de^
@@ -235293,6 +235297,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mengbli.com^
 ||menghuanzhilv.cn^
 ||mengis-linden.org^
+||mengwepruneszarfs.cfd^
 ||mengyang.info^
 ||mengyuanwei.com^
 ||menialsforpass.qpon^
@@ -239706,6 +239711,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||minoritymath.buzz^
 ||minorshort.weixin.qq.com/mmtls^$app=com.tencent.mm
 ||minorshort.weixin.qq.com^
+||minosurgence.com^
 ||minotaur107.com^
 ||minotaurus-pl.com^
 ||minotaurusai.com^
@@ -248853,6 +248859,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||npfga.nourishpetfood.co.uk^
 ||npfnnmbcuotel.website^
 ||npfopn.mix.tokyo^
+||npftdfmceyenp.website^
 ||npftmqv.cn^
 ||npgjij.cn^
 ||nphqw.cn^
@@ -271503,6 +271510,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||redbee.serverside.ai^
 ||redbirdagents.com^
 ||redbricksoap.com^
+||redbugsengoue.cyou^
 ||redbugturkisinwalls.qpon^
 ||redcapsunlime.com^
 ||redclayhotsauce.live^
@@ -276433,6 +276441,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rugs.luxuriousrugs.com.au^
 ||rugttt.robinson.com^
 ||ruhfpcfkysoxw.site^
+||ruhoxlli.in^
 ||ruhpbn.zhigaojixie.com^
 ||ruhrboudoir.de^
 ||rui61.cn^
@@ -320018,6 +320027,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||successionopticalalarm.com^
 ||successmenu.com^
 ||successorbuypatronize.com^
+||successoutcome.com^
 ||succisatawhid.com^
 ||succisehaustliquids.qpon^
 ||succubesalvoed.qpon^
@@ -346726,6 +346736,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||villainshogged.cfd^
 ||villalazza.stream^
 ||villalecchi.com^
+||villanwinnocksetsman.cfd^
 ||villarsepta.cyou^
 ||villecreteil.fr^
 ||villepariis.fr^
@@ -349241,6 +349252,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vvdrhe.win^
 ||vvdzucs.cn^
 ||vvelrp.thinkshoes.com^
+||vvewkblqoyjyq.top^
 ||vvfht.fun^
 ||vvfndxeumlfbn.com^
 ||vvhju.rezoni.com^
@@ -349543,6 +349555,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vzlogd.doctorpoint.it^
 ||vzmdzpqymjiho.online^
 ||vzmilkdaptnug.online^
+||vzmmlnlafhbxgz.com^
 ||vzmqc.thermajohn.com^
 ||vzmqnfbmdcmny.online^
 ||vznlp.eberjey.com^
@@ -367101,6 +367114,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zicwghowpuhbj.website^
 ||zidaunsoud.net^
 ||ziddichqrttva.online^
+||ziddlzeeddlmv.website^
 ||ziddu.com^
 ||zidfinanceglobal.net^
 ||zief.pl^
