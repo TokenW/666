@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-09-06 07:28:03（北京时间）
+! Version: 2026-09-06 10:06:03（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 368851
+! Total count: 368854
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -19,6 +19,7 @@
                                 # mistyped URLs to search engines. They
   # ads and track users across 
   # the com.com family of sites
+ trilultablast.site
 #			or "%systemroot%\system32\drivers\etc\hosts"
 #
 # 		You may need to tell Windows Defender to ignore this path
@@ -90781,6 +90782,7 @@ iplark.com##div.search-container > [style='display: block;']
 iplaysoft.com##.related_posts
 iplaysoft.com##.wwads-cn.wwads-horizontal
 iqiyi.com##.header__ele
+iqiyi.com^
 ithome.com###bd-share-box
 ithome.com###hd_float
 ithome.com###hd_float1
@@ -90895,6 +90897,7 @@ mumu*.com/js/cdn.js$~third-party
 mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
 myqqjd.com##.adsbygoogl
 nxnba.com##.bootom-fixed
+ob6wo.icu^
 olevod.com##.ads-bg
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
