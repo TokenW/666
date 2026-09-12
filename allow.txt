@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-09-12 16:14:23（北京时间）
+! Version: 2026-09-12 21:16:00（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 2995
+! Total count: 2981
 @@*.flyme.cn
 @@*.myapp.com
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
@@ -113,7 +113,6 @@
 @@||abtest3-misc-lf.zijieapi.com^
 @@||abtestvm.bytedance.com^
 @@||ac.dun.163yun.com^
-@@||ac.ebis.ne.jp^
 @@||access1.tpns.tencent.com^
 @@||account.dianping.com^
 @@||account.oneplus.com^
@@ -807,7 +806,6 @@
 @@||dev.getui.com^
 @@||develope-oss.lanzoug.com^
 @@||developer.apple.com$generichide
-@@||developers.google.com^
 @@||device-box.onethingpcs.com^
 @@||dfcfw.com^
 @@||dftoutiao.com^
@@ -1023,7 +1021,6 @@
 @@||fmip.icloud.com^
 @@||fonts.gstatic.com^
 @@||fonts.gstatic.com^$important
-@@||forum.notebookreview.com^
 @@||forums.oneplus.com^
 @@||foundation.youdao.com^
 @@||fourier-videoclip-eu.allawnos.com^
@@ -1487,7 +1484,6 @@
 @@||lixian.xunlei.com^
 @@||lobechat.com/_next/static/chunks/
 @@||loc.map.baidu.com^
-@@||local.adguard.org^
 @@||local.info.g9hc4.cn^
 @@||localads.chengzijianzhan.cn^
 @@||localhost^
@@ -1506,10 +1502,8 @@
 @@||logentries.com^
 @@||login.2345.com^
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
-@@||login.gaijin.net^
 @@||login.live.com^
 @@||login.m.taobao.com^
-@@||login.sendpulse.com^
 @@||login.sina.com.cn^
 @@||login.soulapp.cn^
 @@||login.taobao.com^
@@ -1578,7 +1572,6 @@
 @@||m8.music.126.net^
 @@||m801.music.126.net^
 @@||ma*-normal-lf.zijieapi.com^
-@@||ma135-r.analytics.edgekey.net^
 @@||mac.bmcx.com^
 @@||magene.cn^
 @@||mai.pinduoduo.com^
@@ -1763,7 +1756,6 @@
 @@||ncomment.kuwo.cn^
 @@||nd-static.bdstatic.com^
 @@||necaptcha.nosdn.127.net^
-@@||netatmo.commander1.com^
 @@||netease.com^
 @@||netmon.stat.360safe.com^
 @@||new.vip.weibo.cn^
@@ -1964,6 +1956,7 @@
 @@||parked-content.godaddy.com^
 @@||parked-content.godaddy.com^$important
 @@||partner.everydays.de^
+@@||partner.o2online.de^
 @@||passport.2345.com^
 @@||passport.360.cn^
 @@||passport.baidu.com^
@@ -2332,7 +2325,6 @@
 @@||smart.360.cn^
 @@||smarthome-drcn.dbankcdn.com^
 @@||smsks1.cmpassport.com^
-@@||smtp.focusgroupresearch.com^
 @@||snowflake.qq.com^
 @@||sns-avatar-qc.xhscdn.com^
 @@||sns.m.taobao.com^
@@ -2463,7 +2455,6 @@
 @@||support.vivo.com^
 @@||support.weixin.qq.com^
 @@||survey.feelgood.cn^
-@@||surveymyopinion.researchnow.com^
 @@||sv.map.baidu.com^
 @@||swap.stu.126.net^
 @@||swimg1.hstdyf.com^
@@ -2493,7 +2484,6 @@
 @@||t9.baidu.com^
 @@||tags.crwdcntrl.net^
 @@||tagtic.cn^
-@@||taiga.maven.io^
 @@||tajs.qq.com^
 @@||talk.bz.gepush.com^
 @@||talk.bz.getui.com^
@@ -2673,11 +2663,8 @@
 @@||v9-x.toutiaovod.com^
 @@||vali-dns.cp31.ott.cibntv.net^
 @@||vali-g1.cp31.ott.cibntv.net^
-@@||validate.perfdrive.com^
 @@||valuecommerce.com^
 @@||vas.snssdk.com^
-@@||vcentry2.valuecommerce.ne.jp^
-@@||vcentry3.valuecommerce.ne.jp^
 @@||vconf.f.360.cn^
 @@||vcs-quality.zijieapi.com^
 @@||vcs.snssdk.com^
@@ -2860,7 +2847,6 @@
 @@||www.iqiyi.com^
 @@||www.itools.info^
 @@||www.jd.com^
-@@||www.jdoqocy.com^
 @@||www.jiaoyimao.com^
 @@||www.jiaoyimao.com^$important
 @@||www.juejin.cn^
