@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-09-13 21:59:25（北京时间）
+! Version: 2026-09-14 01:19:38（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 366072
+! Total count: 366106
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -90656,7 +90656,6 @@ cqjschungao.com##[style*='px no-repeat; position: relative;']
 cqjschungao.com##[style='bottom: 132px;']
 csdn.net##div:nth-child(10) > div.csdn-side-toolbar > div.csdn-common-logo-advert:first-child
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
-d.microad.jp
 dama.lu##.tool-box
 ddzzxs.com###inglestore.inglestore
 dgtle.com##.footer-abox
@@ -90831,7 +90830,6 @@ m.kdslife.com###app.Card.DownloadGuide
 m.qidian.com##A.catalog-download
 m.qidian.com##I.icon-logo
 m.qidian.com##P.text-content
-m.shop
 m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
 m.smzdm.com##.damo-footer-open-app__fixed-logo
 manwa.me#@#.ad-area
@@ -90862,7 +90860,6 @@ mumu*.com/js/cdn.js$~third-party
 mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
 myqqjd.com##.adsbygoogl
 nxnba.com##.bootom-fixed
-o.pl^
 olevod.com##.ads-bg
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
@@ -90998,7 +90995,6 @@ wk.baidu.com##.fc-ad-wrap
 wk.baidu.com##.middle-box-root
 wn01.uk##IMG[alt][style='width: 100%; height: 100%;']
 woozooo.com##.ves
-wr.cn^
 www.3ppp.net##DIV.bottom_fixed
 www.67tool.com##.footer-banner
 www.apkmirror.com##.ains.ains-has-label
@@ -124784,6 +124780,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||barredilol.store^
 ||barrelaffloofatrophy.qpon^
 ||barrelcider.com^
+||barrelsgorce.shop^
 ||barren-term.pro^
 ||barren-theory.com^
 ||barreshasidic.cfd^
@@ -129018,6 +129015,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bluegray.us^
 ||blueinfo.marugroup.net^
 ||blueish4.com^
+||blueishlynched.com^
 ||blueistheneworanges.com^
 ||bluejay.edgesoftware.cloud^
 ||bluejay.fivefold.vc^
@@ -132527,6 +132525,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bwttasdajpduj.site^
 ||bwtttkphsxxsx.space^
 ||bwtubspjogxsz.space^
+||bwujbxxjgxvid.website^
 ||bwujxl.yoga-lava.com^
 ||bwvffebbohhiv.site^
 ||bwvgtmxrqmkwv.website^
@@ -133458,6 +133457,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cachequick.pro^
 ||cachequick.xyz^
 ||cacheserve.eurogrand.com^
+||cachewabbler.com^
 ||cachexyovum.cyou^
 ||cachezone.net^
 ||cachousbahut.qpon^
@@ -150165,6 +150165,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||damericantpast.org^
 ||damiaevilest.shop^
 ||damiancollier.com^
+||dammishdoormen.shop^
 ||damnitneronic.cfd^
 ||damoh.welect.de^
 ||damondesk.com^
@@ -167012,6 +167013,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||efjsvt.patyka.com^
 ||eflbundles.*.com.tr^
 ||eflewandatnig.org^
+||efljvtbtvlypv.online^
 ||eflru.cheerdental.com^
 ||efm.verintsystemsinc.com^
 ||efmh.cn^
@@ -168002,6 +168004,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||elsieawd.com^
 ||elsinistro.art^
 ||elsmom.xyz^
+||elsuxfovglcov.space^
 ||elsynmlw.fun^
 ||eltbd.com^
 ||eltdeh.top^
@@ -175130,6 +175133,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||figgedamnesia.cyou^
 ||figglefodge.com^
 ||fight.offtherecord.com^
+||fightducklet.cfd^
 ||fighterfan.shop^
 ||fightingdesert.com^
 ||fightmallowfiasco.com^
@@ -179343,6 +179347,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fuqemedzceklr.online^
 ||fuqthcmikwskc.space^
 ||furalgaupus.cyou^
+||furanelowness.com^
 ||furcaegucks.cfd^
 ||furcaltonic.com^
 ||furestaq.com^
@@ -182963,6 +182968,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gjqghspetwnkz.store^
 ||gjqlxuffmatsp.online^
 ||gjqtsjmz1f.com^
+||gjqwntsxfydcc.online^
 ||gjrjr.maxa-group.com^
 ||gjrrr.hotelcollection.com^
 ||gjsd.xyz^
@@ -185356,6 +185362,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||govxinjiang.cn^
 ||govzzpzvfwctr.site^
 ||gowadogo.com^
+||gowanytablita.qpon^
 ||goweb.de^
 ||gowenze.com^
 ||gownbea.icu^
@@ -196078,6 +196085,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hkihkoxqjcmmu.online^
 ||hkj8.evobanco.com^
 ||hkjcweb.data.adobedc.net^
+||hkjepaeubeuamp.com^
 ||hkjwazawuwxiy.online^
 ||hkk456.cc^
 ||hkkbhxlf.com^
@@ -196851,6 +196859,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hopperearnin.com^
 ||hoppika.eu.cc^
 ||hoppingtheglobe.com^
+||hoppochangar.shop^
 ||hoppykyries.cyou^
 ||hopsysdhmstab.online^
 ||hopthewall.com^
@@ -196859,6 +196868,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hoqje.repipe.com^
 ||hoqodd.com^
 ||horacereciprocalvaccination.com^
+||hordedenrobes.com^
 ||hordeumconveth.qpon^
 ||hordommarkholm.net^
 ||horelix.shop^
@@ -197076,6 +197086,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hotjar.io^
 ||hotkabachok.com^
 ||hotline-dienmayxanh.com^
+||hotlinedognaps.cyou^
 ||hotlinevarietymorrow.com^
 ||hotllove.net^
 ||hotlog.ru^
@@ -200283,6 +200294,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||illiterate-birth.pro^
 ||illnessspays.cfd^
 ||illogicalinvitationexaltation.com^
+||illthpetemancyul.cfd^
 ||illtlqbthxsod.website^
 ||illumenix.com^
 ||illumin.com^
@@ -204489,6 +204501,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||intravert.co^
 ||intricateberry.com^
 ||intricatewhilevertically.com^
+||introfysalite.shop^
 ||introjava.com^
 ||introsnullify.com^
 ||introuala.store^
@@ -207099,6 +207112,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jetos.com^
 ||jetour.altosandes.com.pe^
 ||jetpackdigital.com^
+||jetportrelease.cyou^
 ||jetproxy.com^
 ||jetrun.jp^
 ||jetskiscovers.com^
@@ -208615,6 +208629,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jraaraflargqt.website^
 ||jraasj.kobo.com^
 ||jrad.jd.com^
+||jrajtygpxefk.com^
 ||jraopiteln.ems-dolorclast-usa.com^
 ||jraqvedgjkznw.space^
 ||jraum.highereducation.shop^
@@ -210005,6 +210020,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||k8cr3b.cfd^
 ||k8jc6jomk86fji.rest^
 ||k8js1b.sbs^
+||k8kp3clvc59ietm4wj6rhmomtcr8.cfd^
 ||k8mb640mta.com^
 ||k8s-int.net.mydays.de^
 ||k8s-sentry-sentry-dc7afdcb90-469077109.ap-south-1.elb.amazonaws.com^
@@ -245784,6 +245800,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ninjaweb.xyz^
 ||ninkk.puresport.co^
 ||ninnkinahitonopurokisitteburokkusareyasuiyone.easterndns.com^
+||ninonsxenial.shop^
 ||ninontoising.com^
 ||ninpou.jp^
 ||nintendogames.net^
@@ -245868,6 +245885,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nishars.care^
 ||nishub1.10010.com^
 ||nisihu.com.cn^
+||nisimitella.shop^
 ||nisprofit-system.com^
 ||nisputlkdilbu.space^
 ||nissangofuku.live^
@@ -246345,6 +246363,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nntnbnkziaips.site^
 ||nnuc.cn^
 ||nnupmdxkvxqip.online^
+||nnuuwkkkdzlce.site^
 ||nnvkh.com^
 ||nnvoia.closetworld.com^
 ||nnvqzl.franklinsports.com^
@@ -259765,6 +259784,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pmir.3g.qq.com^
 ||pmjc.ir.meli-n13.info^
 ||pmjlllngnazvr.online^
+||pmjvfwmaetwrn.space^
 ||pmlfclxqicihz.website^
 ||pmm.people.com.cn^
 ||pmmdhc.com^
@@ -273053,6 +273073,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rrbrmijkhpork.online^
 ||rrbsb.applevacations.com^
 ||rrbth.beautycreationscosmetics.com.mx^
+||rrbxbkdwexan.com^
 ||rrbzvmklrzwmk.top^
 ||rrbzvmkzbzzok.top^
 ||rrc.allaboutacandheating.com^
@@ -277798,6 +277819,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sbtiulwkstzpt.space^
 ||sbttlj.togetter.com^
 ||sbvsb.inspiranzadesigns.com^
+||sbvxtnnfuwnkv.space^
 ||sbw.ysjweb.com^
 ||sbwkj.palmettomoononline.com^
 ||sbx.daimlertruck.com^
@@ -290102,6 +290124,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sitameta.com^
 ||sitaoabuser.com^
 ||sitaohiatusbullion.qpon^
+||sitarssurfman.cfd^
 ||sitdpsxxqbfkh.site^
 ||site-2.duckdns.org^
 ||site-3.duckdns.org^
@@ -296441,6 +296464,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sndkorea.co.kr^
 ||sndqar.rajapack.es^
 ||sndvoices.com^
+||sneakedsonlessupknell.cyou^
 ||sneakerheadclub.com^
 ||sneakerorblike.com^
 ||sneakerrfbyupon.cfd^
@@ -299044,6 +299068,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||spoonballoon.com^
 ||spoonsilk.com^
 ||spoor-api.ft.com^
+||spoorersandeep.cyou^
 ||spoorstartor.cfd^
 ||sporing.nille.no^
 ||sporing.vessi.no^
@@ -313446,6 +313471,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stated.io^
 ||statelinear.com^
 ||statelinkcdn.com^
+||statelygriefs.cyou^
 ||statelygrievously.com^
 ||statementbrainless.com^
 ||statemindpath.com^
@@ -316146,6 +316172,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sticketsmetrics.masters.com^
 ||stickingallot.com^
 ||stickingholdingconcussion.com^
+||sticklyaln.qpon^
 ||sticks.run^
 ||stickscoltdependent.com^
 ||stickupedenize.cyou^
@@ -316806,6 +316833,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||strawberry.basf.com^
 ||strawberry.basf.us^
 ||strawberry.essenzshop.rs^
+||strawberryryerum.com^
 ||strawburn.com^
 ||strawpoii.me^
 ||strawroute.com^
@@ -338336,6 +338364,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ulfze.thevintagepearl.com^
 ||ulgmucrlctvsl.store^
 ||ulgroiklf.com^
+||ulhbwdxzwifhg.site^
 ||ulhec.biorenewal.com^
 ||ulhpxqtmsmnbo.site^
 ||ulhwerbvmskri.space^
@@ -346815,6 +346844,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vye6nglp4h.iz8no92l5vfg6w5x19ccpplu.cyou^
 ||vyebov.entrenet.jp^
 ||vyecpfypnwu.net^
+||vyeqerkexpebzd.com^
 ||vyeysj.foto-mundus.de^
 ||vyg.mobi^
 ||vyhuuq.flexioffices.co.uk^
@@ -349933,6 +349963,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||whamiqbjdzzcj.space^
 ||whammoaslake.com^
 ||whamsdesorb.qpon^
+||whangeedimming.cyou^
 ||whankdeedeed.com^
 ||whapdroit.shop^
 ||whappetfarsi.cyou^
@@ -357843,6 +357874,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xluivt.dw-shop.de^
 ||xlujbmaahnwxj.space^
 ||xlutoiwksd.com^
+||xlvbxtkbhjnrx.online^
 ||xlvhafsuujcmu.online^
 ||xlviiirdr.com^
 ||xlviirdr.com^
@@ -362352,6 +362384,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||yunzhanghe.cn^
 ||yunzuowen.com^
 ||yuobseeeyrkyl.space^
+||yuoxgbqhrqwtg.space^
 ||yuoyan.finanzen.de^
 ||yup.ttklcs.com^
 ||yupcaziotekll.online^
@@ -364817,6 +364850,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zmrdf.airdoctorpro.com^
 ||zmriwd.mrrecovery.com^
 ||zmrkxz.icu^
+||zmrmnxrykntyd.site^
 ||zmrrjyyjzabww.top^
 ||zmrzis8ow.com^
 ||zmrzlin.amateurswild.com^
