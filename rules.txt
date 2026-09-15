@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-09-15 05:12:30（北京时间）
+! Version: 2026-09-15 08:05:35（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 363942
+! Total count: 363959
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -5990,7 +5990,6 @@
 *.lijie.*/*_*?$third-party
 */blsx_*_*_*?*$third-party
 -1325890192.cos.
-.0.0.0 zakladybolslka.homes
 .buzz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
 .buzz/*0*0*0*==$third-party
 .cn/*/o*.js?t=*$domain=12ju.com
@@ -88730,13 +88729,13 @@ Mplay/kk1.js
 _/bigREDcat.css?
 _/bigREDdog.js
 _300x250.js
-a.org^
 acglala.me##.topm,.donghua_info > DIV[style='width:100%;'],.donghua_info > a
 achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
 achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
 adblock-tester.com##.includeWrapper, .svelte-700pcr
 ai-chatbot.top##.right-14
 ali213.net##.placeholderforpromotion
+apa27.eu.cc
 apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
 apkpure.net,apkpure.com##DIV.js-ad-slot
@@ -92115,6 +92114,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||31def61c3.de^
 ||31ezrbosr6.com^
 ||31fbcecdf2.com^
+||31i7tuwyukluliw7bz.cfd^
 ||31io8wshq.com^
 ||31npe74m8qm5wjkmb5g7zhw.rest^
 ||31o0jl63.de^
@@ -111184,6 +111184,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||amwm.cn^
 ||amxcsxj.pl.haohaohao17.xyz^
 ||amxpj.pl.haohaohao17.xyz^
+||amxrpujyldelq.space^
 ||amxrtb.com^
 ||amxwqv.com^
 ||amy.earthsecret.com^
@@ -130729,6 +130730,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bvupjqkxxrgqr.space^
 ||bvvb9.com^
 ||bvvgl.thepaystubs.com^
+||bvvriwtkqf.com^
 ||bvwsvjhpbmzvj.space^
 ||bvxvwb.miniwebshop.hu^
 ||bvycqrmqlqvp.com^
@@ -154885,6 +154887,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||deer.ray.io^
 ||deerbeginner.com^
 ||deergift.com^
+||deerpreheat.com^
 ||deeschorai.com^
 ||deeterno.cn^
 ||deezwin.com^
@@ -174195,6 +174198,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||firixslotcasino.fr^
 ||firm-twist.com^
 ||firmashindle.cfd^
+||firmasset.com^
 ||firmemercaenzo-review.sbs^
 ||firmitasbase.com^
 ||firmlogicty.pro^
@@ -190519,6 +190523,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gudemak.shop^
 ||gudeyzcpsvial.online^
 ||gudme.lokai.com^
+||gudssbqyyctvz.space^
 ||gudvs.millennialmagazine.com^
 ||guecqeemconot.online^
 ||guehsgqmawega.online^
@@ -205395,6 +205400,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jfot.e647ob.cn^
 ||jfp6.destinia.de^
 ||jfpltp.eyeforfashion.pl^
+||jfqotuupasysu.space^
 ||jfqqvtevayyfm.online^
 ||jfraction.al^
 ||jfrthphciuxjk.website^
@@ -211745,6 +211751,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kwyoqlhshixgt.website^
 ||kwzm.uniformix.pl^
 ||kx-97795-tr.xyz^
+||kx15nb9ie4flcbt3fk9m8u8.rest^
 ||kx26voklvrfx3gxyt.rest^
 ||kx4.firstsexfilm.com^
 ||kxaazgvdumsle.site^
@@ -214387,6 +214394,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lhlext.e-aircon.jp^
 ||lhlsb.magicspoon.com^
 ||lhmaq99q.xyz^
+||lhmdjhipzmkpg.space^
 ||lhmkjtnhstesl.website^
 ||lhmmm.pinklily.com^
 ||lhmos.com^
@@ -243663,6 +243671,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nggli.sweethoneyclothing.com^
 ||nggzy.baschieri-pellagriusa.com^
 ||nghdp.cn^
+||nghfacveniemi.space^
 ||nghivugi92.com^
 ||nghnbogvkojlk.space^
 ||ngiclix.165-154-235-20.cpanel.site^
@@ -263122,6 +263131,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pyicbcxvs.com^
 ||pyiirwlu.com^
 ||pyinsalismal.cyou^
+||pyinscahiers.shop^
 ||pyiukciljqkpc.space^
 ||pyjamasweated.com^
 ||pyjdzoawcvxel.site^
@@ -275798,6 +275808,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||saway-simpleelegant.shop^
 ||saway-trendyclassic.shop^
 ||sawbuckpilule.shop^
+||sawckowpjgzkl.space^
 ||sawdmg.com^
 ||sawfish.hxd-lab.de^
 ||sawfish.loqbooq.app^
@@ -286793,6 +286804,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sharzon.com^
 ||shasta-collector-production.upwork.com^
 ||shatershepeleve.com^
+||shatterallegro.cfd^
 ||shatterloop.com^
 ||shaugacakro.net^
 ||shaughixefooz.net^
@@ -326078,6 +326090,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||torimochi-ad.net^
 ||torimochi.line-apps.com^
 ||torioluor.com^
+||toriwaysgreiges.cfd^
 ||torjackan.info^
 ||torkali.shop^
 ||torlaviana.info^
@@ -337495,6 +337508,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||unskilledaccompanimentcircumstances.com^
 ||unslingrancors.shop^
 ||unslotdrouk.com^
+||unslylywines.shop^
 ||unsmartbatteau.cfd^
 ||unsmokyhashing.cfd^
 ||unsmugkodogupassir.qpon^
@@ -338060,6 +338074,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||uquuusorusfnd.site^
 ||uquyclfbkvtjk.website^
 ||uqvgtqnthkqgi.space^
+||uqvzoxeipwafa.website^
 ||uqwaeymuxdghe.website^
 ||uqxjunryq.com^
 ||uqxtyjclokxex.website^
@@ -338476,6 +338491,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||use.hetzner.com^
 ||use.lunos.app^
 ||use.star.is^
+||useablyseiner.qpon^
 ||useads.com^
 ||useast.quantumdex.io^
 ||useast1.vps.night-x.com^
@@ -343132,6 +343148,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vns800600.net^
 ||vns86.oss-*.aliyuncs.com^
 ||vnshop.today^
+||vnsookmvytgnp.space^
 ||vnsshoppe.com^
 ||vntanktransport.com^
 ||vntmrzvsztqfk.space^
