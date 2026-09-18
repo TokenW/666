@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-09-19 04:11:30（北京时间）
+! Version: 2026-09-19 07:46:04（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 370698
+! Total count: 370711
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -90928,6 +90928,7 @@ hax.co.id#@#.ad-wrapper
 heiliao346.pro###post-card-1234,#post-card-518,#post-card-1000,#post-card-666,#post-card-1588,#post-card-1555,#post-card-1118,#post-card-618,#post-card-888,#post-card-999
 hentaicomic.ru#@#.Flagrow-Ads-under-header
 hentaicomic.ru#@#.pcd_ad
+hpavilion.shop
 huya.com###J_adBnM > img:last-child
 huya.com###J_liveListHeader > div.liveList-BusinessGame:last-child
 huya.com###matchComponent4
@@ -91026,7 +91027,6 @@ juejin.cn##.extension
 limbopro.xyz###a_d_sider
 limbopro.xyz###disqus_thread
 limbopro.xyz##.grecaptcha-badge
-line
 ltssjy.qq.com^
 luoqiuzw.com##DIV[id^="a-loading-"]
 m.autohome.com.cn##section > ol
@@ -91181,7 +91181,6 @@ sspai.com##.is-shown.open-in-app-button
 sspai.com##.recommend-card
 stbemucode.com##DIV.header-ads
 stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
-stdealliving.com^
 sukebei.nyaa.si##.servers-cost-money1
 template/m1938pc/ads/*.js
 thepaper.cn##[class^='index_footer_banner']
@@ -125080,6 +125079,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bakrathtfa.com^
 ||bakteso.ru^
 ||bakulatroolie.shop^
+||bakundaindigosepi.cyou^
 ||bakuronelai.org^
 ||bakyayljzhoga.online^
 ||bal.balciselahattin.com^
@@ -129271,6 +129271,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bjxuql.vorwerk.fr^
 ||bjxusfnfstjae.online^
 ||bjycsb.com^
+||bjydccyqkjcxj.website^
 ||bjygagpjabhbt.website^
 ||bjzabeeqjktyy.website^
 ||bk.bedroomking.co.uk^
@@ -159085,6 +159086,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dghvspvswbqrp.site^
 ||dgijregktokhtohy.easterndns.com^
 ||dgire.koalaeco.com^
+||dgiryacsecohs.site^
 ||dgisnfpt7brtf.cloudfront.net^
 ||dgj2.palladiumhotelgroup.com^
 ||dgkpzy.2ch2.net^
@@ -246108,6 +246110,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||namilh.com^
 ||namimedia.com^
 ||namivyrox.com^
+||namlnudwyvqg.com^
 ||namnothp.com^
 ||namol.xyz^
 ||namoxkofxrnyd.website^
@@ -246715,6 +246718,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ncdplvdquspma.online^
 ||ncdsb.netlify.app^
 ||ncduwcegw.evolvewell.com^
+||nceaxfowkzjkv.website^
 ||nceexam.quantresear.ch^
 ||ncgqmzm.cn^
 ||nch-software.info^
@@ -253595,6 +253599,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ompw.shop^
 ||ompx.shopbop.com^
 ||ompxs.shopbop.com^
+||omqdakipjoypi.space^
 ||omqdqupnwbqow.space^
 ||omrlipeocxijz.online^
 ||omroepflevoland-static.reviveservers.com^
@@ -259412,6 +259417,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||penguin.revolana.com^
 ||penguinhelpful.com^
 ||penguinnow.com^
+||penguinofpeace.cyou^
 ||penitentagilemenace.com^
 ||penknife47.com^
 ||penknife87.com^
@@ -262909,6 +262915,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pmmpjb.matratzen-concord.de^
 ||pmmxeavnflhkl.website^
 ||pmnbh.dedcool.com^
+||pmnexnvfosuppis.com^
 ||pmngv.veronicabeard.com^
 ||pmnlcpdlljaie.website^
 ||pmnt4bn50c-20c12.kxcdn.com^
@@ -264312,6 +264319,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pqlcpm.kindoh.co.kr^
 ||pqlmae.lamaisonduchocolat.co.jp^
 ||pqlrfrtotmzpt.website^
+||pqlvwnxkodluw.online^
 ||pqmbxd.betersport.nl^
 ||pqmrbzwq.com^
 ||pqmv5xir9y5zb6h.rest^
@@ -275093,6 +275101,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rilvosdeken.org^
 ||rilwzsit.icu^
 ||rimaje.nl^
+||rimasappar.com^
 ||rimavet.baby^
 ||rimdl.frive.co.uk^
 ||rime8lope.com^
@@ -275276,6 +275285,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rivrs.shop^
 ||rivrs.xyz^
 ||riwkmo.spacemarket.com^
+||riwnccdialbrm.online^
 ||riwnmh.novasol.co.uk^
 ||rixengine.com^
 ||rixgpx.xyz^
@@ -325825,6 +325835,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||taixiumomo.me^
 ||taj1.ebis.ne.jp^
 ||taj2.ebis.ne.jp^
+||tajdmtszoslff.site^
 ||tajikicubhood.cfd^
 ||tajorentestra.pro^
 ||tajs.qq.com^
@@ -328794,6 +328805,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tettacrown.com^
 ||tetterssynedra.qpon^
 ||tetvxsedkmlgh.site^
+||teuchpobhouting.cfd^
 ||teucritodays.shop^
 ||teughlyescape.cyou^
 ||teurbotnu.site^
@@ -363764,6 +363776,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xpgqx.teds.com.au^
 ||xpgw-mob-xcdn.cp31.ott.cibntv.net^
 ||xpgw-xcdn.youku.com^
+||xphmbeda.com^
 ||xphones-2019.info^
 ||xphotos-album.com^
 ||xphotos.net^
