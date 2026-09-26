@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-09-26 06:58:51（北京时间）
+! Version: 2026-09-26 10:43:28（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 370621
+! Total count: 370625
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -86544,6 +86544,7 @@ achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
 achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
 adblock-tester.com##.includeWrapper, .svelte-700pcr
 ai-chatbot.top##.right-14
+aibing.cn^
 ali213.net##.placeholderforpromotion
 apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
@@ -86835,6 +86836,7 @@ marriedgames.com.br##div.sp-backdrop-info.show-prompt:first-child
 match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
 medium.com##.m, .abb, .add, .ade
 mefcl.com##article:has(span.sticky-icon)
+metrics.ok.dk
 mini.yyrtv.com##.right-gg
 mobi*.*.cam/*_$third-party
 mobi*.*.cyou/*_$third-party
@@ -86854,6 +86856,7 @@ myqqjd.com##.adsbygoogl
 nxnba.com##.bootom-fixed
 olevod.com##.ads-bg
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
+ow-3.mediav.com
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
 pan.baidu.com##.nd-operate-guidance
 pan.baidu.com##A.active-msg
@@ -87075,6 +87078,7 @@ zhihu.com##.MobileAppHeader-downloadLink
 zhihu.com##.zhihuAdvert-MBanner-wordDownload
 zhihu.com##div[data-za-detail-view-path-is_ad]
 zol.com.cn##A.dingtong.xianshiyouhui
+|bugpizza.com^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-ad.adbkwai.com^
