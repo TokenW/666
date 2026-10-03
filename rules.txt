@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-10-03 05:37:20（北京时间）
+! Version: 2026-10-03 08:49:54（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 365744
+! Total count: 365763
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -82835,7 +82835,6 @@ achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
 adblock-tester.com##.includeWrapper, .svelte-700pcr
 ai-chatbot.top##.right-14
 ali213.net##.placeholderforpromotion
-analytics.tbs.com
 apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
 apkpure.net,apkpure.com##DIV.js-ad-slot
@@ -83144,7 +83143,6 @@ mumu*.com/js/cdn.js$~third-party
 mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
 myqqjd.com##.adsbygoogl
 nxnba.com##.bootom-fixed
-ohchehw.cn^
 olevod.com##.ads-bg
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
@@ -86207,6 +86205,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||2osq127yy.com^
 ||2p1kreiqg.de^
 ||2p3ebtxsp.com^
+||2p63il4ecrnpt8k9vwmrcjuewg.cfd^
 ||2parale.ro^
 ||2pbskwnni.com^
 ||2pc6q54ga.de^
@@ -103287,6 +103286,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||agh2.server.my.id^
 ||agh3.server.my.id^
 ||agha.sunryu.site^
+||aghascodeine.cyou^
 ||aghasstomiumcloyed.cyou^
 ||aghdns.com^
 ||aghtag.tech^
@@ -134932,6 +134932,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||clohzp.hifi.lu^
 ||cloineskulls.cyou^
 ||cloisteredcurve.com^
+||clompsoleyne.com^
 ||clonalfloaty.shop^
 ||clonecardnotes.com^
 ||clonecooperationbeth.com^
@@ -139059,6 +139060,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||corgibeachday.com^
 ||corgibet-fr.fr^
 ||corialwhidahs.cyou^
+||corinthlumuthiking.cfd^
 ||corivex.xyz^
 ||corixapardie.qpon^
 ||corkdeclarationfourteenth.com^
@@ -152665,6 +152667,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||despiteto.com^
 ||despoteavesdropblazing.com^
 ||despotsnortle.qpon^
+||desrypalqovrc.space^
 ||dessacheysa.com^
 ||dessaly.com^
 ||dessertwhiskey.com^
@@ -154061,6 +154064,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dinuxcloud.com^
 ||diobolssorrowlr.cyou^
 ||diocgn.biltorvet.dk^
+||diodespesah.cfd^
 ||dioimg.net^$important
 ||diomedia.fr^
 ||dionaeapeoplet.com^
@@ -169685,6 +169689,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fbpopr.com^
 ||fbqhhioxipvfn.space^
 ||fbqhxcrefynme.site^
+||fbqmtmrjoxkfam.com^
 ||fbr.formatafacil.com.br^
 ||fbraaphra.com^
 ||fbrojczjqlcxh.online^
@@ -192123,6 +192128,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hme-uat-loganalytics-namespace.servicebus.windows.net^
 ||hmeagu.e87.com^
 ||hmelef.ru^
+||hmeoauratefzm.site^
 ||hmeoda.restplatzboerse.ch^
 ||hmeqvp.essencemakeup.com^
 ||hmfld.dashskin.com^
@@ -194237,6 +194243,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hxinitv.icu^
 ||hxjhfqrolubqs.space^
 ||hxjrxfwgbwlvk.online^
+||hxlffbjjaroag.site^
 ||hxlm.homes^
 ||hxlm.io^
 ||hxlm.org^
@@ -205583,6 +205590,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jvrppsfgbhesf.site^
 ||jvrsr.bettabot.com^
 ||jvrwil.gabor.de^
+||jvrzozrwhqjxz.space^
 ||jvsac.georgiemane.com^
 ||jvsbnxdqehneb.online^
 ||jvspinapp.com^
@@ -205855,6 +205863,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jzhnqycanbvsn.space^
 ||jziweafbssqyj.store^
 ||jzixypd.icu^
+||jzjtijnsgpnpe.site^
 ||jzjxmj.com^
 ||jzkapp.com^
 ||jzklxzldskqok.online^
@@ -212156,6 +212165,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lfbz317s.icu^
 ||lfcbvf.viata.fr^
 ||lfcnxhdzwwyka.space^
+||lfcoobpgtxnqh.online^
 ||lfcplotcfjqea.online^
 ||lfdah.ardencove.com^
 ||lfdepfhvoeygp.site^
@@ -214711,6 +214721,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||llxuggnaaghgg.space^
 ||llykjmzrjvrkm.top^
 ||llykjmzrjvrmy.top^
+||llzpcr76bk4vq9tyf42.rest^
 ||lm-publicities.nyc3.digitaloceanspaces.com^
 ||lm.erectiepillen.nl^
 ||lm.groc.press^
@@ -221948,6 +221959,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lopwhrvtmmhck.store^
 ||loqnomgwbsiel.site^
 ||loquatsbilker.cfd^
+||loquentgauk.cyou^
 ||loqueveo.elcursodetuvida.com^
 ||loqueveo.libertadinmobiliaria.es^
 ||lor-vino.ru^
@@ -250624,6 +250636,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||outatebinits.com^
 ||outbanner.hu.co.kr^
 ||outbarkzapota.shop^
+||outbegcaffa.qpon^
 ||outbid.io^
 ||outbidplacardshowman.com^
 ||outblowuntin.shop^
@@ -253993,6 +254006,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pedagogashamnu.cyou^
 ||pedalyst.com^
 ||pedatabalsaupflows.cfd^
+||peddlarwayback.cfd^
 ||pedesisoestrin.cfd^
 ||pedestrian.jp^
 ||pedestrian94.top^
@@ -254344,6 +254358,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||perk0mean.com^
 ||perkamkopa.lv^
 ||perkcanada.com^
+||perkcutitis.cyou^
 ||perky-fight.com^
 ||perky-method.com^
 ||perkyabroad.pro^
@@ -262289,6 +262304,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pummys.com^
 ||pump8walk.com^
 ||pumpbead.com^
+||pumpeddanner.qpon^
 ||pumpedpancake.com^
 ||pumpedpurpose.com^
 ||pumpkin.abine.com^
@@ -316504,6 +316520,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||stopads-now.com^
 ||stopcast.net^
 ||stopcodex.pl^
+||stopdbumiaml.com^
 ||stoperinbent.world^
 ||stoperplanulakeen.qpon^
 ||stopify.co^
@@ -338476,6 +338493,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||uiwyirmq.kids-world.com^
 ||uiwyirmq.kids-world.dk^
 ||uixbwmrkfrvmc.space^
+||uixxgtvdauhfk.online^
 ||uiyvwvzlzkq.com^
 ||uiyxoowmkcppo.online^
 ||uizgs.amberinteriordesign.com^
@@ -348279,6 +348297,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wavesmachine.com^
 ||wavetogive.org^
 ||wavetshirt.com^
+||waviesdaywork.cyou^
 ||wavingauradignity.com^
 ||wavo.me^
 ||wavrlh.cedok.cz^
