@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-10-19 03:53:26（北京时间）
+! Version: 2026-10-19 06:05:21（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 381021
+! Total count: 381034
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -5992,7 +5992,6 @@
 *.lijie.*/*_*?$third-party
 */blsx_*_*_*?*$third-party
 -1325890192.cos.
-.0 serve-prod1204.uberads.com
 .buzz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
 .buzz/*0*0*0*==$third-party
 .cn/*/o*.js?t=*$domain=12ju.com
@@ -82386,7 +82385,6 @@ mumu*.com/js/cdn.js$~third-party
 mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
 myqqjd.com##.adsbygoogl
 nxnba.com##.bootom-fixed
-ohchehw.cn^
 olevod.com##.ads-bg
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
@@ -109652,6 +109650,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||analytics.pipelife.se^
 ||analytics.pipelife.si^
 ||analytics.pipelife.sk^
+||analytics.pishow.tv^
 ||analytics.pitchero.com^
 ||analytics.pixari.dev^
 ||analytics.pixelgalaxies.io^
@@ -134363,6 +134362,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||chasemodeler.com^
 ||chasenbc.net^
 ||chaseonline.com^
+||chasesseqqreburn.qpon^
 ||chasmsrecite.cyou^
 ||chassis.net.mydays.de^
 ||chat*-ce.chatdealer.jp^
@@ -156041,6 +156041,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dfjlgfb4lxka5.cloudfront.net^
 ||dfkcnyhd.nl^
 ||dfkd.xyz^
+||dfkistiraxclf.site^
 ||dfkkffjulbnec.space^
 ||dflexy.house.nom.br^
 ||dfljwbpdikejk.online^
@@ -156936,6 +156937,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dijrtichfghgw.site^
 ||dijuvxuzjhkrb.website^
 ||dik.si^
+||dikastruthful.cfd^
 ||dikematou.com^
 ||diken.xyz^
 ||dikhsb.vividseats.com^
@@ -164954,6 +164956,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||eccmdrazvyrgj.space^
 ||eccooutletdeutschland.de^
 ||ecctjf.leroymerlin.com.br^
+||ecdhfydktzlvg.com^
 ||ecdoib.26p.jp^
 ||ecdtrk.com^
 ||ecdwm.com^
@@ -165857,6 +165860,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||efbenj.adorebeauty.com.au^
 ||efbgeebqzeqbs.space^
 ||efboo.homestratosphere.com^
+||efclqcsealqvh.online^
 ||efcmdpfbepeba.site^
 ||efdij.clubrideapparel.com^
 ||efdldoqzzm.com^
@@ -179821,6 +179825,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||g6nmrcqlx.qvq6kkeobmqunp4etfg.cyou^
 ||g6x2uvza37.com^
 ||g7.com.tw^
+||g73r74ryx16lf43fou14bttnqlv7e7g2.rest^
 ||g755.kouvolansanomat.fi^
 ||g77776666.com^
 ||g792337340.co^
@@ -180811,6 +180816,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gcdcogweel.com^
 ||gcdn.2mdn.net^
 ||gceat.theproteinworks.com^
+||gcedzxjqncgacv.com^
 ||gceleritasads.com^
 ||gcemyasvrt16.net.mydays.de^
 ||gcenter.it^
@@ -185598,6 +185604,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gqdajtjwzbikn.space^
 ||gqdfgyz.cn^
 ||gqdui.weareplufl.com^
+||gqfck5gnwf88zjqq6pepmwvfg48.cfd^
 ||gqfga.senreve.com^
 ||gqfoi.roewellness.com^
 ||gqgvzbgm.carterbay.com^
@@ -193799,6 +193806,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hanna-health.shop^
 ||hannaberlin.com^
 ||hanniel.tech^
+||hanojdofxaw.in^
 ||hanqdaysfeucn.site^
 ||hans-kuailian.com^
 ||hanseffaces.qpon^
@@ -198139,6 +198147,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||hsych.com^
 ||hsyfcenter.com^
 ||hsym5.acerhost.com^
+||hsymkfqfhqgfb.online^
 ||hsynxmsytsxil.site^
 ||hsyun.cloud^
 ||hsyun.io^
@@ -212888,6 +212897,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||kirhtq.anicom-sompo.co.jp^
 ||kiri.nonexiste.net^
 ||kirietabawisf.site^
+||kirktonreflate.qpon^
 ||kirnedsomeday.cfd^
 ||kirona.ru^
 ||kirov.unicom.cloudns.be^
@@ -238380,6 +238390,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||megpacokjce.bid^
 ||megpngcejxazj.website^
 ||megpxs.com^
+||megrimsinswing.cyou^
 ||megumin.is.my.waifu.cz^
 ||mehadi.cosyneeds.shop^
 ||mehanoid.pro^
@@ -273278,6 +273289,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qfvwfi.convenii.com^
 ||qfwfbo.decofurnsa.co.za^
 ||qfxheyyfxnply.site^
+||qfxqmbwvrywfu.website^
 ||qfxwqa.lens-smile.com^
 ||qfy.innotechx.com^
 ||qfzsogrsoxiue.site^
@@ -287135,6 +287147,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sdiwrndcoyrdq.site^
 ||sdiybt.info.north-kazakhstan.su.cdn.cloudflare.net^
 ||sdjfhf.com^
+||sdjmtziuarexc.online^
 ||sdjof.nadinemerabi.com^
 ||sdjthl.tvguide.dk^
 ||sdk-*.moengage.com^
