@@ -2,7 +2,7 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-10-23 06:53:09（北京时间）
+! Version: 2026-10-23 10:42:09（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
 ! Total count: 387731
 					# May break iOS Game Center.
@@ -79705,6 +79705,7 @@
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#.bot-per-times
 18comic.vip##IMG[src^='//18comic.vip/media/albums/']
+25.lat
 255.255.255.255 broadcasthost
 3dmgame.com##.alertad
 3dmgame.com##div.content:nth-child(3) > div.Content_R:nth-child(3) > div.dj_warp_e.mg_bt30:nth-child(8)
@@ -82604,7 +82605,6 @@ xlys02.com###ad-index
 xmh/200/200-*.gif
 xxooo.cf###overlay
 xyz:9002/*?x=$third-party
-ybuty.com
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yhdm*.com/js/wap2-jm-ms.js?ver=
 youtube.com##AD-SLOT-RENDERER
