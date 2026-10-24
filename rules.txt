@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-10-25 04:00:25（北京时间）
+! Version: 2026-10-25 07:52:25（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 389849
+! Total count: 389861
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -82608,6 +82608,7 @@ xxooo.cf###overlay
 xyz:9002/*?x=$third-party
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yhdm*.com/js/wap2-jm-ms.js?ver=
+ynews.click
 youtube.com##AD-SLOT-RENDERER
 zb.zhaobiao.cn##.enrol_ad
 zb.zhaobiao.cn##div.box:nth-child(5) > div.advertisement.box:nth-child(2)
@@ -88964,6 +88965,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||7ho8oc3svg.com^
 ||7il3v8owuzvo4cb987lzn2ygiii5t8m.rest^
 ||7imgl76f9cgpbgnh7ik.fxc5fklv2b43juz3hr35h.cyou^
+||7imiy33o9vkqvrggxo2xr8y3.rest^
 ||7imz0d5nay.com^
 ||7info.deshshoppingmart.com^
 ||7istqn6fh.com^
@@ -93299,6 +93301,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||abkargentesnate.qpon^
 ||abkbmamulx.in^
 ||abkdae.namshi.com^
+||abkgsnvrgkikq.online^
 ||abkgu39v.com^
 ||abkhascourage.cyou^
 ||abkifkamcbfls.space^
@@ -114477,7 +114480,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.amarvets.com.br^
 ||api.ammutshirt.com.br^
 ||api.amoracafe.com.br^
-||api.amplitude.com^
 ||api.amplitudeexperiment.com^
 ||api.anactr.com.br^
 ||api.analebear.com^
@@ -114902,7 +114904,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.eternavitrine.com^
 ||api.eu-game-sdk.com^
 ||api.eu-west-1.aiv-delivery.net^
-||api.eu.amplitude.com^
 ||api.eu.hismarttv.com^
 ||api.eudicasdopadrinho.com^
 ||api.euluizsalles.com.br^
@@ -115176,7 +115177,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api.kurobbs.com/config/getOpenScreen*^
 ||api.kwaizt.com^
 ||api.laatus.com.br^
-||api.lab.amplitude.com^
 ||api.lab8oficial.com.br^
 ||api.lafiorestore.com.br^
 ||api.lag.at^
@@ -115838,7 +115838,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||api1.zcloud1.com^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||api168168.com^
-||api2.amplitude.com^
 ||api2.anaonoue.com.br^
 ||api2.boclinkads.com^
 ||api2.brennocisi.com.br^
@@ -135164,7 +135163,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn.ak2yy.com^
 ||cdn.almamedia.tech^
 ||cdn.altitudeplatform.com^
-||cdn.amplitude.com^
 ||cdn.anyshare.icu^
 ||cdn.app.kachapt.cn^
 ||cdn.app.liuxingyul.cn^
@@ -140301,6 +140299,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cnebis.i-no-science.com^
 ||cnect.heggerty.org^
 ||cnej4912jks.com^
+||cnejpkmvsjvft.com^
 ||cnelectrictools.com^
 ||cnesnnavxumlh.online^
 ||cnetcontentsolutions.com^
@@ -164496,6 +164495,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||drjzinnwzaued.space^
 ||drkaq.nlbeauty.bg^
 ||drkcloud.ddns.net^
+||drkmkdnfarrey.site^
 ||drkness.net^
 ||drkxbqfwtunwx.online^
 ||drlagqnl.com^
@@ -169721,6 +169721,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ejfeng.com^
 ||ejfiynnbu.com^
 ||ejfmnj.drcomfort.com^
+||ejfohieuzjdbm.site^
 ||ejfstrkmgwrql.site^
 ||ejfuh.com^
 ||ejggg.richmondcountymemorialpark.com^
@@ -175918,6 +175919,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||fakeimg.pl^
 ||fakeip.org^
 ||fakers.co.jp^
+||fakerstoterframing.qpon^
 ||fakerymethod.shop^
 ||fakeschool.com^
 ||fakexa-post.mno.link^
@@ -178786,6 +178788,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||finewe.ljqnbiogjp.com^
 ||finewedcaserns.com^
 ||finexcu.fmservice.com^
+||finfishamyelia.com^
 ||fingentxystus.shop^
 ||finger-info.net^
 ||fingercough.xyz^
@@ -210313,6 +210316,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||irxcm.com^
 ||irxjqekijejhe.website^
 ||irxoiu.iglucruise.com^
+||irxtrbfehlpvu.online^
 ||irxwjn.toraiz.jp^
 ||irxztgrjaalny.online^
 ||iry7addri8.com^
@@ -222385,6 +222389,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||lhgwneqv.com^
 ||lhgzfet8n.com^
 ||lhhpbaiyufphu.site^
+||lhibnuyxomzqv.space^
 ||lhiefl.com^
 ||lhifppgvxkj.com^
 ||lhippac.cn^
@@ -237103,6 +237108,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mandelbrotdesigngroup.com^
 ||mandialrelay.fr^
 ||mandibula.resettfitness.com.br^
+||mandirpeoplet.com^
 ||mandrill.castingcollective.net^
 ||mandrill.hamptonbeach.live^
 ||mandrill.yellowfruit.co^
@@ -242337,6 +242343,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mautic.jagodo.vn^
 ||mautic.sts.vn^
 ||mautic.teky.edu.vn^
+||mauve-pinkgetawhifftime.com^
 ||mauve-ruffle.shop^
 ||mavalleenumerique.hopto.org^
 ||mavdori.shop^
@@ -252485,6 +252492,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mqjzikvmdjtrb.space^
 ||mqkep.helpmedicalsupplies.com^
 ||mqklihhulkyci.online^
+||mqkosdxagptzh.online^
 ||mqkqwy1z.baylib.top.cdn.cloudflare.net^
 ||mqkvpe.bureau-vallee.fr^
 ||mqldrm.lgcity.ru^
@@ -253772,6 +253780,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mvvpk.particleformen.com^
 ||mvvtyyqmpm.com^
 ||mvwitz.xyz^
+||mvwzqtwvkhgei.site^
 ||mvxrsxfzhccyb.space^
 ||mvxyznqkzzeiq.space^
 ||mvybmqfdkezml.site^
@@ -276569,7 +276578,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||proficator.app^
 ||proficredit.pl^
 ||profil.forum^
-||profile-api.amplitude.com^
 ||profile-update.healthgrades.com^
 ||profile.americanprogress.org^
 ||profile.everydayporn.com^
@@ -283160,6 +283168,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rcvqvgo.com^
 ||rcvriqufiwtct.site^
 ||rcwgoidugaljp.site^
+||rcwjxhashhfyg.online^
 ||rcxbznsriheku.website^
 ||rcxltnjszmheg.space^
 ||rcxtaenbaktmr.site^
@@ -284253,7 +284262,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||regimepropale.qpon^
 ||regionads.ru^
 ||regionalavouchcreeping.com^
-||regionconfig.amplitude.com^
 ||regionews.net^
 ||regionshop.biz^
 ||regiopolis.cloud^
@@ -285940,6 +285948,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rgaagnida.com^
 ||rgarcorsbqfss.online^
 ||rgb9uinh2dej9ri.jacobzhang.de^
+||rgbaayfdyjzou.online^
 ||rgbbrdsrwxxoa.space^
 ||rgbppxtvieoytnoej.org^
 ||rgcatr.7scents.hu^
@@ -317479,7 +317488,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sqzoyfdzlcaoy.site^
 ||sr-ad-lgsmartad-com.aws-prd.net^
 ||sr-cdn.azureedge.net^
-||sr-client-cfg.amplitude.com^
 ||sr.drinkly.com.au^
 ||sr.gereedschapxxl.nl^
 ||sr.protendstayed.com^
@@ -353261,6 +353269,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tracker.anandtech.com^
 ||tracker.anime47.com^
 ||tracker.antartidaarcondicionado.com.br^
+||tracker.arc.io^
 ||tracker.atrapalo.com^
 ||tracker.au.zitcha.app^
 ||tracker.augustinus.digital^
@@ -376303,6 +376312,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wvvw.mc-doualiya.com^
 ||wvvw.rfi.fr^
 ||wvvw.zoa.media^
+||wvvxvfxbbsvcp.space^
 ||wvvzcepbqxkcc.site^
 ||wvwfacebook.com^
 ||wvwrnhzkpousf.online^
@@ -383131,6 +383141,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xvteew.lacoste.jp^
 ||xvtelink.com^
 ||xvtest.net^
+||xvtqdotyggrjt.site^
 ||xvuaguwvreldr.space^
 ||xvuslink.com^
 ||xvuypdknkrndc.site^
@@ -384900,6 +384911,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ylediftrvcae.com^
 ||yleqglofwg6ifb2tft92mn8.rest^
 ||ylerzsljqouki.site^
+||ylfnmfzbplwpg.online^
 ||ylfqm4t2b9j.1qmhlwziglrh1x4hbr.cyou^
 ||ylgdgagginpkp.website^
 ||ylgxpltrimwwd.site^
