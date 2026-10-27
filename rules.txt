@@ -2,9 +2,9 @@
 ! Title: 去广告规则
 ! Homepage: https://github.com/TokenW/666
 ! Expires: 12 Hours
-! Version: 2026-10-27 23:37:23（北京时间）
+! Version: 2026-10-28 04:19:14（北京时间）
 ! Description: 适用于AdGuardHome的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 392642
+! Total count: 392687
 					# May break iOS Game Center.
 					# URLs to their site. 
 					# problems with NPR.org
@@ -5993,6 +5993,7 @@
 *.lijie.*/*_*?$third-party
 */blsx_*_*_*?*$third-party
 -1325890192.cos.
+.0.0 teleiacelj.cyou
 .buzz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
 .buzz/*0*0*0*==$third-party
 .cn/*/o*.js?t=*$domain=12ju.com
@@ -106910,6 +106911,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||agugliaargolid.com^
 ||aguo.com^
 ||agurgeed.net^
+||agusqghqbmsgo.site^
 ||aguvgyqsdak.com^
 ||agv-sale.shop^
 ||agvinfo.kollmorgen.com^
@@ -128180,6 +128182,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bgfhfst0.ihr.eu^
 ||bgfmvc.amandalindroth.com^
 ||bgg.baidu.com^
+||bggombvlvzuc.com^
 ||bggtm.webuildgood.ca^
 ||bggtxv.propac.it^
 ||bghnchdqeffkp.online^
@@ -133898,8 +133901,10 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||bvtwtwp.xyz^
 ||bvubgbokqzyex.site^
 ||bvubje.leboncoin.fr^
+||bvugtbthioppr.online^
 ||bvujr.godiva.com^
 ||bvulkj.orbitbabyusa.com^
+||bvupgholrbbim.website^
 ||bvupjqkxxrgqr.space^
 ||bvvb9.com^
 ||bvvgl.thepaystubs.com^
@@ -137782,6 +137787,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cdn-sentry.flex-charge.com^
 ||cdn-server.cc^
 ||cdn-server.top^
+||cdn-settings.af-sdk.com^
 ||cdn-sitegainer.com^
 ||cdn-social.janrain.com^
 ||cdn-specialdeals.g5e.com^
@@ -140702,6 +140708,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||cjwtfp.esimsar.com^
 ||cjwvyhvwyispv.website^
 ||cjwyzhzjwmzmf.site^
+||cjxlmhgiovyml.website^
 ||cjxomyilmv.com^
 ||cjyaudpjmp.com^
 ||cjzxhimedlzra.online^
@@ -160591,6 +160598,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||debateshindiganymore.com^
 ||debbgringolades.info^
 ||debeka.data.adobedc.net^
+||debelwastageduds.cyou^
 ||debferrara.shop^
 ||debha.nextmeds.com^
 ||debitcrebit669.com^
@@ -167969,6 +167977,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dtmpub.com^
 ||dtmssl.bobcat.com^
 ||dtmxst.66girls.co.kr^
+||dtmylsfobqdff.website^
 ||dtmyp.rollerrabbit.com^
 ||dtnaovwkbdy.com^
 ||dtnaximya.360doc.cn^
@@ -168429,6 +168438,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||dvl8xapgpqgc1.cloudfront.net^
 ||dvleaaamtruzl.site^
 ||dvlmn.swolverine.com^
+||dvloxiskkpxmh.online^
 ||dvmbarfzhhuyq.com^
 ||dvmdwmnyj3u4h.cloudfront.net^
 ||dvmhm.gratsi.com^
@@ -171946,6 +171956,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||egaqgnwwapaqi.site^
 ||egars.safecastle.com^
 ||egaxybiqeramc.space^
+||egayfnkxlzouj.site^
 ||egbggijlkjwoo.space^
 ||egbomingierion.cyou^
 ||egbqvs.vila.com^
@@ -183290,6 +183301,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||foysencourts.shop^
 ||fozekikikiminu.com^
 ||fozhu.rrsdl.com^
+||fozrududhirsf.site^
 ||foztcbbfdnnla.space^
 ||fp-*it*.fengkongcloud.com^
 ||fp-analytics.hotstar.com^
@@ -192036,6 +192048,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||gravityfence.com^
 ||gravitygive.com^
 ||gravitykick.com^
+||gravitypics.com^
 ||gravityrd-services.com^
 ||gravygirls.com^
 ||gravyhuman.com^
@@ -200934,6 +200947,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||head-clickfusion.com^
 ||head3high.com^
 ||headacheaim.com^
+||headbandeau.com^
 ||headbidder.net^
 ||headerbidding.ai^
 ||headerbidding.services^
@@ -207060,6 +207074,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ihlfikzmbeyob.space^
 ||ihmmkvkaiwnilneauhfn.supabase.co^
 ||ihmmmcoobnhxj.website^
+||ihmoflzxkbyrl.space^
 ||ihmonitor.luckincoffee.us^
 ||ihnbqe.shane.co.jp^
 ||ihnnvh.collanaconnome.com^
@@ -209084,6 +209099,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||inapp.1sapp.com^
 ||inappi.co^
 ||inappi.me^
+||inapps.af-sdk.com^
 ||inarkmobilesmissary.qpon^
 ||inateck.fr^
 ||inato.xyz^
@@ -209366,6 +209382,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||inegasghvf.com^
 ||inegolreklam.net^
 ||inencr.woodhouseclothing.com^
+||ineoocqxztbzj.site^
 ||inerrableholddownthrow.com^
 ||ines.zfn.uni-bremen.de^
 ||inesmanila.com^
@@ -217393,6 +217410,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||jwjtbna.com^
 ||jwjvyq.abasteo.mx^
 ||jwkexnqakskaj.online^
+||jwkgfmrxyvavc.site^
 ||jwlcj.marketviewliquor.com^
 ||jwliheqrwgfjp.website^
 ||jwlvlo.icaniwill.dk^
@@ -218625,6 +218643,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||keepcool.yt^
 ||keeper.do.am^
 ||keeper.fs1inc.com^
+||keeperpolearm.cyou^
 ||keepinfit.net^
 ||keepingohs.shop^
 ||keepintouch.sanlam.co.uk^
@@ -219798,6 +219817,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||klgxuwphntkxr.space^
 ||klgyqkigeuxno.store^
 ||klgzzs.cn^
+||klhcabsociuuw.site^
 ||klhczqubhsjgi.store^
 ||klhhiezuiaykb.site^
 ||klhtuvqgsvyzs.online^
@@ -252965,6 +252985,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||mhdufile.1391.com^
 ||mhetjxfaoxeyu.online^
 ||mhfjobnoamzsrx.com^
+||mhglihmafzbhq.site^
 ||mhgu.cn^
 ||mhgulzhluhcvt.space^
 ||mhhanman.xyz/data/my/myjs.js
@@ -261200,6 +261221,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||ngvrtj.icu^
 ||ngvti.thelovery.co^
 ||ngvyktsuuyadu.online^
+||ngxtzhrwqjutg.website^
 ||ngxvojbpnjtjv.space^
 ||ngy1fklz2jm9jx1.rest^
 ||ngygalitlv.com^
@@ -261868,6 +261890,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nkwampojlqbic.space^
 ||nkwnb7.ru^
 ||nkwvwb.fluevog.com^
+||nkxnwsdyxipgb.online^
 ||nkyavipvkfxgo.online^
 ||nkydma.newbuild.studio^
 ||nkyhhjrnguuhu.site^
@@ -263125,6 +263148,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||nqhtwgphsgujn.space^
 ||nqifvntxhqpxx.store^
 ||nqjyv.wsjwine.com^
+||nqledtidlheid.space^
 ||nqljdnuxzkozi.site^
 ||nqma.net^
 ||nqn7la7.de^
@@ -265957,6 +265981,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||oixxx.shop^
 ||oiya.ru^
 ||oiycak.com^
+||oiyivlyqglj.com^
 ||oiylclkpohspa.space^
 ||oizqaraplcgnr.online^
 ||oj.429men.com^
@@ -266262,7 +266287,6 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||olevendaai.com^
 ||olevi.shop^
 ||olfdr.dxl.com^
-||olg8ykv79ez.yir788l7myrcivlyipj3glgr.cfd^
 ||olgtex.com^
 ||olgusnxobcokr.online^
 ||olhcreogha.in^
@@ -269353,6 +269377,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||outvierpeteca.cyou^
 ||outwarddesert.com^
 ||outwardtimetable.com^
+||outweepmoonbowrechip.cyou^
 ||outwzgpoxbplr.website^
 ||outyardjunco.com^
 ||ouujbg.farmaspeed.it^
@@ -282183,6 +282208,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pw7t90o9kvccsjp2pjxgzessp.online^
 ||pwaefamkqslht.site^
 ||pwaoyd.kras.nl^
+||pwawlikobyjyb.online^
 ||pwbs.l9c4s.cn^
 ||pwbxyinigxrju.website^
 ||pwc.pravda.com.ua^
@@ -282244,6 +282270,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pwyamrbild.in^
 ||pwysrdjxbbplu.space^
 ||pwyszrmgegrpk.website^
+||pwzmqxcyiwiuq.site^
 ||pwzrfznosfblpi.com^
 ||pwzxkpphqoeby.store^
 ||px*.mediahills.ru^
@@ -282525,6 +282552,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||pznjw.loveyagutsbox.com^
 ||pznri.crocs.de^
 ||pzoapdfmzfrqz.website^
+||pzolt5bhhkjr6i8lmvbb8v1b8tvlk83.rest^
 ||pzovr.cc^
 ||pzpcbt.icu^
 ||pzpvweoxjm.com^
@@ -282820,6 +282848,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qbuqxddcgzenn.site^
 ||qbvcuszlpbegh.online^
 ||qbvhs.sistaco.co.uk^
+||qbwbwqluhpsdv.space^
 ||qbwebeboqbyrb.top^
 ||qbwkux.home24.at^
 ||qbwniy.baldur-garten.at^
@@ -283284,6 +283313,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||qhkkpxtwoikbq.site^
 ||qhkxs.cn^
 ||qhl.bealge.sogou.com^
+||qhlxrqyehsqcu.space^
 ||qhmeo.r5xctuccxf25fk18ffu.cyou^
 ||qhmgcdewqmsjm.online^
 ||qhnan.swagbowling.com^
@@ -284682,6 +284712,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||quicknora.com^
 ||quickpayouts.online^
 ||quickpcfixer.click^
+||quickpints.com^
 ||quickpromo.live^
 ||quickproxies.com^
 ||quickq-jsq.com^
@@ -287759,6 +287790,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||reluctancefleck.com^
 ||reluctancegenetic.com^
 ||reluctantlyaluminiumput.com^
+||relumesarchgod.com^
 ||relumineddduncleanliness.info^
 ||relxtu.mlabs.com.br^
 ||relyonit.americanexpress.co.uk^
@@ -292918,6 +292950,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||rzpzmpkkdgjqg.website^
 ||rzrhpduwthrxl.space^
 ||rzrnpx.icu^
+||rzsaqctbpfatk.space^
 ||rzsgxmm.cn^
 ||rzskji.holyart.it^
 ||rzsqfxjdrtdsc.online^
@@ -295514,6 +295547,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||sanguineslang.com^
 ||sanifieytksm.com^
 ||sanitaer-meier.de^
+||sanitgrumpedgluma.cfd^
 ||sanity-dataplane.rudderstack.com^
 ||sanjagh.com^
 ||sanjagh.net^
@@ -351958,6 +351992,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||tmnbdupr.com^
 ||tmnkaqnaubucu.site^
 ||tmochyf.cn^
+||tmofitpuvbuqf.online^
 ||tmopcaxczgrgb.store^
 ||tmozs.com^
 ||tmpbr.getgifted.com^
@@ -361971,6 +362006,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||twfcgu.the-couple.com^
 ||twfovierbz.com^
 ||twfqi9im3v.com^
+||twftnvzbixaua.website^
 ||twgjl.joico.com^
 ||twgtgpovwbqdy.website^
 ||twgzgqqu.com^
@@ -362232,6 +362268,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||txtxz.org.cn^
 ||txtyuzhaiwu.com/astyle/wap.js
 ||txuhemruolwut.website^
+||txuiz8ko6y7h1nynkc2km81b.cfd^
 ||txupuq.unyleya.edu.br^
 ||txuqrrcpnnsye.online^
 ||txutayo.com^
@@ -368016,6 +368053,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vafsxc.radioparts.com.au^
 ||vafysu.ecco-verde.ch^
 ||vagabahq.canapandolab.net^
+||vagasvindex.com^
 ||vagrejaba.com^
 ||vague-key.com^
 ||vaguefact.pro^
@@ -368863,6 +368901,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||vega-casino.fr^
 ||vegabet.net^
 ||vegacasino.fr^
+||vegafbyqvlhux.online^
 ||vegamemon.volces.com^
 ||vegan.vegan-masterclass.de^
 ||vegandietary.com^
@@ -376865,6 +376904,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||widget.allkeyshop.com^
 ||widget.block4d.com^
 ||widget.blogram.jp^
+||widget.brambles.ai^
 ||widget.brand-fresh.it^
 ||widget.breakingburner.com^
 ||widget.cdn.vidyome.com^
@@ -382375,6 +382415,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||wydk6zdk2.com^
 ||wydll.houseofindya.com^
 ||wydpt.com^
+||wydtnufghcmin.online^
 ||wydxzmsykhspk.site^
 ||wyebbkxinxgud.website^
 ||wyelmp.vidaxl.si^
@@ -385487,6 +385528,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xqwkknpn.betterclaw.io^
 ||xqwsuagia.com^
 ||xqxplqzqywvcj.website^
+||xqxuilrabeaab.website^
 ||xqxvqu.exoticca.net^
 ||xqyts.tantusinc.com^
 ||xqyubbzfvfbtl.site^
@@ -386080,6 +386122,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||xxhtuyqbjcqrq.site^
 ||xxipyvnzwzxmq.online^
 ||xxjiqg.oysho.com^
+||xxjiqlgavcvru.online^
 ||xxjvha.timex.com^
 ||xxkagukmsbtbp.site^
 ||xxkcygkzdchkf.space^
@@ -388829,6 +388872,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||yvbcuorcvinxz.online^
 ||yvbird.sonitech.jp^
 ||yvbomganitwrn.site^
+||yvbvzqvdnohgg.com^
 ||yvcchjdiqzpog.rocks^
 ||yvcjyi.beymen.com^
 ||yvdaeg.on-running.com^
@@ -390074,6 +390118,7 @@ zol.com.cn##A.dingtong.xianshiyouhui
 ||zdybhgdlpashv.website^
 ||zdynppqtiqilb.website^
 ||zdyppmsczfvyu.website^
+||zdzjammdgxhsl.website^
 ||zdznsqb.com^
 ||zdzxbbfuthazp.space^
 ||zdzyuqnezvjiq.site^
